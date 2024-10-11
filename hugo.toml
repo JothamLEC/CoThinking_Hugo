@@ -51,8 +51,16 @@ ignoreErrors = ["error-disable-taxonomy"]
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
 
-[menus]
-  [[menus.main]]
-    name = "Main Site"
-    url = "https://cothink.ing"
-    weight = 1
+# [menus]
+  # [[menus.main]]
+  #   name = "Projects"
+  #   pageReg = "projects"
+  #   weight = 99
+  # [[menus.main]]
+  #   name = "Notes"
+  #   pageReg = "notes"
+  #   weight = 2
+  # [[menus.main]]
+  #   name = "Main Site"
+  #   url = "https://cothink.ing"
+  #   weight = 1

@@ -4,6 +4,7 @@ title = "Home"
 description = "CoThinking's Blog and Resources."
 +++
 
+
 # Hi! Jotham Here 👋
 
 I run a team of marketing professionals providing boutique services to B2B companies.
@@ -13,6 +14,7 @@ Here you can find more details on the [projects]({{< ref "projects" >}}) we're c
 Feel free to also browse my [blog]({{< ref "/blog" >}}) where I share information about mental health, technology, productivity and more.
 
 ### Links
+- [Return to mainpage](https://cothink.ing)
 - [LinkedIn](https://www.linkedin.com/in/jothamlec/)
 - [Email](mailto:jotham@cothink.ing)
 - [WhatsApp](https://wa.me/+60176421337)
