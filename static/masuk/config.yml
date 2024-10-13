@@ -2,20 +2,19 @@ backend:
   name: github
   repo: JothamLEC/CoThinking_Hugo
   branch: master # Branch to update (optional; defaults to master)
-  base_url:  https://blog.cothink.ing
+  base_url: https://blog.cothink.ing
   auth_endpoint: /api/auth
 media_folder: static/image/uploads
 public_folder: /image/uploads
 collections:
-  - name: 'notes'
-    label: 'Notes'
-    folder: 'content/notes'
+  - name: "notes"
+    label: "Notes"
+    folder: "content/notes"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
