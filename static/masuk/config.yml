@@ -1,15 +1,15 @@
 backend:
   name: github
-  repo: username/repo
-  branch: main # Branch to update (optional; defaults to master)
-  base_url: https://example.com
+  repo: JothamLEC/CoThinking_Hugo
+  branch: master # Branch to update (optional; defaults to master)
+  base_url:  https://blog.cothink.ing
   auth_endpoint: /api/auth
-media_folder: static/img
-public_folder: /img
+media_folder: static/image/uploads
+public_folder: /image/uploads
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'notes'
+    label: 'Notes'
+    folder: 'content/notes'
     create: true
     slug: '{{slug}}'
     editor:
