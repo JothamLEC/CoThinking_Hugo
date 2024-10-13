@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: JothamLEC/CoThinking_Hugo
-  use_graphql: true
+  name: git-gateway
+  # repo: JothamLEC/CoThinking_Hugo
 
 # site_url: https://blog.cothink.ing
 
