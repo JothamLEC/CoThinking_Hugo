@@ -9,7 +9,7 @@ draft = false
 
 ---
 
-{{< figure src="attach/b8eefb1c4e81b858b77cb601ea13a607_MD5.jpg" >}}
+{{< figure src="/img/b8eefb1c4e81b858b77cb601ea13a607_MD5.jpg" >}}
 
 > A good tool improves the way you work. A great tool improves the way you think.
 >
@@ -113,7 +113,7 @@ Additionally, there's a lack of immediate benefits — trend data becomes meanin
 
 ## Tools For Time-Tracking {#tools-for-time-tracking}
 
-{{< figure src="attach/81eed99a67c1cde7a559e848f86c5434_MD5.png" >}}
+{{< figure src="/img/81eed99a67c1cde7a559e848f86c5434_MD5.png" >}}
 
 ### Editor's Pick: [ATracker](https://atracker.pro/home.html?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=an-entrepreneur-s-guide-to-effective-time-tracking) {#editor-s-pick-atracker}
 
@@ -125,7 +125,7 @@ I wear my Apple Watch frequently throughout the day, making timer switching less
 
 #### Always In View {#always-in-view}
 
-{{< figure src="attach/573450b963ff21cdb15dd27612ab0d7f_MD5.jpg" >}}
+{{< figure src="/img/573450b963ff21cdb15dd27612ab0d7f_MD5.jpg" >}}
 
 ATracker has a decent large-sized complication for my Modular Watchface, letting me know the timer name, duration, and start time — the only three pieces of information I need to make an informed decision. It may seem trivial, but other apps overcomplicate their displays with the separation of projects and descriptions and various icons, which is more distracting than helpful.
 
@@ -133,19 +133,19 @@ ATracker also has great "Live Activities" and "Dynamic Island" functionality, wh
 
 #### Its Speed is Unmatched {#its-speed-is-unmatched}
 
-{{< figure src="attach/95bae570d12e50504b66462b06e3ebcc_MD5.gif" >}}
+{{< figure src="/img/95bae570d12e50504b66462b06e3ebcc_MD5.gif" >}}
 
 ATracker uses a local-first-then-sync methodology — this means that switching timers is practically instantaneous. This is different from apps that require internet connectivity (sorry Toggl), which means that I had to wait a few seconds for my new timer to reflect before I could confidently look away from my phone/watch. Because of its reliance on the internet, timer switching is impossible overseas and slow when I'm without Wi-Fi in places without a strong 5G connection.
 
 Because ATracker is local-first, I am also extremely confident that the timer displayed on the widgets, Live Activities, and Dynamic Island are all up to date — in contrast to internet-reliant options where these displays only refresh every 15 minutes to conserve battery life.
 
-{{< figure src="attach/b26858bf0f67485df7eaec2177c78b64_MD5.jpg" >}}
+{{< figure src="/img/b26858bf0f67485df7eaec2177c78b64_MD5.jpg" >}}
 
 I also like how incredibly easy it is to adjust start and end times using time intervals and the "last," "Now," and "fill gap" buttons.
 
 #### I Like Their Monetisation Policies {#i-like-their-monetisation-policies}
 
-{{< figure src="attach/b1b3e8a87e31c1f3642614b42577b138_MD5.jpg" >}}
+{{< figure src="/img/b1b3e8a87e31c1f3642614b42577b138_MD5.jpg" >}}
 
 There's no real reason to upgrade to the paid version of ATracker. The free version comes with all the features that make the app great to use.
 
@@ -157,11 +157,11 @@ There is a subscription tier that I find unnecessary for my use case. It syncs y
 
 The app comes with a great tagging and goal system, which replaces the "client" and "habits" available in other apps, both of which are trackable within the reports tab.
 
-{{< figure src="attach/17adf3f408666bef54cd669d670c0d5c_MD5.jpg" >}}
+{{< figure src="/img/17adf3f408666bef54cd669d670c0d5c_MD5.jpg" >}}
 
 It is also the only app I've found so far that makes full use of the horizontal and vertical rows of my phone screen space — with the vertical axis being the hours and the horizontal axis being the minutes in said hour. A quick glance at the colours on screen is a good way of telling how much time is spent on a given day. This is different from a typical calendar, where a short 15-minute duration is just a tiny slither on screen.
 
-{{< figure src="attach/37881930142093a1cfbc44b680fe6cc1_MD5.gif" >}}
+{{< figure src="/img/37881930142093a1cfbc44b680fe6cc1_MD5.gif" >}}
 
 In fact, I find ATracker's report functionality relatively more robust than other tools I found — you can easily filter reports by duration, date, tasks, tags, and goals. Another cool feature I rarely find elsewhere is the ability to track occurrences in addition to duration captured — which is great for users who want to track, say, how many times they spent reviewing emails a day.
 
@@ -169,11 +169,11 @@ In fact, I find ATracker's report functionality relatively more robust than othe
 
 The homescreen widget is, albeit ugly, functional and straightforward to use. But it could make better use of the dead space, and the design feels somewhat underdeveloped.
 
-{{< figure src="attach/ead3c56acfc158a5af0ec2bec3d179cc_MD5.gif" >}}
+{{< figure src="/img/ead3c56acfc158a5af0ec2bec3d179cc_MD5.gif" >}}
 
 I also dislike how clicking on the widget doesn't change timers immediately and instead opens up the app. It doesn't even automatically direct you to the "Today" tab if you were on another tab previously.
 
-{{< figure src="attach/9b1491569bb88a1e855b7b714910dd95_MD5.jpg" >}}
+{{< figure src="/img/9b1491569bb88a1e855b7b714910dd95_MD5.jpg" >}}
 
 Additionally, I feel that the Dynamic Island is too narrow to include the full task name, and it could make do with a coloured icon rather than a white one.
 
@@ -219,7 +219,7 @@ For freelancers, it makes sense to track only working hours and segregate them b
 
 Personally, the way I time-track is inspired by [David Sparks](https://www.macsparky.com/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=an-entrepreneur-s-guide-to-effective-time-tracking) from MacSparky and the [Mac Power Users](https://www.relay.fm/mpu?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=an-entrepreneur-s-guide-to-effective-time-tracking) podcast. He builds his to-do list system around the idea of _arete_, an ancient Greek term describing excellence within purpose and function. In non-fancy terms, it means separating tasks based on roles in life, and I adopted his methodology for time-tracking instead.
 
-{{< figure src="attach/fa327740b35819137817a0b64cf6ac51_MD5.jpg" >}}
+{{< figure src="/img/fa327740b35819137817a0b64cf6ac51_MD5.jpg" >}}
 
 Each task in ATracker is named after a role I adopt in life — such as being a department manager, creator of this newsletter, or becoming a HealthyGamer coach. I bundle all daily upkeep activities such as eating, bathing, and cleaning the house under maintenance. Transition refers to dead time between two tasks, such as grabbing coffee or a bathroom break. The rest is pretty self-explanatory.
 

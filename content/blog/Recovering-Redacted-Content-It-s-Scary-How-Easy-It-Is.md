@@ -9,7 +9,7 @@ draft = false
 
 ---
 
-{{< figure src="attach/7b14d4a538bfda2f95c86516db0cb568_MD5.jpg" >}}
+{{< figure src="/img/7b14d4a538bfda2f95c86516db0cb568_MD5.jpg" >}}
 
 - \***\*Blurred and pixelated images can often be reverse-engineered\*\*** _to reveal censored details, making them unreliable for secure redaction._
 
@@ -31,7 +31,7 @@ This sent me down a deep rabbit hole of the (lack of) security — of **not just
 
 ## Non-destructive Editing — Images and Text {#non-destructive-editing-images-and-text}
 
-{{< figure src="attach/cfd04ff3c0a606e40d7d47c9f2440ac2_MD5.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Mr Swirl Face. Source: BBC" >}}
+{{< figure src="/img/cfd04ff3c0a606e40d7d47c9f2440ac2_MD5.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Mr Swirl Face. Source: BBC" >}}
 
 I'll start with the history of [Christopher Paul Neil](https://en.wikipedia.org/wiki/Christopher_Paul_Neil%20?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is), or Vico, his assigned nickname within the Interpol operation.
 
@@ -79,7 +79,7 @@ On the flip side, this deciphering method is versatile in theory — allowing us
 
 ### Image De-blurring {#image-de-blurring}
 
-{{< figure src="attach/d40034f4de1cf1a0f1446b4da786a3a7_MD5.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Face de-pixelation demonstration. Source: Google Brain" >}}
+{{< figure src="/img/d40034f4de1cf1a0f1446b4da786a3a7_MD5.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Face de-pixelation demonstration. Source: Google Brain" >}}
 
 Apparently, a [2017 Google project](https://newatlas.com/google-brain-pixel-recursive-super-resolution/47803/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is) had already found ways to fill in details of very low-res images. They're not exactly accurate, but it's amazing how much information it can extract with such limited input. But also imagine how much this technology has advanced, now with AI advancements and the availability of high-quality training data.
 
@@ -91,7 +91,7 @@ I've found a [GitHub repo](https://github.com/subeeshvasu/awesome-deblurring?ref
 
 But for pixelated images, the technology essentially involves deep learning (DL) techniques and non-deep learning (non-DL) techniques.
 
-{{< figure src="attach/799c2e4b843b1ac13fa923a8cad8a266_MD5.gif" caption="<span class=\"figure-number\">Figure 4: </span>It even works with Video. Source: Github" >}}
+{{< figure src="/img/799c2e4b843b1ac13fa923a8cad8a266_MD5.gif" caption="<span class=\"figure-number\">Figure 4: </span>It even works with Video. Source: Github" >}}
 
 **DL Characteristics**:
 
@@ -115,7 +115,7 @@ But for pixelated images, the technology essentially involves deep learning (DL)
 
 I can't find any case studies on image de-blurring being used to reverse censorship, but it is certainly being used by police authorities.
 
-{{< figure src="attach/f48f85ee064eaee45ddf1ded98a2a60e_MD5.jpg" caption="<span class=\"figure-number\">Figure 5: </span>Different de-blurring algorithms. Source: Journal of Physics" >}}
+{{< figure src="/img/f48f85ee064eaee45ddf1ded98a2a60e_MD5.jpg" caption="<span class=\"figure-number\">Figure 5: </span>Different de-blurring algorithms. Source: Journal of Physics" >}}
 
 There was [a case involving CCTV footage of a violent crime in Delhi](https://iopscience.iop.org/article/10.1088/1742-6596/1917/1/012024/pdf?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is), but the footage was so blurred that the perpetrator could not be identified, despite being directly in front of the camera. De-blurring then played a crucial role in face detection, which led to better suspect identification. (I wonder if it's a more cost effective option than better CCTV investments.)
 
@@ -123,7 +123,7 @@ You can even try out de-blurring for free through Github projects like [DeepMosa
 
 ## Black Bar Redaction {#black-bar-redaction}
 
-{{< figure src="attach/f093dde645a4d63626fc83a8da300e2b_MD5.jpg" caption="<span class=\"figure-number\">Figure 6: </span>Google search results for \"Document Redaction\"" >}}
+{{< figure src="/img/f093dde645a4d63626fc83a8da300e2b_MD5.jpg" caption="<span class=\"figure-number\">Figure 6: </span>Google search results for \"Document Redaction\"" >}}
 
 I'd comfortably say that black bar redaction is the industry standard. In fact, it's the only thing that comes up while googling the term "redaction".
 
@@ -131,25 +131,25 @@ Even then, the adage still rings true — if it's not destructive, it's likely r
 
 - An example would be **black highlights**, which is different from a proper redaction feature. Here's a [Reddit post](https://www.reddit.com/r/wellthatsucks/comments/i1cdpl/the_difference_between_redacting_and_just/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is) of a user copying redacted text into a clipboard by simply highlighting the redacted areas.
 
-{{< figure src="attach/566ed573a74f339583dd0342362bc2ac_MD5.gif" caption="<span class=\"figure-number\">Figure 7: </span>Redacted text being bypassed with a simple highlight + copy &amp; paste. Source: [Reddit](https://www.reddit.com/r/wellthatsucks/comments/i1cdpl/the_difference_between_redacting_and_just/?utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is)" >}}
+{{< figure src="/img/566ed573a74f339583dd0342362bc2ac_MD5.gif" caption="<span class=\"figure-number\">Figure 7: </span>Redacted text being bypassed with a simple highlight + copy &amp; paste. Source: [Reddit](https://www.reddit.com/r/wellthatsucks/comments/i1cdpl/the_difference_between_redacting_and_just/?utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is)" >}}
 
 - This also applies to covering the target text with black boxes. If saved improperly, users can simply remove the box layer in Adobe Illustrator or any PDF editor.
 
-{{< figure src="attach/234462d839ca70d1457a02c458a650c5_MD5.gif" caption="<span class=\"figure-number\">Figure 8: </span>Removing black boxes by simply moving them using PDF tools" >}}
+{{< figure src="/img/234462d839ca70d1457a02c458a650c5_MD5.gif" caption="<span class=\"figure-number\">Figure 8: </span>Removing black boxes by simply moving them using PDF tools" >}}
 
 - Sensitive information may also exist within the PDF's raw data. It could easily be extracted simply by converting the PDF into text, or for the more technically competent, digging through the source code.
 
-{{< figure src="attach/449ada1f35a2950eb7f5144019fabba0_MD5.jpg" caption="<span class=\"figure-number\">Figure 9: </span>Extracting hidden text by converting PDFs into TXT files" >}}
+{{< figure src="/img/449ada1f35a2950eb7f5144019fabba0_MD5.jpg" caption="<span class=\"figure-number\">Figure 9: </span>Extracting hidden text by converting PDFs into TXT files" >}}
 
 ## Obfuscating Passwords Using Asterisks {#obfuscating-passwords-using-asterisks}
 
 A quick note regarding asterisk obfuscation: it's crucial that you complete your login process and not leave it unattended halfway — don't assume it's safe just because the password is censored.
 
-{{< figure src="attach/337e087b78151873f7bba29f787fbba4_MD5.gif" caption="<span class=\"figure-number\">Figure 10: </span>Revealing password is as simple as editing HTML code in client browser" >}}
+{{< figure src="/img/337e087b78151873f7bba29f787fbba4_MD5.gif" caption="<span class=\"figure-number\">Figure 10: </span>Revealing password is as simple as editing HTML code in client browser" >}}
 
 I've managed to find this flaw in KWSP's EPF login page — bypassing the censorship by simply editing a simple HTML line. There are also times when I can retrieve censored passwords by simply copying them to my clipboard and pasting them somewhere else
 
-{{< figure src="attach/1997c74292de2d88e927602dc802736f_MD5.gif" caption="<span class=\"figure-number\">Figure 11: </span>Maybank's login system is harder to bypass" >}}
+{{< figure src="/img/1997c74292de2d88e927602dc802736f_MD5.gif" caption="<span class=\"figure-number\">Figure 11: </span>Maybank's login system is harder to bypass" >}}
 
 Fortunately, Maybank's login page has implemented security measures against this — implementing some form of encryption and randomly generated UUID upon every keypress. They even restrict right-clicks on the webpage and any password manager's autocomplete system. I have yet to try it out on the other banking portals just yet.
 
@@ -157,7 +157,7 @@ Fortunately, Maybank's login page has implemented security measures against this
 
 Another form of censorship is to remove entire sections by simply cropping the image. This, unfortunately, is not entirely safe either.
 
-{{< figure src="attach/bc38802a3ab7da688b615ce1dae1505e_MD5.jpg" caption="<span class=\"figure-number\">Figure 12: </span>Pro geo-guesser discovers more un-cropped image data in RAW file. Source: RainBolt" >}}
+{{< figure src="/img/bc38802a3ab7da688b615ce1dae1505e_MD5.jpg" caption="<span class=\"figure-number\">Figure 12: </span>Pro geo-guesser discovers more un-cropped image data in RAW file. Source: RainBolt" >}}
 
 As it turns out, you could un-crop JPEG files as well. The Acropalypse is a vulnerability discovered in 2023, allowing users to view an un-cropped version of screenshots captured using [several variants of Google Pixel phones](https://www.androidpolice.com/android-pixel-markup-exploit-discord-acropalypse/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is). In 2018, the new version of Android (Pie) was released, and the phones received a new screenshot editor called Markup. It took years for the issue to be brought up after a user found it strange that a cropped image had an abnormally large file size, which led to the discovery. A [patch was released on March 13](https://9to5google.com/2023/03/13/android-13-qpr2-pixel-feature-drop/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is) to fix them.
 
@@ -170,7 +170,7 @@ You can try un-cropping the affected photos yourself by using the free tools her
 
 Given the vulnerabilities in document redaction, how should we go about properly redacting documents and images then? Personally, I think the best resources come from the [Legal &amp; Defence sectors](https://www.alsd.uscourts.gov/best-practices-redaction-information?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is) because information redaction is integral to their operations. But here are some key ideas I've managed to capture:
 
-{{< figure src="attach/f09475bd3edf5f07d032943da1ed25bd_MD5.jpg" caption="<span class=\"figure-number\">Figure 13: </span>Sample of proper redaction techniques" >}}
+{{< figure src="/img/f09475bd3edf5f07d032943da1ed25bd_MD5.jpg" caption="<span class=\"figure-number\">Figure 13: </span>Sample of proper redaction techniques" >}}
 
 1.  **Replace sensitive text with "[redacted]".** Firstly, replacing the text entirely obfuscates the length of the redacted text, while you can guesstimate the length of the redacted text using black bars. Plus, replacing the text entirely is less likely to result in user error, unlike black boxes which could go either way.
 

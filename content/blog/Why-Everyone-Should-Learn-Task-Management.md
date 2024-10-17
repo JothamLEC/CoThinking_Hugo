@@ -9,7 +9,7 @@ draft = false
 
 ---
 
-{{< figure src="attach/982100bf106ffb64c02b8152cb66a69b_MD5.png" >}}
+{{< figure src="/img/982100bf106ffb64c02b8152cb66a69b_MD5.png" >}}
 
 Thanks to the availability of AI tools like ChatGPT, completing tasks is easier than ever before.
 
