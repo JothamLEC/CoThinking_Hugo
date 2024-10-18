@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://blog.cothink.ing"
+baseURL = "https://cothink.ing"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -54,7 +54,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [menus]
   [[menus.main]]
     name = "Projects"
-    pageReg = "projects"
+    pageRef = "projects"
     weight = 99
   [[menus.main]]
     name = "Agency Site"
