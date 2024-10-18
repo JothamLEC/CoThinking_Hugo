@@ -2,7 +2,7 @@
 title = "Why We Don't Grow Despite Constantly Learning"
 author = ["Jotham Lim"]
 date = 2024-10-18
-slug = Why-We-Don-t-Grow-Despite-Constantly-Learning
+slug = "Why-We-Don-t-Grow-Despite-Constantly-Learning"
 tags = ["mental_health", "productivity"]
 +++
 

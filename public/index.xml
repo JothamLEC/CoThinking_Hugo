@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Thinking Together ᕕ( ᐛ )ᕗ</title>
+    <title>Home on CoThinking — Thinking Together</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Thinking Together ᕕ( ᐛ )ᕗ</description>
+    <description>Recent content in Home on CoThinking — Thinking Together</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, CoThinking.</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why We Don&#39;t Grow Despite Constantly Learning</title>
+      <link>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</guid>
+      <description>&lt;p&gt;Being stagnant; feeling stuck; unable to move forward in life.&lt;/p&gt;&#xA;&lt;p&gt;These are the emotions that compelled most of my clients to sign up for mental health coaching services. But what astonished me was that these clients are not short on aspiration. They are competent, confident in their own abilities, but are frustrated at their inability to demonstrate them.&lt;/p&gt;&#xA;&lt;p&gt;When asked about their growth journey, many of them read self-help books, listen to podcasts or watch videos on personal productivity, stoicism and relationships. At times, these resources are helpful in making a meaningful impact on their lives. But at others, it gives off a faux sense of progress on what is effectively mindless content consumption.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Russian Technology Can Build Malaysia&#39;s Digital Sovereignty</title>
       <link>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</link>
@@ -49,7 +56,7 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h1 id=&#34;note-webpage-under-construction&#34;&gt;[!Note] Webpage Under Construction&lt;/h1&gt;</description>
+      <description>&lt;h2 id=&#34;current-working-on&#34;&gt;Current working on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;State of PropTech 2025 for Malaysia Proptech Association.&lt;/li&gt;&#xA;&lt;li&gt;Web Development for Data company&lt;/li&gt;&#xA;&lt;li&gt;Web Development for International low-code/no-code company&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;archived-projects&#34;&gt;Archived Projects&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before Oct 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://theedgemalaysia.com/author/Jotham%20Lim?page=1&#34;&gt;Cover &amp;amp; featured articles from TheEdge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Innov8tif.com&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manage marketing department&lt;/li&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;li&gt;Lead magnet creation&lt;/li&gt;&#xA;&lt;li&gt;Campaign Management&lt;/li&gt;&#xA;&lt;li&gt;Email Drip Automation&lt;/li&gt;&#xA;&lt;li&gt;Event management&lt;/li&gt;&#xA;&lt;li&gt;Public Relations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vaaz.me&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ORLIG&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manage marketing department&lt;/li&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;li&gt;Lead magnet creation&lt;/li&gt;&#xA;&lt;li&gt;Campaign Management&lt;/li&gt;&#xA;&lt;li&gt;Email Drip Automation&lt;/li&gt;&#xA;&lt;li&gt;Event Management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ANBIZ&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

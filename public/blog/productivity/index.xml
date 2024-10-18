@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Productivity on Thinking Together ᕕ( ᐛ )ᕗ</title>
+    <title>Productivity on CoThinking — Thinking Together</title>
     <link>http://localhost:1313/blog/productivity/</link>
-    <description>Recent content in Productivity on Thinking Together ᕕ( ᐛ )ᕗ</description>
+    <description>Recent content in Productivity on CoThinking — Thinking Together</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, CoThinking.</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why We Don&#39;t Grow Despite Constantly Learning</title>
+      <link>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</guid>
+      <description>&lt;p&gt;Being stagnant; feeling stuck; unable to move forward in life.&lt;/p&gt;&#xA;&lt;p&gt;These are the emotions that compelled most of my clients to sign up for mental health coaching services. But what astonished me was that these clients are not short on aspiration. They are competent, confident in their own abilities, but are frustrated at their inability to demonstrate them.&lt;/p&gt;&#xA;&lt;p&gt;When asked about their growth journey, many of them read self-help books, listen to podcasts or watch videos on personal productivity, stoicism and relationships. At times, these resources are helpful in making a meaningful impact on their lives. But at others, it gives off a faux sense of progress on what is effectively mindless content consumption.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>An Entrepreneur&#39;s Guide to Effective Time-Tracking</title>
       <link>http://localhost:1313/an-entrepreneurs-guide-to-effective-time-tracking/</link>

@@ -6,7 +6,7 @@ baseURL = "https://blog.cothink.ing"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Thinking Together ᕕ( ᐛ )ᕗ"
+title = "CoThinking — Thinking Together"
 author = "Jotham Lim"
 copyright = "Copyright © 2024, CoThinking."
 languageCode = "en-US"
@@ -23,7 +23,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "A blog for CoThinking, where I share thoughts on technology, "
+  description = "Hi, Jotham here. I provide digital marketing services to B2B companies. Cerfified career & mental health coach, and blogs about work & life."
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -33,16 +33,16 @@ ignoreErrors = ["error-disable-taxonomy"]
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
-  images = ["brand/featured.jpg"]
+  images = ["images/featured.jpg"]
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Thinking Together"
+  title = "CoThinking — Thinking Together"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
-  # hideMadeWithLine = true
+  hideMadeWithLine = true
 
   # By default, this theme displays dates with a format like "02 Jan, 2006", but
   # you can customize it by setting the `dateFormat` param in your site's config
@@ -51,16 +51,12 @@ ignoreErrors = ["error-disable-taxonomy"]
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
 
-# [menus]
-  # [[menus.main]]
-  #   name = "Projects"
-  #   pageReg = "projects"
-  #   weight = 99
-  # [[menus.main]]
-  #   name = "Notes"
-  #   pageReg = "notes"
-  #   weight = 2
-  # [[menus.main]]
-  #   name = "Main Site"
-  #   url = "https://cothink.ing"
-  #   weight = 1
+[menus]
+  [[menus.main]]
+    name = "Projects"
+    pageReg = "projects"
+    weight = 99
+  [[menus.main]]
+    name = "Agency Site"
+    url = "https://agency.cothink.ing"
+    weight = 1

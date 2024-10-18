@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cybersecurity/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/mental_health/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/productivity/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cybersecurity/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</loc>
@@ -26,9 +35,6 @@
     <loc>http://localhost:1313/blog/entrepreneurship/</loc>
     <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/productivity/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/will-chatgpt-replace-writers/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,8 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/why-everyone-should-learn-task-management/</loc>
     <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url>
