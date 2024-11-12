@@ -1,5 +1,6 @@
 #+title:      How Russian Technology Can Build Malaysia's Digital Sovereignty
 #+filetags:   :article:cothinking:
+#+OPTIONS: d:(not "LOGBOOK")
 #+date: 2024-08-01
 #+DESCRIPTION: Malaysian companies face rising cybersecurity threats following rapid cloud adoption. This report examines how Russian firm eXpress.ms aims to address these vulnerabilities with their digital sovereignty-focused technology. We explore the company's approach, its success in Russia, and why they see Malaysia as a key market for expansion.
 
@@ -37,12 +38,6 @@ At first glance, eXpress.ms appears as a direct competition to players such as Z
 For context, Rosneft is the largest oil producer in Russia, controlling over 40% of the country's total oil production, while Rosatom is a state corporation focused on Nuclear energy, responsible for 20% of Russia’s electricity production.
 
 ** Building walled gardens for corporations
-:PROPERTIES:
-:CUSTOM_ID: h:2ea9a031-eba0-466a-af01-cc54e3f9bd25
-:END:
-:LOGBOOK:
-CLOCK: [2024-10-01 Tue 15:15]--[2024-10-01 Tue 15:33] =>  0:18
-:END:
 
 #+ATTR_HTML: :alt Mobile preview of eXpress.ms messenger
 [[../media/_Screenshot_2.jpeg]]
@@ -866,12 +861,3 @@ sovereign country you doesn't rely on foreign services foreign clouds
 and so on and we are and the communication is an important part of this
 important part of the digital sovereignty that's it that's the purpose
 for which the express was built
-* Clock :noexport:
-#+BEGIN: clocktable :scope file :maxlevel 2 :compact t
-#+CAPTION: Clock summary at [2024-11-12 Tue 15:00]
-| Headline                                     | Time   |
-|----------------------------------------------+--------|
-| *Total time*                                 | *0:18* |
-|----------------------------------------------+--------|
-| \_  Building walled gardens for corporations | 0:18   |
-#+END:
