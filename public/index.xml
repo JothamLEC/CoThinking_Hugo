@@ -43,10 +43,10 @@
 </item>
 <item>
     <title>How Russian Technology Can Build Malaysia&#39;s Digital Sovereignty</title>
-    <link>http://localhost:1313/20240927t105753--how-russian-technology-can-build-malaysias-digital-sovereignty__article/</link>
+    <link>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</link>
     <pubDate>Thu, 01 Aug 2024 00:00:00 &#43;0000</pubDate>
     <author>Jotham Lim</author>
-    <guid>http://localhost:1313/20240927t105753--how-russian-technology-can-build-malaysias-digital-sovereignty__article/</guid>
+    <guid>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</guid>
     <description><![CDATA[<p>
 The pandemic saw Malaysian companies scrambling to move their communication towards the cloud, using Microsoft Teams, Zoom, Google Workspace and so on. Five years later, workers are now back in offices, but the new systems and policies remain in place — perhaps out of convenience, improved productivity or sunk cost.</p>
 <p>
@@ -78,10 +78,10 @@ What&#39;s less talked about are the cybersecurity risks we&#39;ve inherited alo
 </item>
 <item>
     <title>Guide to Publishing to Hugo/Jekyll Remotely via iOS</title>
-    <link>http://localhost:1313/guide-to-publishing-to-hugojekyll-remotely-via-ios/</link>
+    <link>http://localhost:1313/guide-to-publishing-to-hugo/jekyll-remotely-via-ios/</link>
     <pubDate>Sun, 25 Feb 2024 00:00:00 &#43;0000</pubDate>
     <author>Jotham Lim</author>
-    <guid>http://localhost:1313/guide-to-publishing-to-hugojekyll-remotely-via-ios/</guid>
+    <guid>http://localhost:1313/guide-to-publishing-to-hugo/jekyll-remotely-via-ios/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/media/_f2abf823c5b2428c65fdc90219d9f969_MD5.jpg" referrerpolicy="no-referrer">
             </div><p>Hugo excels at desktop publishing. I can create files using CLIs or markdown editors, then publish to a Github repository. This directly reflects on the website through Netlify, Cloudflare Pages or Vercel.</p>

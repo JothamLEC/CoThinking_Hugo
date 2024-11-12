@@ -441,7 +441,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = ":title"
 
 [privacy]
   # privacy of the Google Analytics (replaced by params.analytics.google)
