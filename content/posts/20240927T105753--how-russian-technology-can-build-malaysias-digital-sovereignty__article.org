@@ -1,0 +1,877 @@
+#+title:      How Russian Technology Can Build Malaysia's Digital Sovereignty
+#+filetags:   :article:cothinking:
+#+date: 2024-08-01
+#+DESCRIPTION: Malaysian companies face rising cybersecurity threats following rapid cloud adoption. This report examines how Russian firm eXpress.ms aims to address these vulnerabilities with their digital sovereignty-focused technology. We explore the company's approach, its success in Russia, and why they see Malaysia as a key market for expansion.
+
+The pandemic saw Malaysian companies scrambling to move their communication towards the cloud, using Microsoft Teams, Zoom, Google Workspace and so on. Five years later, workers are now back in offices, but the new systems and policies remain in place — perhaps out of convenience, improved productivity or sunk cost.
+
+What's less talked about are the cybersecurity risks we've inherited along the way. Amidst the manic push towards technological adoption, Malaysian companies are now falling victim to newfound threats that they are not fully equipped to prevent.
+
+Enterprise communication tools are a popular attack vector used by bad actors due to the diverse online channels adopted by companies. A 2023 survey by [[https://research.esg-global.com/reportaction/515201641/Marketing][TechTarget's Enterprise Strategy Group]] showed that 85% of organisations approve the employee use of six or more enterprise communication tools, with 35% approving 11 tools or more. Each of these tools represents a potential point of vulnerability, such as phishing attacks, employees mistakenly downloading malicious software, or bad actors covertly monitoring communications.
+
+Even with the most stringent of policies, the weakest link could lie in solutions outside the organisation's control. Platforms like Zoom, Microsoft Teams and Google Suite have vulnerabilities constantly exposed, [[https://www.tomsguide.com/news/zoom-security-privacy-woes][sometimes taking multiple weeks to fix]] — of which the vulnerability had been sufficiently exploited.
+
+As a result, [[http://www.pikom.org.my/2024/FOCS/PIKOM_Cybersecurity_Report.pdf][70% of companies surveyed by PIKOM]] in 2024 were victims of cyber breaches over the past three years. Netherlands-based cybersecurity firm Surfshark cites [[https://www.thestar.com.my/tech/tech-news/2023/12/06/cybersecurity-report-ranks-malaysia-as-eighth-most-breached-country-in-q3-2023][Malaysia as the 8th most breached country in Q3 2023]], facing a 144% increase in breach rates compared to the previous quarter alone.
+
+Digital sovereignty is now a priority — where organisations have authority over their data, infrastructure, and technology usage. Being reliant on foreign servers to store and process data is counterintuitive to that.
+
+Places such as the European Union, India, and China are gradually tightening their Data Residency laws — requiring sensitive data to be stored locally. Malaysia is expected to follow suit, especially with [[https://soyacincau.com/2024/10/02/oracle-cloud-region-malaysia-multi-billion-investment/][massive investments into establishing data centres within the country]].
+
+Cybersecurity is part of the national agenda, and the Malaysian government is welcoming solution providers from across the world. One so happens to be from the Mecca of cybersecurity threats and defences.
+
+Nestled in a corner of CyberDSA 2024 conference held in Kuala Lumpur is a booth by eXpress.ms — a Russian cybersecurity technological provider and their Malaysian partner, Gogopass Asia. Their solution aims to solve a security gap torn open by our move towards cloud communication channels.
+
+** Powering communication for Russia's essential services
+
+eXpress.ms provides solutions that blend elements of enterprise communications and resource planning.
+
+In addition to emails, calendars and video conferencing, their systems include human resources and project management tools — which users can interact with via web browsers, mobile apps and AI chatbots. Clients can even selectively combine relevant features into a super app, and incorporate their own corporate branding.
+
+At first glance, eXpress.ms appears as a direct competition to players such as Zoom, Microsoft Teams and Google Suite. However, the simple decision to prioritise security first and foremost has domino-ed to the other aspects of the company — from product development to their position in the market.
+
+#+ATTR_HTML: :alt profile photo of Andrey Vratskiy
+[[../media/_Andrey-Vratskiy_Profile.jpg]]
+
+“Within the last three years, we have gained 80% [of the market share] within the Russian government and markets. Our solution is being used by the Presidential Administration of Russia, Federal Taxation Service, and Federal Agency for Rail Transport. Our customers also include Rosneft and Rosatom," says eXpress.ms CEO Andrey Vratsky.
+
+For context, Rosneft is the largest oil producer in Russia, controlling over 40% of the country's total oil production, while Rosatom is a state corporation focused on Nuclear energy, responsible for 20% of Russia’s electricity production.
+
+** Building walled gardens for corporations
+:PROPERTIES:
+:CUSTOM_ID: h:2ea9a031-eba0-466a-af01-cc54e3f9bd25
+:END:
+:LOGBOOK:
+CLOCK: [2024-10-01 Tue 15:15]--[2024-10-01 Tue 15:33] =>  0:18
+:END:
+
+#+ATTR_HTML: :alt Mobile preview of eXpress.ms messenger
+[[../media/_Screenshot_2.jpeg]]
+
+#+ATTR_HTML: :alt Preview of eXpress.ms solutions
+[[../media/_Screenshot_1.jpeg]]
+
+eXpress.ms' crown jewel is a proprietary internet protocol that serves as the foundation that every other product sits upon.
+
+The protocol allows servers to communicate with each other in a way that's harder to intercept compared to conventional public networks — thus making these servers less attractive as a target.
+
+eXpress.ms is also deployed on the client's on-premises servers and private clouds, of which eXpress.ms themselves have no access to. This forms a federation network that allows secure internal communication for organisations that span multiple cities and regions — all of which are controlled by the enterprise clients.
+
+Despite the walled garden, the federation network can deploy ad hoc guest servers to accommodate temporary contractors and customers, of which will be erased upon work completion.
+
+
+eXpress.ms’ other security features are built onto of this federated network.
+
+Data is stored in crypto-containers which can be wiped remotely by an administrator, preventing data theft from lost and stolen devices. Data at rest and in-transit are end-to-end encrypted. Server admins have both broad-based and fine-tune control, allowing them to determine high-level and low-level security segments at will.
+
+Sitting above this secured infrastructure are app features that we come to expect from an enterprise communication software, such as file transfers, screen sharing, integration with corporate telephony systems and so on.
+
+Andrey explains that the company is built upon the idea of sovereignty, an idea so committed that eXpress.ms' product suite is all built from scratch — without dependencies on external libraries, open source or otherwise.
+
+"Since the end of the 2000s, public cloud servers were the hype. The cloud is easier, cheaper, and faster, and demand peaked until around three years ago," says Andrey.
+
+"Now, we see the trend reversing because organisations care more about security and data storage. Governments are worried about data sovereignty and  wish to have their data stored locally within their borders."
+
+"So, what does it mean to be digitally sovereign? It means you are independent — not replying on foreign services, foreign clouds and so on. Communication is an important part of digital sovereignty that that's the purpose for which eXpress.ms was built."
+
+The decision to avoid open-source dependencies is crucial to the eXpress.ms' success.
+
+To integrate into Russia's Critical Infrastructure Facilities, authorities require solution providers to obtain the FSTEC (Federal Service for Technical and Export Control) certification. Without the certification, it's impossible to operate in sectors such as banking, telecommunications, healthcare, energy, and nuclear power.
+
+To qualify for the certification, the source code undergoes stringent reviews by independent testing centres for potential back doors that allow data to be transferred or altered without permission. That minimises risks of espionage — an aspect Russia is known to be cautious of.
+
+"Every comma [and] every symbol of your source code is checked. That is the only way to obtain the certificate, and you cannot do this with open-source code. This is also why eXpress.ms is absolutely secure," says Andrey.
+
+** Solving a gap in the market.
+
+Before eXpress.ms, Andrey had worked for one of the largest system integrators in the country.
+
+"I had a 15-year career in the industry, and became the vice president of sales. We were one of the largest Microsoft partners in Russia at the time, and I sold more than a billion American dollars worth of licences across 11 years," he shares.
+
+"However, I always wanted to start something of my own — to create something, and not just be a reseller. At the time, we wanted a secure enterprise communication suite for ourselves, but we couldn't find such a product on the market. That's when I decided to build one of my own."
+
+"We launched a minimum viable product with just chat and video conferencing — and slowly, we added featured and connected to internal services such as Oracle, SAP and so on."
+
+eXpress.ms is eight years old at the time of writing, but it took them five years to develop the minimal viable product. Within three years of commercialisation, they've commanded a considerable part of the Russian market. Now, they are setting their sights overseas.
+
+Andrey explains that Malaysia has several factors that make it an attractive market to tackle for a company like eXpress.ms.
+
+"First of all, we look at the country's relation to Russia. The second thing is the size and structure of the country. Compared to Indonesia, although it has a larger population, the infrastructure is less structured," he explains.
+
+"Finally, it is about demand for the product. Some countries, they may have a large population, they may be organised, but perhaps they don't prioritise cybersecurity. Malaysia is open to adopting Russian technologies, is organised from top to bottom, and checks all these boxes."
+
+Andrey concludes that Malaysia is a strategic hub for eXpress.ms' future activities, and will play a key role in their efforts to expand into the global market.
+
+* Express.ms Interview :noexport:
+:PROPERTIES:
+:CUSTOM_ID: express.ms-interview
+:END:
+==Sergey Artemov:== As I said, we have eight years old, and five years
+
+
+nobody knows about us. We create a minimum value product and we starting
+from chats and from video conferencing. After that, we became a mobile
+trusted platform and super app we call it, which allow to implement and
+to connect to internal companies services such as Oracle, SAP and so on.
+Because the main features of Express [?] which keeps all data on-prem,
+on-premise inside of [?] perimeters or company, so it's absolutely safe.
+And you connect your internal business application to our server inside
+an IT perimeter and you get a full stack of workplace of employees into
+one, one separate Express programs, Express application. This is the
+main features.
+
+Another features [?], is we are absolutely secured because we create a
+crypto container inside your phone, inside your desktop version, inside
+your servers as all information is end-to-end encryption from anybody to
+anybody in every chat. And we have a government certificate with, we
+have [?] script the container is absolutely secured. This allow us to
+gain 18 percent of Russian markets and government Russian markets during
+the last three years. We became the number one and we are looking for
+worldwide markets because as we understood, there is no such decision in
+worldwide because Teams, Zoom and [?] there is a cloud [?] version of
+mobile platform. You keep your data outside your, outside your perimeter
+and you really don't know where it can be stored. The right answer is
+nobody knows but everybody knows that some people's from east has an
+access to your data. This is the main features.
+
+==Jotham:== When you just now you mentioned that you guys covered 18 on
+the Russian market or 80 percent, 80 or 18, 80? Oh, that's crazy. What's
+the government Russia, for example, department of president, Russian
+ministry of taxes? We have an installation, Nord Nico, Rosneft, Rosatom.
+[For the] worldwide version, we [?] when we create Rosatom a version of
+our application, sometimes we can became white paper or white label,
+sorry, white label version of their own application. For example, in
+Rosatom there is a special application Atom Space. It's absolutely the
+same with Express [?] covered by Rosatoms colours and so on and prints
+and have them pre-installation integration integration with the business
+application. So we created, we implement outside Express all this,
+always links with business application and we create a separate Rosatoms
+called Atom Space version of the application. The employees of Rosatom
+just unload Atom Space from Play Market and App Store and work on it
+like this.
+
+==Sergey Artemov:== Because I'm not very familiar with like software
+production in a sense that if your solutions are all encrypted
+end-to-end and it is also on-premise only. And then sometimes you white
+label your solutions, how do you support your customers? Do you actually
+have to physically go to the servers to conduct support?
+
+==Andrey Vratsky:== We are not create it might not organize with first
+line support. First line support correspond to to a company with just a
+third or second line because it language is bilingual single angle, it's
+English in worldwide and we doesn't take any customers employees tasks.
+We just work on our things is to support a platform in works in working
+time. That's our main features, it doesn't connect to endpoint employees
+like this.
+
+==Sergey Artemov:== I can add that Russian Railways is also our client,
+[Russian] Railways. The features of Express is also we create a
+federation net. I mean that for example, Russian Railways has more than
+50 branches in Russia and you put an Express server on each branches
+connect to each active directory and you create your Kryptonite between
+them. We call it federation. This is our own protocol what we described,
+it's a Russian, it's not on, it's not an open source version, it's our
+own protocol of federation. So for example, in Russian Railways about 30
+installation inside Russian Railways perimeter of Express which which
+are organized and which create the shell and net crypto crypto net which
+allows to connect and to have a video conference and so on inside it.
+
+Maybe we can let Jotham understand further comparison between Express
+and Blackberry. I believe Jotham heard about Blackberry, was another
+messenger communication tool and as well as Motorola for these two,
+right? They always have a cloud base which is the main system are
+controlled by them. And of course perhaps they can do a geo lock but
+geographical log doesn't means that what the designs that the
+federations are team that what have happens is between you. So meaning
+that their building is between their own territory instead of the main
+server have to route back to the centralized global server. So
+everything they are in the local.
+
+==Jotham:== Does that mean that the startup cost is also a bit more
+expensive because like we are not relying on cloud infrastructure?
+Meaning that there will be like the cost of building the infrastructure
+will be borne by the clients themselves?
+
+Because there's another solution that I'm also looking at, it's like
+Jitsi, it's like open source solutions. Because like I mentioned like
+Express.ms is not open source, maybe it's designed to be that way. But
+I'm also very curious to know like how, because from my understanding I
+think I've read online sometimes open source can be quite secure as well
+because security experts can dig through the code and scrutinize and see
+what's the problem like this. So the question is does Express.ms not
+being open source make it more secure or is it making less secure? What
+are your thoughts on that?
+
+==Sergey Artemov:== The thing is when you create your own protocol and
+doesn't use any open source library, this is more hard, first of all.
+
+Second, when you try to get a certificate, for example, from the Russian
+government for this software, you should present, you should allow all
+source code to a special laboratory, which check that this protocol,
+every points, every symbol of your code should be checked.
+
+And only this one, this is the only way to get a Russian certificate of
+security, which this version of Express is absolutely secure.
+
+Otherwise, you cannot do this with open source because you try to
+combine your own things with open source, which is very flexible and
+change every time. You cannot get a stable stable version and to get a
+certificate for this.
+
+==Jotham:== It makes sense because open source gets updated quite a
+long, quite frequently. And I assume that Express.ms the moment it is
+implemented it will probably not go through like it won't be touched, it
+won't be like updated for perhaps years because it's an enterprise
+software, right?
+
+==Sergey Artemov:== Like this, we're waiting for Andrew.
+
+==Andrew Vratsky:== [No audio]
+
+==Jotham:== Oh no, no it is here, it is yes hello gentlemen you hear me?
+Yes, yeah sorry, sorry for the delay and and I'm driving so it can be
+maybe with connection sometimes. Is it safe for you to like have this
+interview while you're driving?
+
+==Andrew Vratsky:== No no no time driving, I have a driver so I'm just
+sitting and working.
+
+==Jotham:== Alright I see that you're a busy man I guess I'll just jump
+into the questions. The good news is Sergey has partially answered some
+of the questions I have so how about we just start. Let's go.
+
+Okay alright so Andrew how will you describe ExpressMS to people who
+haven't heard of it before?
+
+==Andrew Vratsky:== One moment, can you please repeat the question?
+
+==Jotham:== How will you describe Express MS to users who haven't heard
+of it before? Because in the Malaysian market, Express MS seems to be
+quite new.
+
+==Andrew Vratsky:== It's very different than Microsoft Teams.
+Absolutely.
+
+So how we describe ourselves? First, we stand on security standpoint. So
+we say that we are the most secure communication tool in the whole
+world. And this is true.
+
+Second thing, we are the only platform today that allows the customers
+to build super apps for work. So for the smartphone or tablet,
+
+==Jotham:== Alright, so you mentioned SuperApps, can you maybe dive a
+bit deeper regarding what the core components of what the SuperApps is?
+What the SuperApps is?
+
+==Andrew Vratsky:== Oh, sorry, give me one moment please, I will take
+headphones.
+
+Yeah, I hear a lot of vibrations. It's a little bit noisy here. Is it
+like a pet? It sounds like a pet.
+
+Yeah, so I'm ready. Can you please repeat?
+
+==Jotham:== Okay, alright, sorry. So what are the core components within
+Express MS Superass that you think are important? That the readers need?
+
+==Andrew Vratsky:== When you are a mobile worker, so when you are
+outside of office, outside of your laptop, what do you need?
+
+First of all, you need the communications. So you need the chats,
+working chats, messages, answering them, send files, etc. Being in
+discussions. You need chats.
+
+Second, you need calls.
+
+Third, you need to participate in conferences. Create conferences,
+participate in conferences, join conferences, etc.
+
+This is the fourth. You need email and fifth you need calendar.
+
+That's what everyone needs. Everyone. Absolutely equal, identical for
+each distant employee. Because the communication. This is a core part of
+Express.
+
+So you need to have on your smartphone, you need to have apps, different
+apps for all of these. Or maybe you need just one app and inside this
+app you have all the functions.
+
+==Jotham:== Okay, interesting. I understand email. I understand files,
+but calendars also have to be secure. Is there such a thing as unsecured
+calendar?
+
+==Andrew Vratsky:== No, no, no, exactly, exactly. So when you work for
+the corporation which has the security requirements, which has security
+compliance policies, etc., etc., for example, the bank, for example, the
+corporation, the government, the state company, or maybe the state
+institute, yes, they require you everything to be secure. Everything.
+
+So you need to have secure chats, secure conferences, secure calls,
+secure emails, secure calendars. Yes.
+
+That's the first point, the first question they raise when you come to
+them. Is this secure? Will this platform, will this mobile platform pass
+our security requirements? If not, they will not allow you to work with
+them. This is very simple.
+
+So to work with the largest, to work with the most compliant
+organizations, you have to build the platform that is as much secure as
+they need.
+
+==Jotham:== I see. And second thing, most of them, many of them have
+different security requirements. They differ sometimes a lot, sometimes
+a little.
+
+But for example, when you are a bank, this is a real example of how the
+banks act. When you are a bank, you may have even more requirements
+than, for example, I don't know, the manufacturing company.
+
+For example, you have internal network, internal control. This is a
+network where people are seeking on their desktops in the office. Where
+people have access to databases, to banking data, to information about
+people and companies, bank accounts, amounts, payments, etc. Very
+sensitive information. One of the most sensitive information.
+
+Yes, and the banks typically require us that this information, this
+information, these files from inner control, from internal network, this
+information can never touch the mobile device or external users. So they
+restrict us to send files to mobile devices, to forward files to
+external users, etc.
+
+And this thing, my team, have to be done physically. So different
+databases inside and outside. And a lot of security things which control
+and restrict. This is an example how it can work in the banks.
+
+In retail companies, we work with the largest retail companies here in
+this part of the world. They don't have such restrictions. But they have
+something else. Let's say this.
+
+==Jotham:== That's it. So, to work with all of the largest, to work with
+all of the most secure and compliant organization, your platform has to
+comply with all of them. It needs to have all the features inside.
+That's the complication. That's the complication, that's why it's so,
+it's not easy at all. complicated and that's why we, we are one of a
+very few platforms in the whole world including American platforms,
+European, Chinese, Indian, I don't know, Russian as well, that's that do
+it, that's it. And this is what we say to the customers, this is what
+we, this is what we're proud of, this is what we built, that's why we
+are unique.
+
+==Jotham:== I see. So when you mention from my understanding because
+different clients have different requirements like you mentioned,
+probably a bank has stricter requirements compared to a retail store.
+And from what Sergey has mentioned like you guys primarily deploy on
+premise, you You guys probably do not use a public cloud server.
+Everything mostly is on-premises.
+
+==Andrew Vratsky:== Yes, yes, yes. Absolutely. That's a very first
+difference between us and the popular communication solutions like Zoom,
+Microsoft Teams, Slack, I don't know, WhatsApp, etc., etc., etc.
+
+Most of what exists in today's world are public cloud services. What
+does it mean? Your information is stored not on your premises, not on
+your server, not on servers which belong to you.
+
+==Jotham:== Yeah.
+
+==Andrew Vratsky:== So the information can be touched by third parties,
+even if they promise you not to do this. They may have different reasons
+to do this. I don't know, some officials may ask them to touch your
+data, etc. etc.
+
+So, as a customer, you cannot be 100% sure that your information is only
+yours.
+
+We provide this guarantee. We provide the guarantee that 100% guarantee,
+not 99.9. That's a big difference between 99% and 100%. We provide a
+100% guarantee that all information, all data, all data belong to the
+customer. And no one from outside, no third party, including us,
+including, I don't know, data centers, service providers, etc., etc.,
+etc., can even touch this data.
+
+That's it. That's the difference in what we see in the world today.
+
+If you remember how it was 10 years, 15 years when the cloud, before,
+what was in the 90s, what was in zeros in 2000s, everything was
+on-premises. Everything. Every customer has their own infrastructure,
+including email, including maybe chats, conferencing, I don't know, data
+storage, databases, ERPs and other systems. Everything was on premises.
+
+Since the end of 2000s, it was a hype, clouds, clouds, clouds, clouds,
+clouds. Delivery everything to clouds, clouds are easier, clouds are
+cheaper, clouds are faster, etc. etc and the peak of this was i think
+what the peak the peak of this was here maybe two years maybe three
+years ago but now now the it's going back it's really going down because
+because organizations companies are care care more about the security
+about data storage about like the governments are worried about the
+localization of data they don't want to the data to be delivered to be
+stored outside of the country it's a worldwide trend european asian
+middle east etc russia itself everywhere every every country every
+government wants the data to be stored locally locally in the borders of
+the country in local data centers in particular
+
+==Jotham:== Yeah so so the trend is turning it's already turned 180 80
+degrees now now the clouds are less fashioned less fashion that that
+name was I don't know five years ago And we are completely in this
+trend. We support it. We are one of the instruments, one of the
+important instruments, because the communication is what people need
+every day, every hour, every minute. And instantly, instantly.
+
+So how you chat? You receive a push. You see this push in less than a
+second after the message was sent. Then you click on it, you're inside
+the messenger, you're inside the chat platform. Then you read it, then
+you reply, then you forward, then you see the file and so on. It's
+instant thing. It has to be done in less than a second, in 0.1 second
+maybe.
+
+==Jotham:== I have one more question. I'll move away from the on-premise
+because of the interest of time. I understand that on-premise is also
+data governance, making sure that data remains within the country is
+very, very important.
+
+But I'm very curious to know how about the other security aspects of
+Express.ms? Because we're just talking about data at rest. What about
+data in transit? How is it being protected? What are the security
+features that our readers should know beyond the fact that it's
+on-premise?
+
+==Andrew Vratsky:== The encryption. Simple answer. The encryption.
+
+So you have to strongly encrypt data on the transfer because data
+transfer between, even between the smartphone and the server comes over
+the open internet, uncontrolled by the customer, by the organization.
+
+So it has to encrypt as much strong as much strong to not allow anyone
+who will intercept this pack of data to not allow them to decrypt.
+
+That's it. So we use a strong encryption.
+
+But if the customer, in particular, if the state requires a decryption,
+additional security, additional encryption. For example, if the state
+has their own certified encryption algorithms and libraries, we can
+implement it in Express, inside Express, for the governmental segment,
+for example.
+
+==Jotham:== I see. Because one of the questions I have here, which is
+that, from a business standpoint, I believe that other service providers
+also provide on primary solutions, they also provide encryption in
+transit and also at rest.
+
+I'm still trying to figure out like what makes Express.ms special. And
+Sergey did mention that you guys are certified by the Russian
+government, you guys are everywhere in Russia from the railway system to
+government systems, but beyond your presence from a product standpoint,
+I think I mentioned
+
+==Jotham:== I think I mentioned something very interesting which is like
+if the clients have their own unique protocol, you guys can embed the
+protocols or like encryption requirements into Express.ms. Does that
+mean that Express.ms is much more customizable than the other solutions
+out there in the market? Which means that every client requirement is
+like different?
+
+==Sergey Artemov:== In our experience as I told before, different
+customers have different requirements. Some of them, for example, for
+example very simple example, some of the customers require us for all
+the information that is that comes to the smartphone or tablet to never,
+it cannot be stored, it cannot be sent to different application for
+example WhatsApp and so on. It cannot be even screenshots. It cannot be
+screen recorded and so on.
+
+Some customers, including the bank, required us to restrict all possible
+ways of information leaking from the smartphone. Some customers are more
+flexible and they say we are okay, we trust our users.
+
+So this is one of the ways of customization. You need to have different
+apps or different features inside the single app and the customer can
+decide which security things to use.
+
+That's one of the moments of customization.
+
+Second thing, when we come to the super app, as I mentioned before, the
+communication is very common thing. So all people, 100% of people have
+chats, 100% of people have calls. Most of people, excluding the field
+workers. So the field workers don't need a conference. They maybe need
+sometimes to hear something, the translation, or maybe to participate in
+webinar, but not often, not often, not every day.
+
+Yes, but for office users, the conferences.
+
+Next, email. Most of people need email. Most of people use calendar.
+
+That's a very common thing, which is common for every user, every
+employee of every organization.
+
+But when we come to the businesses, the businesses which they operate,
+the different users of different organizations operate on daily basis.
+They are very different. The ERPs, the CRMs, the BIs, the portals, a lot
+of, a lot of. Tens, hundreds of different systems, different vendors,
+different landscapes, different interfaces, different everything.
+
+That's what differs different organizations from each other. And when
+you're building the super app, you need to build a customized, 100%
+customized app for each of the customers. No two equal organizations in
+terms of landscape the systems etc and to operate as a super app to
+build a super app you need to have a very very flexible customization
+features on your platform which which will allow the customers to easily
+easily customize the app for their needs and this is absolutely unique
+thing that's the thing which we work for for about five years and as I
+and as as they can see on the worldwide market we don't see the close
+competitor in this we are much ahead of them.
+
+==Jotham:== I see so what sets you, says Express.ms apart from the
+competition from what I can understand is that it's built from the
+ground up with different protocols meaning that is very customizable to
+the client's needs. And like with because each person or each enterprise
+have their own requirements, you guys can like cater and tailor suit to
+enterprise clients unlike many other solutions out in the market it is
+very pre-packaged if there's anything to be changed it's much more
+difficult to change, it's much more difficult to customize, it's either
+you adopt to our system let's say our Microsoft system or you go find
+someone else. That's slightly different compared to Express.ms am I
+getting this wrong?
+
+==Andrew Vratsky:== Yes yes yes yes and one more thing one more thing
+that will that's what we call the federation i don't know if sergey
+mentioned this before so we are the we are the only protocol today we
+are the only communication suite today which allows their customer which
+allows the customer the the users of particular express server to
+communicate not only inside the server, not only with the users of the
+same server, but also with users of.
+
+What does it mean? For example, when we say about the conferences. In
+the conference, there are a lot of guests. A lot of guests.
+
+So when you're, when you're, when you're, when you're at I'm sorry,
+you're breaking up. I cannot hear you.
+
+==Jotham:== Andrew, we lost your sound.
+
+==Andrew Vratsky:== He just reloaded.
+
+==Sergey Artemov:== Yeah. Travelling.
+
+Andrew would like to say that when you involve into video conference a
+lot of people outside your IT perimeter, The Federation protocol can
+organize the secure net between each of them. It doesn't matter if they
+are inside your company or outside or it's just every participant of
+video conference has a secure connection. And this is the main features
+of Federation protocol. You organize a secure video conference inside
+and outside your IT perimeter. Everyone has been involved into it by the
+link. It works like this.
+
+==Jotham:== Sorry for low vibrations because Andrew has his personal
+home small peak. Can you reconnect? Because I think Zoom doesn't provide
+any...
+
+==Sergey Artemov:== It's not Zoom, it's Google.
+
+==Jotham:== Google, sorry, Google. I see. We don't hear you and we don't
+see you.
+
+==Andrew Vratsky:== Oh dear. I guess we should have used Express MS
+then.
+
+==Sergey Artemov:== Next, next, Jonah, next meeting, I would like to
+send you a link. You can check it first by yourself. The same things.
+
+==Andrew Vratsky:== Andrew, the same noise. Sorry.
+
+==Jotham:== John, what we have where is the last question or we have
+another one I can replace if need so far I think that answers the
+question, my main goal of today's interview is to better understand what
+sets Express MS apart from the competition and i think i have a very
+good idea my following questions will be mainly about the business side
+of like
+
+==Andrew Vratsky:== Oh hi yeah yeah oh what do you know you hear me yes
+yeah it's okay okay okay so yes i started explaining about the
+conference so it's a very typical scenario like now like now you are
+organizer we are the guests so every user over almost every person
+communicate not on the inside the company but outside as well it's it's
+easy in conference you just create a guest link then people click on it
+join it and see each other share screens discuss something and then and
+then and then the the room is closed the room never leaves after their
+meeting but when you come to the chance the charts have to live forever
+because they need to have history they need to they are they're
+different they are different and for the chance you also have needs the
+business needs to communicate not only inside the company but outside as
+well that's what typically solved today by other instruments by not
+secure instruments but not radio not not corporate instruments like
+what's up when you have to connect to someone the easiest way is just to
+send him message to make a call whatsapp today is the only is the only
+tool which allows people to connect each other and we replace it we
+replace it we build the we build the platform we build the system and we
+build the protocol which allows every user of express doesn't matter is
+it the public user which you just downloaded the app then enter your
+phone number receive a sms and that's it you became a public user
+private user or the corporate user which you have additional
+authentication in corporate directory all of them can communicate all of
+them so you see the people you know you see that if you have the
+person's phone number in your phone book and then this person is the
+user itself express as well you can you see him you can connect to him
+you can chat him or call him and set him up that's it that's the only
+protocol today that's the only today which allows same set of you
+communicate not only inside but outside as well
+
+==Jotham:== I see so let's say the chat logs and like recordings of the
+conferences like the client can choose to have a copy stored on their
+on-premise servers like if they wanted to or like that or all the
+information is wiped out the moment the room is closed
+
+==Andrew Vratsky:== Yes yes yes yes but but this is a huge difference
+this this is the difference which which need to be highlighted because
+before i say this nobody think about this but the conference today's
+conferences these two points first the external communication external
+people communicate with outside of the companies but it's not it's easy
+in the conference it's very complicated and we solve this complication
+how it was how it was before us to add additional user to internal chat
+suite you need first to create the account create account second if
+there is no employee of the company so what it means that you allow not
+employees to come to internal systems of the organization this is what
+usually was very hard on the security standpoint so information security
+guys typically says no it's not allowed because it's internal systems
+it's internal data it's internal communication and only the employees of
+the company can access this so the so the solution is building the
+bridges bridges between different installations these bridges sometimes
+was built manually to connect server one and server two it's okay when
+you have two servers maybe five maximum of ten but if you have tens of
+them 20 50 100 of different servers from outside for different
+organizations different people it's it's unmanageable it's too hard to
+manage because every bridge has to be managed on both sides here and
+there it's unmanaged this is the thing that was discovered by microsoft
+more than 10 years ago they have a product microsoft link they later
+renamed it to skype for business and first version of skype for business
+was you can build the bridges between one to one one to one b2b then
+they discovered that it's not working scheme not working and they it
+took around three years for them to rework it to build a global thing
+global thing when all when all servers connected each other that's what
+we repeat on today's basis they do it on account for conferences we do
+it for a chance as well
+
+==Jotham:== I see okay yeah I think I have a better understanding of
+like the product I have enough material to write a piece regarding the
+product now I'm very much more interested from a from a business
+standpoint let's see who is express ms like designed for because I heard
+government entities I heard banks so essentially your primary customers
+are regulated industries I assume but is there anything else
+
+==Andrew Vratsky:== Our primary customers are people or organization
+which care about information security it doesn't it's not only big
+companies big corporations compliant thing government things but also
+there are relatively small customers for example their law firms law
+firms maybe some tens of people 30 people 50 people 100 people but they
+operate with sensitive information and they require this information to
+be stored and they require security of this information it doesn't it
+doesn't depend on the size it depends on what or how you care about
+information
+
+==Jotham:== Okay all right now I'm actually interested in the current
+footprint of like express ms so I understand that you guys have command
+80 of the russian market so so for eight years the company was
+established for eight years it takes five years to come up with a
+minimum viable product and I assume it takes the past three years to
+penetrate the market
+
+==Andrew Vratsky:== Sorry you were saying yes yes yes but the value
+proposition grows a lot this year so what what was expressed five years
+ago when we first entered the markets it was just a messenger just the
+charts and codes no more what we have now we have chats we have
+conference we have super app we have much more security we have we pass
+all the security requirements of every customer doesn't matter what this
+customer are very different, very different, very different.
+
+But it was much harder to start because on these days, 2019, and even on
+the COVID years, not all of the customers see the chats as a necessary
+thing. So people are so sticky to WhatsApp, so sticky to to telegram
+it's not it's not easy to take them from whatsapp to express people
+employees employees because they are very sticky they use it every day
+
+==Jotham:== Yeah so yeah but now it's much more easier but because we
+provide much more than only whatsapp replacement so we expect we expect
+to that's what we see now here that was what we see now on different
+markets outside the russia for example we expect the speed of this run
+how fast we can get the customers the users etc much faster than it was
+in russia
+
+==Jotham:== Can you tell me more about like your plans on for overseas
+markets i understand you guys have a solid foundation in russia but i
+understand you also had just attended cyber the essay in malaysia tell
+me more about your plans for overseas markets
+
+==Andrew Vratsky:== To repeat what we built in Russia, that's it, that's
+very simple answer. So we, we trained, we learned a lot in our whole
+market and the Russian Russian IT market is one of the most, how you say
+this, it's on the top one of one of the top markets because we have a
+strong local IT, we have a strong I don't know fundamental science and
+so on, so on, so on. So Russia for me is what I see it's it's one of top
+10 markets of the world and that's big enough big enough we have 150
+million people live in the country. So we learn a lot, we trained a lot
+and we can repeat, we can now, we can now repeat in each of the
+countries which are okay to work with the Russian born companies. So we
+now, we don't not say the word we are Russian company, we say the words
+we born in Russia, born in Russia but we now become global, that's,
+that's what we do.
+
+==Jotham:== I see. You mentioned, I've heard Sergey mentioned Saudi
+Arabia and Malaysia like are there like where do you see the
+opportunities are when it comes to accepting Express.ms or related
+technologies?
+
+==Andrew Vratsky:== How we choose the countries in which we start to
+focus, first of all, first of all a relation to Russia as a country and
+to people that born in Russia. So what we see on Malaysian market in
+particular, in Malaysia as a country, you like people like, so you're
+not only okay with these people but you like the people who and like the
+technologies which built in Russia, that's the first thing.
+
+Second thing, second thing is how the size of the country. So the
+country has to be enough large enough large but but not for example in
+comparison to Indonesia which is much bigger by number of people but but
+it's much more non-structured. So so so that's the things come much
+slower much slower. So Malaysia is very very well organized country from
+top to bottom, that's why we choose Malaysia as the first and the focus
+point in the region and consider Malaysia as a hub for future
+activities.
+
+And third is like they must have the demand for the product, not just
+the size of demand, but security demand. You know, some countries, they
+may be big, they may be organized, but they perhaps don't care about
+security.
+
+And finally, is the country preferably have good relations with Russia
+or are interested in Russian technology? The country doesn't have
+restrictions to work with Russia, with people who work in Russia. Today
+for Russian-born people and Russian-born companies it's almost
+impossible to work with for example American customers for example
+European customers almost impossible because of all these political
+things. So first question when I see a particular country I ask myself
+and the people in this country is it okay for you to work with us
+knowing that we was born in Russia and the company was born in Russia
+
+==Jotham:== I see okay all right just a few questions what do you what
+is the biggest market challenge you're facing right now and like how
+does it face your business because you did mention that right now the
+trends are shifting in the past where there's little demand for very
+secure communication tools or communication suite of products but now
+times have changed people are moving away from cloud to on-premise
+people are care a lot more about communication security but i see
+opportunities but what are the challenges that you're facing
+
+==Andrew Vratsky:== Interesting question let me think i don't know maybe
+maybe the biggest challenge is to prove ourselves for the customer
+because we are new to the market we are new to the market we are very
+well known on the whole market to prove the technology to prove the
+product that's it because ah and and so to deliver all our things to
+explain to the customers because two of the two deep technologies inside
+express the the configuration and the smart apps which allows us
+
+==Jotham:== Sorry you lose your voice
+
+==Andrew Vratsky:== Now yes so so so two of our technologies deep
+technologies on which the express was built the federation and the smart
+apps are very new so we are the first guys in the whole world who
+invented this so the challenge is to change the mind of the customers
+for them to understand what what's this what's this and why is the why
+it's so important that's that's the way which we successfully pass on
+the whole market but it takes a year when i first come to the customer
+and and say about the figuration most of them was in doubts in doubts so
+why this is so important for what reasons etc etc so you need i i need
+to explain to them i spent a lot of hours days weeks months to explain
+to show for them to to to to understand why it's so important now it's
+no question now today when this when you say the word federation for to
+to large to the customers to incorporate customers to corporations to
+government ones they all they all understand what to say now all the
+competitors on russian market no one still has the federation things but
+every every every hundred percent of them promises to the market that we
+will build this we're already building this we're trying to build this
+etc etc so now the russians americans has completely changed completely
+this is a challenge this is a challenge but it's solvable solvable so we
+now know how to solve it how to to change these minds how to build the
+country-wide figure this is a challenge for us
+
+==Jotham:== I see so my understanding is that the success of Express.ms
+is tied to the awareness and the demand of cyber security in general
+like for instance like my ex-company works in the EKYC right so if
+people we are very concerned about people sharing id documents just
+taking a photo and sharing around like we said stop doing that right so
+essentially it's like if people if the citizens do not care about
+security if the citizens don't care about their privacy then it will be
+difficult for express ms to grow but but conversely if the people care
+or your companies care i want my data security to be secure i do not
+want my stuff to be leaked out i do not want my servers to be
+compromised my data to be compromised then that's where your success
+comes
+
+==Andrew Vratsky:== No no no no these things are changing as well
+changeable much changeable for example for example what happens this
+week maybe you heard maybe you read that a week ago on saturday the
+telegram founder and ceo pavel duro was arrested in france it's a huge
+scandal now huge scandal in europe in america in in other countries and
+the attention of people and the attention of those who maybe before not
+care much about the security of communication but now now because of
+this because of this event because of his arrest and and because because
+of what europeans need europeans need him then they offend him of this
+that he doesn't give them the decrypted information the decrypted
+communication of telegram users so him he need to do this and now people
+who read this they understand that it's a very good instrument it's
+better than what's up by features i don't know if you're an actual user
+of telegram it's fast it's convenient it's a it's the best messenger
+today in the world but people now understand that people get this in
+their minds but it's not secure not secure everyone every government and
+maybe not only the governments can read your communication and people
+start caring about this people start looking for other instruments which
+one is secure where i can get my privacy when i can get when so these
+things are changing this this may be changed in in long periods and you
+have to talk with them you have to explain them you have to address them
+that some messages to make a make a proof or proof points and so on but
+sometimes and this week in particular because of this situation people
+start thinking about information about communication security themselves
+
+==Jotham:== All right this kind of cyber security and like privacy
+things is getting more and more relevant now but i want to roll back
+time like eight years ago like i'm very curious why you started express
+in the first place like were you working in industry what made you care
+so much about security and data privacy
+
+==Andrew Vratsky:== I worked for in the industry for all my life so i
+have before express i had a 15 years career i worked in one of the
+russian biggest system integrations and although i was a vice president
+for sales and the key accounts and so on i sold a lot of microsoft so we
+was one of the largest partners of microsoft in russia and i counted i
+counted the amount of licenses i sold for all the time for for 11 years
+are more than a billion more than a billion of american dollars yes so
+huge experience and but i always want to wanted to start something my my
+own to build a company which is a vendor a manufacturer not a not a
+reseller not integrated etc and so and we just got we just we just tried
+for ourselves so we was we care about information with communication
+security we tried to find the messenger in 2015 for ourselves and we
+cannot we discovered that there is no such good products on the market
+which can completely completely replace what's up and so on that's when
+we start building our our let's go
+
+==Jotham:== Okay interesting story all right final question what is the
+final key takeaway that you think that readers should know from from
+this article sergey maybe you can finalize in a short word what i say a
+lot in the short world
+
+==Sergey Artemov:== It's my personal opinion we are here we are talking
+about an i.t patriotism john in a in in a good word that we allows to
+involve your country into your own i.t patriotism using express you
+
+different words let's say digital sovereignty digital certainty right
+digital sovereignty now it's now it's a very hyped word very well what
+and what does it mean the digital sovereignty i operate the old words
+yeah so yes so what does it mean so you are independent you're a
+sovereign country you doesn't rely on foreign services foreign clouds
+and so on and we are and the communication is an important part of this
+important part of the digital sovereignty that's it that's the purpose
+for which the express was built
+* Clock :noexport:
+#+BEGIN: clocktable :scope file :maxlevel 2 :compact t
+#+CAPTION: Clock summary at [2024-11-12 Tue 15:00]
+| Headline                                     | Time   |
+|----------------------------------------------+--------|
+| *Total time*                                 | *0:18* |
+|----------------------------------------------+--------|
+| \_  Building walled gardens for corporations | 0:18   |
+#+END:

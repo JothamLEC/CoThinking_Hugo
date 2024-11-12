@@ -1,62 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on CoThinking — Thinking Together</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on CoThinking — Thinking Together</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2024, CoThinking.</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why We Don&#39;t Grow Despite Constantly Learning</title>
-      <link>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/why-we-don-t-grow-despite-constantly-learning/</guid>
-      <description>&lt;p&gt;Being stagnant; feeling stuck; unable to move forward in life.&lt;/p&gt;&#xA;&lt;p&gt;These are the emotions that compelled most of my clients to sign up for mental health coaching services. But what astonished me was that these clients are not short on aspiration. They are competent, confident in their own abilities, but are frustrated at their inability to demonstrate them.&lt;/p&gt;&#xA;&lt;p&gt;When asked about their growth journey, many of them read self-help books, listen to podcasts or watch videos on personal productivity, stoicism and relationships. At times, these resources are helpful in making a meaningful impact on their lives. But at others, it gives off a faux sense of progress on what is effectively mindless content consumption.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How Russian Technology Can Build Malaysia&#39;s Digital Sovereignty</title>
-      <link>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-russian-technology-can-build-malaysias-digital-sovereignty/</guid>
-      <description>&lt;p&gt;The pandemic saw Malaysian companies scrambling to move their communication towards the cloud, using Microsoft Teams, Zoom, Google Workspace and so on. Five years later, workers are now back in offices, but the new systems and policies remain in place — perhaps out of convenience, improved productivity or sunk cost.&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s less talked about are the cybersecurity risks we&amp;rsquo;ve inherited along the way. Amidst the manic push towards technological adoption, Malaysian companies are now falling victim to newfound threats that they are not fully equipped to prevent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recovering Redacted Content It&#39;s Scary How Easy It Is.</title>
-      <link>http://localhost:1313/recovering-redacted-content-its-scary-how-easy-it-is./</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recovering-redacted-content-its-scary-how-easy-it-is./</guid>
-      <description>&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/7b14d4a538bfda2f95c86516db0cb568_MD5.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;*&lt;strong&gt;*Blurred and pixelated images can often be reverse-engineered**&lt;/strong&gt; &lt;em&gt;to reveal censored details, making them unreliable for secure redaction.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;*&lt;strong&gt;*Black bar redaction in digital documents are not foolproof**&lt;/strong&gt; &lt;em&gt;despite being industry standard; hidden text can be retrieved using simple software tools.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;*&lt;strong&gt;*Proper redaction involves using the right tools**&lt;/strong&gt; &lt;em&gt;for the job, but can go as far as printing, physically cutting out portions, and rescanning in 2-bit.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I censor images and documents everyday as part of my job.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Entrepreneur&#39;s Guide to Effective Time-Tracking</title>
-      <link>http://localhost:1313/an-entrepreneurs-guide-to-effective-time-tracking/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/an-entrepreneurs-guide-to-effective-time-tracking/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/b8eefb1c4e81b858b77cb601ea13a607_MD5.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A good tool improves the way you work. A great tool improves the way you think.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jeff Duntemann&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Maybe you&amp;rsquo;ve heard of time-tracking tools; perhaps you&amp;rsquo;ve even tried a couple. Today, we&amp;rsquo;re taking a closer look at the benefits, the challenges, and how anyone can find a system that works for them.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-you-should-time-track&#34;&gt;Why You Should Time Track&lt;/h2&gt;&#xA;&lt;p&gt;A quick Google search reveals dozens of time-tracking solutions on the market. When I started my time-tracking journey, it was difficult to choose between the various features and price points.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Will ChatGPT Replace Writers</title>
-      <link>http://localhost:1313/will-chatgpt-replace-writers/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/will-chatgpt-replace-writers/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;will-chatgpt-replace-writers&#34;&gt;Will ChatGPT Replace Writers&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;attach/982100bf106ffb64c02b8152cb66a69b_MD5.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;A few weeks back, an old friend asked me this over some pints. &amp;ldquo;Do you think ChatGPT will replace us one day?&amp;rdquo; Both of us are from the creative industry, initially assumed to be technologically resilient. But like truck drivers with self-driving vehicles, it is now our heads at risk of the chopping block.&lt;/p&gt;&#xA;&lt;p&gt;By now, most readers are well aware of the disruptive capabilities of ChatGPT. OpenAI and their counterparts have been making inroads within the generative A.I. space, mainly for text, images and code. With rapid development within this space, is it a cause for concern for the average knowledge worker?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Everyone Should Learn Task Management</title>
-      <link>http://localhost:1313/why-everyone-should-learn-task-management/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/why-everyone-should-learn-task-management/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/img/982100bf106ffb64c02b8152cb66a69b_MD5.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Thanks to the availability of AI tools like ChatGPT, completing tasks is easier than ever before.&lt;/p&gt;&#xA;&lt;p&gt;Work that once took hours can now be completed in mere minutes, which is a dream for any knowledge worker—whether you&amp;rsquo;re a student, professional, or even a homemaker.&lt;/p&gt;&#xA;&lt;p&gt;However, completing tasks does not necessarily translate to being a productive person. That&amp;rsquo;s because task management and task completion are, in fact, two separate skill sets.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;current-working-on&#34;&gt;Current working on&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;State of PropTech 2025 for Malaysia Proptech Association.&lt;/li&gt;&#xA;&lt;li&gt;Web Development for Data company&lt;/li&gt;&#xA;&lt;li&gt;Web Development for International low-code/no-code company&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;archived-projects&#34;&gt;Archived Projects&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before Oct 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://theedgemalaysia.com/author/Jotham%20Lim?page=1&#34;&gt;Cover &amp;amp; featured articles from TheEdge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Innov8tif.com&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manage marketing department&lt;/li&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;li&gt;Lead magnet creation&lt;/li&gt;&#xA;&lt;li&gt;Campaign Management&lt;/li&gt;&#xA;&lt;li&gt;Email Drip Automation&lt;/li&gt;&#xA;&lt;li&gt;Event management&lt;/li&gt;&#xA;&lt;li&gt;Public Relations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vaaz.me&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ORLIG&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manage marketing department&lt;/li&gt;&#xA;&lt;li&gt;Website development&lt;/li&gt;&#xA;&lt;li&gt;Lead magnet creation&lt;/li&gt;&#xA;&lt;li&gt;Campaign Management&lt;/li&gt;&#xA;&lt;li&gt;Email Drip Automation&lt;/li&gt;&#xA;&lt;li&gt;Event Management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;ANBIZ&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CoThinking</title>
+        <link>http://localhost:1313/</link>
+        <description>A Malaysian blog about B2B Marketing, Productivity, Technology &amp; Mental health.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Jotham@cothink.ing (Jotham Lim)</managingEditor>
+            <webMaster>Jotham@cothink.ing (Jotham Lim)</webMaster><copyright>2024 CoThinking</copyright><lastBuildDate>Sat, 09 Nov 2024 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Recovering Redacted Content: It’s Scary How Easy It Is</title>
+    <link>http://localhost:1313/recovering-redacted-content-its-scary-how-easy-it-is/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/recovering-redacted-content-its-scary-how-easy-it-is/</guid>
+    <description><![CDATA[<ul>
+<li>
+<p><em><strong>Blurred and pixelated images can often be reverse-engineered</strong></em> <em>to reveal censored details, making them unreliable for secure redaction.</em></p>
+</li>
+<li>
+<p><em><strong>Black bar redaction in digital documents are not foolproof</strong></em> <em>despite being industry standard; hidden text can be retrieved using simple software tools.</em></p>
+</li>
+<li>
+<p><em><strong>Proper redaction involves using the right tools</strong></em> <em>for the job, but can go as far as printing, physically cutting out portions, and rescanning in 2-bit.</em></p>
+</li>
+</ul>
+<hr>
+<p>I censor images and documents everyday as part of my job.</p>]]></description>
+</item>
+<item>
+    <title>An Entrepreneur’s Guide to Effective Time-Tracking</title>
+    <link>http://localhost:1313/an-entrepreneurs-guide-to-effective-time-tracking/</link>
+    <pubDate>Thu, 08 Aug 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/an-entrepreneurs-guide-to-effective-time-tracking/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_b8eefb1c4e81b858b77cb601ea13a607_MD5.jpg" referrerpolicy="no-referrer">
+            </div><pre><code>A good tool improves the way you work. A great tool improves the way you think.
+- Jeff Duntemann
+</code></pre>
+<p>Maybe you’ve heard of time-tracking tools; perhaps you’ve even tried a couple. Today, we’re taking a closer look at the benefits, the challenges, and how anyone can find a system that works for them.</p>
+<h2 id="why-you-should-time-track"><strong>Why You Should Time Track</strong></h2>
+<p>A quick Google search reveals dozens of time-tracking solutions on the market. When I started my time-tracking journey, it was difficult to choose between the various features and price points.</p>]]></description>
+</item>
+<item>
+    <title>How Russian Technology Can Build Malaysia&#39;s Digital Sovereignty</title>
+    <link>http://localhost:1313/20240927t105753--how-russian-technology-can-build-malaysias-digital-sovereignty__article/</link>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/20240927t105753--how-russian-technology-can-build-malaysias-digital-sovereignty__article/</guid>
+    <description><![CDATA[<p>
+The pandemic saw Malaysian companies scrambling to move their communication towards the cloud, using Microsoft Teams, Zoom, Google Workspace and so on. Five years later, workers are now back in offices, but the new systems and policies remain in place — perhaps out of convenience, improved productivity or sunk cost.</p>
+<p>
+What&#39;s less talked about are the cybersecurity risks we&#39;ve inherited along the way. Amidst the manic push towards technological adoption, Malaysian companies are now falling victim to newfound threats that they are not fully equipped to prevent.</p>]]></description>
+</item>
+<item>
+    <title>I’ve Time Tracked for a Week, what I’ve Learnt Made Me Uncomfortable</title>
+    <link>http://localhost:1313/ive-time-tracked-for-a-week-what-ive-learnt-made-me-uncomfortable/</link>
+    <pubDate>Tue, 25 Jun 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/ive-time-tracked-for-a-week-what-ive-learnt-made-me-uncomfortable/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_b904d1f08a748f167228fde3507d87ea_MD5.jpg" referrerpolicy="no-referrer">
+            </div><p>I’ve started time-tracking 2 weeks ago after being inspired by the Cortex Podcast by Mike and CGP Grey.</p>
+<p>Why? Humans are poor judges of how we spend our time. We overestimate the time spent productively while severely underestimating the amount of dead time, or transition time in-between tasks.</p>
+<p>Ever since I’ve finished my postgraduate studies, I’ve been filling up my hours as best as I can. Despite my best efforts, I always feel like I’m short of time. There are plenty of projects that need completing and new habits to be formed, and yet 24 hours is not enough for my typical day.</p>]]></description>
+</item>
+<item>
+    <title>Doom Emacs: A Text Editing Playground I didn’t Know I Needed</title>
+    <link>http://localhost:1313/doom-emacs-a-text-editing-playground-i-didnt-know-i-needed/</link>
+    <pubDate>Fri, 22 Mar 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/doom-emacs-a-text-editing-playground-i-didnt-know-i-needed/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_734fc1593982ecb56e0149f8ac66fcc0_MD5.jpg" referrerpolicy="no-referrer">
+            </div><p>After migrating my notes to Notion, the names Emacs and Org-mode appeared constantly in threads, podcasts, and forums.</p>
+<p>Though I knew the destination, embarking on expeditions into different productivity systems is an inevitable part of the journey. A straightforward note-taking system expanded into task management, calendars, and time-tracking solutions.</p>
+<p>The toll on my wallet is substantial, a practice I heavily discourage. To maintain my sanity, I reassured myself that playing with software is a cheaper hobby compared to more extravagant pursuits like cameras and cars. Plus, the benefits of increased productivity and the self-discovery intrinsic to each platform migration more than justify the costs sunk into this hobby. But still, I find it hard to justify the expenditure, even though I’m supporting developers and their work.</p>]]></description>
+</item>
+<item>
+    <title>Guide to Publishing to Hugo/Jekyll Remotely via iOS</title>
+    <link>http://localhost:1313/guide-to-publishing-to-hugojekyll-remotely-via-ios/</link>
+    <pubDate>Sun, 25 Feb 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/guide-to-publishing-to-hugojekyll-remotely-via-ios/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_f2abf823c5b2428c65fdc90219d9f969_MD5.jpg" referrerpolicy="no-referrer">
+            </div><p>Hugo excels at desktop publishing. I can create files using CLIs or markdown editors, then publish to a Github repository. This directly reflects on the website through Netlify, Cloudflare Pages or Vercel.</p>
+<p>However, publishing from my phone is not as straightforward. I have a <em>micropost</em> section on my website, intended to be a Twitter replacement, where I share posts that are:</p>
+<ul>
+<li>
+<p>Short</p>
+</li>
+<li>
+<p>Contain photos taken from my phone</p>
+</li>
+<li>
+<p>Can be published quickly</p>]]></description>
+</item>
+<item>
+    <title>Changing Jobs for the 8th Time</title>
+    <link>http://localhost:1313/changing-jobs-for-the-8th-time/</link>
+    <pubDate>Thu, 15 Feb 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/changing-jobs-for-the-8th-time/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_d57d45b7e225618af70f8617f04b50e5_MD5.jpeg" referrerpolicy="no-referrer">
+            </div><p><strong>Changing Jobs for the Eighth Time</strong></p>
+<p><em>Where Am I Heading?</em></p>
+<p>I’m currently embarking on a new venture, CoThinking, a marketing firm specialising in the B2B tech marketing sector.</p>
+<p>My return to Innov8tif is a transitionary measure, with the management there providing substantial support to help with the company launch.</p>
+<p><em>Why the Change?</em></p>
+<p>Now, at 28, I’ve spent a significant part of my adult life transitioning between jobs in search of a company to which I can fully commit. (Like Zhu Ge Liang waiting for a Liu Bei, as my high school friend once put it.)</p>]]></description>
+</item>
+<item>
+    <title>Omnifocus is not a Todo App, it’s a Can Do App</title>
+    <link>http://localhost:1313/omnifocus-is-not-a-todo-app-its-a-can-do-app/</link>
+    <pubDate>Sun, 11 Feb 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/omnifocus-is-not-a-todo-app-its-a-can-do-app/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_3fcc1a43fea58cbf3b7b95feaeec9698_MD5.png" referrerpolicy="no-referrer">
+            </div><p>I made the switch from Things (my main app for 3 years) to OF4 after learning about <a href="https://www.youtube.com/watch?v=vUUaQF3_Pyo" target="_blank" rel="noopener noreffer ">David Sparks</a> and <a href="https://www.relay.fm/cortex/142" target="_blank" rel="noopener noreffer ">CGP Grey’s</a> approach to task management.</p>
+<p>My issue with most to-do apps is that they are <strong>time-based</strong>, whether it’s assigning a date or using time-blocking/calendar hybrids. This method is poor at <strong>task recovery</strong>.</p>
+<p>My workdays are unpredictable and get disrupted all the time. Unfinished tasks today get rolled over to tomorrow, and tomorrow to the day after tomorrow, and so on. The only time-based app that does task recovery well is <strong>Skedpal</strong>, but it’s expensive, ugly and requires a lot of configuring to use effectively.</p>]]></description>
+</item>
+<item>
+    <title>Why Am I Migrating to Micro.blog</title>
+    <link>http://localhost:1313/why-am-i-migrating-to-micro.blog/</link>
+    <pubDate>Sun, 04 Feb 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/why-am-i-migrating-to-micro.blog/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_c9745516fa09fd1e1f87826e338f419e_MD5.png" referrerpolicy="no-referrer">
+            </div><p>This is my 7th blog migration now—away from WordPress, Obsidian Publish, <a href="https://super.so/" target="_blank" rel="noopener noreffer ">Super.so</a>, Ghost, Substack &amp; Hugo.</p>
+<p>Admittedly, it’s a form of procrastination. Spending more time messing around with websites means less time producing content.</p>
+<p>But I don’t think it’s time wasted. I’ve learned a lot about web hosting and publishing with each content migration, and I believe that <a href="https://micro.blog/" target="_blank" rel="noopener noreffer ">Micro.blog</a> is just one part of a long journey ahead.</p>]]></description>
+</item>
+<item>
+    <title>Why I Chose Hugo for My Personal Website</title>
+    <link>http://localhost:1313/why-i-chose-hugo-for-my-personal-website/</link>
+    <pubDate>Mon, 22 Jan 2024 00:00:00 &#43;0000</pubDate>
+    <author>Jotham Lim</author>
+    <guid>http://localhost:1313/why-i-chose-hugo-for-my-personal-website/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/media/_c571516f2e3a1f141d3763ed11ee2b8e_MD5.png" referrerpolicy="no-referrer">
+            </div><p>Having my own website is essential to me.</p>
+<p>Being an online lurker for so long, I have often regretted not contributing more to the internet space rather than just passive consumption. However, I disliked the idea of posting on social media and contributing towards data-hungry big tech corporations.</p>
+<p>Hence, building a site on a custom domain is my way of carving out a small slice of the internet I can call my own.</p>]]></description>
+</item>
+</channel>
 </rss>

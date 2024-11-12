@@ -1,0 +1,32 @@
+#+TITLE: About
+
+* Hi there! 👋 I'm Jotham
+
+I'm a freelance Digital Marketer providing services to B2B tech companies.
+For complex projects, I have a dedicated team that provides additional support.
+
+** My services
++ Branding & Marketing Strategy Consulting
++ Web Development
+  + SEO configuration
++ Content Creation
+  + Written works: White paper reports, Press releases, SEO articles, etc.
+  + Graphic Design
+  + Corporate Video
++ Customer database setup & configuration
++ Email automation setup
+
+For a comprehensive understanding of our service offerings, please explore our current [[https://jothamlim.com/projects][projects]]. You can also visit our [[https://cothink.ing][agency website]] for more information.
+
+I also regularly publish articles on mental health, technology, productivity, and more.
+
+** Professional Background
+- I currently run a marketing department for a local AI tech startup.
+- A certified Mental Health Coach — currently providing career coaching services to international clients on [[https://coaching.healthygamer.gg][HealthyGamer]] on an independent contractor basis.
+- Former Journalist: Previously employed at TheEdge Newspaper.
+- Personal Interests: In my leisure time, I paddle for a dragon boat team competitively and attend CrossFit training.
+
+** Contact Information
+- [[https://www.linkedin.com/in/jothamlec/][LinkedIn]]
+- [[mailto:jotham@cothink.ing][Email]]
+- [[https://wa.me/+60176421337][WhatsApp]]
