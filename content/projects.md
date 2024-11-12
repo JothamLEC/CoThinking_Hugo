@@ -14,7 +14,7 @@ date = "2024-11-09"
 **Before Oct 2024**
 - [Cover & featured articles from TheEdge](https://theedgemalaysia.com/author/Jotham%20Lim?page=1)
 
-- Innov8tif.com
+- [Innov8tif.com](https://innov8tif.com)
   - Manage marketing department
   - Website development
   - Lead magnet creation
@@ -23,28 +23,28 @@ date = "2024-11-09"
   - Event management
   - Public Relations
 
-- Vaaz.me
+- [Vaaz.me](https://vaaz.me)
   - Website development
 
-- ORLIG
+- [ORLIG](https://orlig.com)
   - Manage marketing department
   - Website development
-  - Lead magnet creation 
+  - Lead magnet creation
   - Campaign Management
   - Email Drip Automation
   - Event Management
 
-- ANBIZ
+- [ANBIZ](https://anbiz.com)
   - Manage marketing department
   - Website development
-  - Lead magnet creation 
+  - Lead magnet creation
   - Campaign Management
   - Email Drip Automation
   - Public Relations
   - Event Management
-  
-- OhMyHome.my
+
+- [OhMyHome.my](https://ohmyhome.my)
   - SEO articles (6 months)
-  
-- ACASIA
-  - PDF Report / Whitepaper  
+
+- [ACASIA](https://acasia.net)
+  - PDF Report / Whitepaper

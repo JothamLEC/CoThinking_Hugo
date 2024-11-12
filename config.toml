@@ -55,6 +55,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Agency"
     url = "https://cothink.ing"
     title = ""
+  [[manu.main]]
+    weight = 99
+    identifier = "linkedin"
+    pre = "<i class='fa-brands fa-linkedin' aria-hidden='true'></i>"
+    post = ""
+    name = ""
+    url = "https://www.linkedin.com/in/jothamlec/"
+    title = "LinkedIn"
+
 
 [params]
   defaultTheme = "auto"
