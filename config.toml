@@ -124,7 +124,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       paginate = 10
   [params.social]
     GitHub = ""
-    Linkedin = "https://www.linkedin.com/in/jothamlec/"
+    Linkedin = "jothamlec"
     Twitter = ""
     Instagram = ""
     Facebook = ""
