@@ -25,44 +25,28 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "posts"
     pre = ""
     post = ""
     name = "Posts"
-    url = "/posts/"
-    title = ""
+    pageRef = "/posts/"
   [[menu.main]]
     weight = 2
-    identifier = "About"
     pre = ""
     post = ""
     name = "About"
-    url = "/about/"
-    title = ""
+    pageRef = "/about/"
   [[menu.main]]
     weight = 3
-    identifier = "projects"
     pre = ""
     post = ""
     name = "Projects"
-    url = "/projects/"
-    title = ""
+    pageRef = "/projects/"
   [[menu.main]]
     weight = 4
-    identifier = "Agency"
     pre = ""
     post = ""
     name = "Agency"
     url = "https://cothink.ing"
-    title = ""
-  [[manu.main]]
-    weight = 99
-    identifier = "linkedin"
-    pre = "<i class='fa-brands fa-linkedin' aria-hidden='true'></i>"
-    post = ""
-    name = ""
-    url = "https://www.linkedin.com/in/jothamlec/"
-    title = "LinkedIn"
 
 
 [params]
@@ -218,8 +202,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     hiddenFromHomePage = false
     hiddenFromSearch = false
     twemoji = true
-    lightgallery = true
-    ruby = true
+    lightgallery = false
+    ruby = false
     fraction = true
     fontawesome = true
     linkToMarkdown = true

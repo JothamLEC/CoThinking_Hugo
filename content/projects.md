@@ -3,7 +3,7 @@ title = "Projects"
 date = "2024-11-09"
 +++
 
-## Current working on
+## Current Working On
 - State of PropTech 2025 for Malaysia Proptech Association.
 - Web Development for Data company
 - Web Development for International low-code/no-code company
@@ -13,6 +13,7 @@ date = "2024-11-09"
 
 **Before Oct 2024**
 - [Cover & featured articles from TheEdge](https://theedgemalaysia.com/author/Jotham%20Lim?page=1)
+  - Alternatively, you can check out my [bibiliography]({{< relref "bibliography" >}}).
 
 - [Innov8tif.com](https://innov8tif.com)
   - Manage marketing department
