@@ -28,19 +28,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "Posts"
-    pageRef = "/posts/"
+    url = "/posts/"
   [[menu.main]]
     weight = 2
     pre = ""
     post = ""
     name = "About"
-    pageRef = "/about/"
+    url = "/about/"
   [[menu.main]]
     weight = 3
     pre = ""
     post = ""
     name = "Projects"
-    pageRef = "/projects/"
+    url = "/projects/"
   [[menu.main]]
     weight = 4
     pre = ""
