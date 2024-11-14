@@ -26,7 +26,7 @@ Although capturing such a high number of signatures for a petition is impressive
 
 He points out that even if a petition goes viral, it is most likely circulated among a group of like-minded people expressing similar views. These signatories are a subset within a subset of the entire country’s population. Hence, it is unreasonable to expect national policies to change just because a petition has a relatively large number of signatures.
 
-[![f83894ef388926c3926ffad96ddca5d6_MD5](/img/f83894ef388926c3926ffad96ddca5d6_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Terence-tem1387_theedgemarkets.jpg)
+[![f83894ef388926c3926ffad96ddca5d6_MD5](/media/f83894ef388926c3926ffad96ddca5d6_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Terence-tem1387_theedgemarkets.jpg)
 
 However, this does not mean petitions have no role to play in a democratic society. Too gave the example of California’s ballot initiative process, where signatures and votes play an essential role in turning initiative petitions into state legislation. Still, such direct democracy practices are few and far between around the world.
 
@@ -52,7 +52,7 @@ Hence, regardless of the number of signatures, petitions alone have limited impa
 
 “The senators should utilise technology and petitions to garner the people’s opinions towards their portfolio, and MPs should use them to garner opinions from their respective constituencies. They can then process these and bring the information to the august house, where intellectual and constructive debates can happen,” he adds.
 
-[![1f1ac2f08b5d411111f0068e9a84d771_MD5](/img/1f1ac2f08b5d411111f0068e9a84d771_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Zokhr-item1387_theedgemarkets.jpg)
+[![1f1ac2f08b5d411111f0068e9a84d771_MD5](/media/1f1ac2f08b5d411111f0068e9a84d771_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Zokhr-item1387_theedgemarkets.jpg)
 
 “The least we can have is the assurance that what is being debated in parliament is reflective of the people’s opinions. Although decisions may not follow through, the rakyat can feel that their voices have been heard and were presented in parliament. Technology posits the point that direct democracy can still be established via the framework of our Constitution.”
 
@@ -74,7 +74,7 @@ Dr Pauline Leong Pooi Yin, a visiting fellow at the ISEAS-Yusof Ishak Institute,
 
 “Online petitions are useful to bring public awareness about an issue, but they cannot be the only strategy in a campaign. There needs to be a concerted effort online and offline to effect change,” says Leong.
 
-[![bc88ac1c2b66d837b5af6977672ad60c_MD5](/img/bc88ac1c2b66d837b5af6977672ad60c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Pauline-item1387_theedgemarkets.jpg)
+[![bc88ac1c2b66d837b5af6977672ad60c_MD5](/media/bc88ac1c2b66d837b5af6977672ad60c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Pauline-item1387_theedgemarkets.jpg)
 
 “For example, was an online campaign to get netizens to share pictures of black flags on various social media platforms. The strong support gave rise to the campaign, which led to a street protest that gained even more media attention. The online buzz helped fuel the momentum for the offline protest.”
 

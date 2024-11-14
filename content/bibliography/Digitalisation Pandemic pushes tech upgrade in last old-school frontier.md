@@ -24,7 +24,7 @@ This is in stark contrast to the FIFA World Cup football season, where all eight
 
 From his observation, most players in this industry lost 80% to 90% of their sales during the MCO period. For mamak restaurants that offered delivery services, he estimates that they would have recovered 10% to 15% of their sales, but would still have seen their sales being slashed by more than half compared with before the MCO.
 
-[![4186d94cbdf16a5501e63e5c093f134b_MD5](/img/4186d94cbdf16a5501e63e5c093f134b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-chin-tem1354_theedgemarkets.jpg)
+[![4186d94cbdf16a5501e63e5c093f134b_MD5](/media/4186d94cbdf16a5501e63e5c093f134b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-chin-tem1354_theedgemarkets.jpg)
 
 “The goal is first to get merchants on board and make them comfortable with digitalisation, and then slowly help them incorporate more digital initiatives.” - Chin
 
@@ -42,7 +42,7 @@ By combining QR codes, digital and mobile app payments, smart terminals and appl
 
 Revenue Monster also assists merchants in setting up loyalty programmes through social media platforms. Instead of developing a standalone app, it uses WeChat Official Accounts and Facebook Messenger to enable digital memberships, loyalty points, vouchers and even prepaid cards with the help of QR codes.
 
-[![bbfaba75728c83da5eae4620e4e6865d_MD5](/img/bbfaba75728c83da5eae4620e4e6865d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Zainal-tem1354_theedgemarkets.jpg)
+[![bbfaba75728c83da5eae4620e4e6865d_MD5](/media/bbfaba75728c83da5eae4620e4e6865d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Zainal-tem1354_theedgemarkets.jpg)
 
 “The most difficult part of adopting new digital solutions is to change the mindset of staff and customers.” - Zainal
 
@@ -54,7 +54,7 @@ Revenue Monster CEO Amanda Chin tells _Digital Edge_ that different businesses a
 
 Other than providing an open logistic infrastructure, payments platforms and loyalty programmes, à la carte also allows merchants to set up a digital store, where customers can browse and order menu items online. It helps expand the merchant’s sales channels to include walk-ins, pick-ups, drive-throughs and deliveries.
 
-[![5aef77d33f128b99c3c38814faa6c307_MD5](/img/5aef77d33f128b99c3c38814faa6c307_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Manu-tem1354_theedgemarkets.jpg)
+[![5aef77d33f128b99c3c38814faa6c307_MD5](/media/5aef77d33f128b99c3c38814faa6c307_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Manu-tem1354_theedgemarkets.jpg)
 
 With the drive-through feature, for example, the customer only needs to key in their number plate, and the merchant will facilitate the drop-off directly to the vehicle once it has arrived. As for delivery options, Revenue Monster has partnered with third-party last-mile providers GrabExpress and MrSpeedy.
 

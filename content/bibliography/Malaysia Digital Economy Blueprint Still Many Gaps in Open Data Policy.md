@@ -22,7 +22,7 @@ One of the blueprint initiatives involves improving the current data-sharing env
 
 The Malaysian Government Central Data Exchange (MyGDX) will expand its service catalogues to include all ministries and government agencies to facilitate more data sharing. Ministries and agencies are required to produce their own open Application Programming Interface (API) to share real-time and aggregated data.
 
-[![c0ddd8e061a488ef4aceceeb9aa0528b_MD5](/img/c0ddd8e061a488ef4aceceeb9aa0528b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Ashraf_TEM1358_theedgemarkets.jpg)
+[![c0ddd8e061a488ef4aceceeb9aa0528b_MD5](/media/c0ddd8e061a488ef4aceceeb9aa0528b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Ashraf_TEM1358_theedgemarkets.jpg)
 
 The authorities are targeting 50% of the data shared to be machine-readable and accessible through APIs, and for all ministries and agencies to use MyGDX by 2025. Through improved data sharing, authorities can incorporate more data in their analysis and development of future policies.
 
@@ -38,7 +38,7 @@ The blueprint also highlights initiatives to increase data sharing and usage amo
 
 ### Does the Blueprint Address Real Open Data Challenges?
 
-[![07a195f9369f0cd07b35e3d21d6ddac3_MD5](/img/07a195f9369f0cd07b35e3d21d6ddac3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Nurazam_TEM1358_theedgemarkets.jpg)
+[![07a195f9369f0cd07b35e3d21d6ddac3_MD5](/media/07a195f9369f0cd07b35e3d21d6ddac3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Nurazam_TEM1358_theedgemarkets.jpg)
 
 Ashraf Shaharudin, a research associate at Khazanah Research Institute (KRI), welcomes the initiative to grant Mampu a greater mandate for enforcement. However, he is keen to know the form and extent of the mandate when it comes to open government data.
 
@@ -58,7 +58,7 @@ Nurazam Malim, Twistcode Technologies Sdn Bhd CEO, voices his concerns about the
 
 “That means the government needs to develop the back-end processes internally with the help of Mampu. Mampu would then need to train people to facilitate the process. But as we have seen from many government agencies, once they are properly trained, many will resign and work for the private sector.”
 
-[![6539655aab4bfb82a6c81823d3656811_MD5](/img/6539655aab4bfb82a6c81823d3656811_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Reza_TEM1358_theedgemarkets.jpg)
+[![6539655aab4bfb82a6c81823d3656811_MD5](/media/6539655aab4bfb82a6c81823d3656811_MD5.jpg)](https://assets.theedgemarkets.com/pictures/MYDigital_Reza_TEM1358_theedgemarkets.jpg)
 
 Nurazam recommends that Mampu work with government-linked companies (GLCs) alongside agencies and ministries to create open GLC data. Doing so will allow Mampu to set up infrastructure and back-end processes that are aligned with market needs and, more importantly, provide talent with the motivation and incentives to continue working for the public sector.
 

@@ -14,7 +14,7 @@ categories: [article]
 
 ---
 
-![c07badce76a92e3679fe5eafc5bea856_MD5](/img/c07badce76a92e3679fe5eafc5bea856_MD5.jpg)
+![c07badce76a92e3679fe5eafc5bea856_MD5](/media/c07badce76a92e3679fe5eafc5bea856_MD5.jpg)
 
 A Deal Worth Considering?
 

@@ -14,7 +14,7 @@ categories: [article]
 
 ---
 
-![7b0d08c3af33b2471350af2034d967bb_MD5](/img/7b0d08c3af33b2471350af2034d967bb_MD5.jpg)
+![7b0d08c3af33b2471350af2034d967bb_MD5](/media/7b0d08c3af33b2471350af2034d967bb_MD5.jpg)
 
 _By: Jotham Lim_
 
@@ -24,11 +24,11 @@ Digital e-wallets, SME finance solutions, foreign exchange services etc., all of
 
 Entrepreneur Insight has approached Prashant Aggarwal, Chief Commercial Officer of CompareAsiaGroup, and Benny Chee, Country Manager of CompareAsiaGroup, to get their insights on the issues pertaining to the local Fintech market.
 
-**![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/img/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)**
+**![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/media/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)**
 
 _Benny Chee, Country Manager of CompareAsiaGroup_
 
-**![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/img/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)**
+**![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/media/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)**
 
 _Prashant Aggarwal,COO of CompareAsiaGroup_
 

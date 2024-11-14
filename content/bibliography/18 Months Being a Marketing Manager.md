@@ -9,7 +9,7 @@ categories:
 
 **Jan 21, 2024**
 
-[![849f8a7804f610c2b698ae65558dd777_MD5](/img/849f8a7804f610c2b698ae65558dd777_MD5.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a30e3a0-c9cf-4f4c-a65d-03449b03108c_2354x1324.jpeg)
+[![849f8a7804f610c2b698ae65558dd777_MD5](/media/849f8a7804f610c2b698ae65558dd777_MD5.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a30e3a0-c9cf-4f4c-a65d-03449b03108c_2354x1324.jpeg)
 
 I lead a small team of three. Though small, this department is an important one and has an undeniable impact on the company and the industry.
 

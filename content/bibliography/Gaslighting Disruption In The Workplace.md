@@ -14,7 +14,7 @@ categories: [article]
 
 ---
 
-![b759a870d48c15483fb6a801f99b330e_MD5](/img/b759a870d48c15483fb6a801f99b330e_MD5.jpg)
+![b759a870d48c15483fb6a801f99b330e_MD5](/media/b759a870d48c15483fb6a801f99b330e_MD5.jpg)
 
 _By: Jotham Lim_
 

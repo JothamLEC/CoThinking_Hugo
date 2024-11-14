@@ -24,7 +24,7 @@ While pressure is mounting on these manufacturers to make the switch, many obsta
 
 Instead of the availability of sustainable packaging options, it is rather the logistics and cost benefits that hinder most manufacturers from making the transition. However, Tiviti says that product lifecycle management (PLM) solutions can whittle down many of these barriers, especially when used in combination with advanced technology such as predictive analysis.
 
-[![69ead86cd05b00f44180878ce7cd3663_MD5](/img/69ead86cd05b00f44180878ce7cd3663_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Charts-tem1371_theedgemarkets.jpg)
+[![69ead86cd05b00f44180878ce7cd3663_MD5](/media/69ead86cd05b00f44180878ce7cd3663_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Charts-tem1371_theedgemarkets.jpg)
 
 ### From Dust to Dust
 

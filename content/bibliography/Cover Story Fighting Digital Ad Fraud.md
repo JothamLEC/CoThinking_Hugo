@@ -24,7 +24,7 @@ Malaysian Advertisers Association (MAA) president Kadri Mohamed Taib says even t
 
 “With tools such as click bots, pixel stuffing, malicious apps and more, ad fraud has evolved in such a way that it can impact every element of digital advertising, from evolving advertising mediums to leading the erosion of media investment across multiple platforms,” says Kadri.
 
-[![60d212132a168faa66f242484e6d1658_MD5](/img/60d212132a168faa66f242484e6d1658_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Kadri-tem1344_theedgemarkets.jpg)
+[![60d212132a168faa66f242484e6d1658_MD5](/media/60d212132a168faa66f242484e6d1658_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Kadri-tem1344_theedgemarkets.jpg)
 
 “Click fraud will become so rampant that it will cost advertisers more than US$50 billion by 2025 globally. WFA advises brands to apply caution to digital investments until the advertising tech sector deals with the problem more effectively.”
 
@@ -36,13 +36,13 @@ According to Stanislaus, the thriving digital advertising industry is a key driv
 
 “The more people switch to digital platforms, the more fraud cases there will be. This is because fraudsters do not \[bother with\] a platform that does not have viewers. If there were no viewers, advertisers would not be spending money there. And if there is no ad spend on the platform, there will be no way for fraudsters to benefit from it,” says Stanislaus.
 
-[![bf29b45eb39fdd7282e4c438bd9cfa55_MD5](/img/bf29b45eb39fdd7282e4c438bd9cfa55_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Stanislaus-tem1344_theedgemarkets.jpg)
+[![bf29b45eb39fdd7282e4c438bd9cfa55_MD5](/media/bf29b45eb39fdd7282e4c438bd9cfa55_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Stanislaus-tem1344_theedgemarkets.jpg)
 
 In Malaysia, digital ads account for only about 25% of total advertising spend, whereas in the US, it accounts for 50%. But as digital ad spend grows in the country, so will the number of fraud cases, Stanislaus notes.
 
 There is another reason that ad fraud is so rampant: It falls into a legal grey area, as there is no law, whether locally or globally, to govern it, Stanislaus points out. What this means is that even if the fraudsters are caught, it is difficult to prosecute them.
 
-[![2269bd5cac4c135c026c64b20d399524_MD5](/img/2269bd5cac4c135c026c64b20d399524_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Pay-tem1344_theedgemarkets.jpg)
+[![2269bd5cac4c135c026c64b20d399524_MD5](/media/2269bd5cac4c135c026c64b20d399524_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Pay-tem1344_theedgemarkets.jpg)
 
 In September 2017, US-based e-hailing service Uber sought US$40 million in damages from Fetch Media, alleging that the media agency had billed Uber for fake clicks on its online advertisements through a pay-per-click model.
 
@@ -52,7 +52,7 @@ Stanislaus says there are no similar lawsuits in Malaysia, and advertisers are l
 
 “We have about 40 different regulations and codes governing advertising standards in Malaysia to protect consumers. Many of these affect the way we advertise, all of which we have to comply with,” he says.
 
-[![ec8cccc99d9de9e3e37e9a73cbe0f2ad_MD5](/img/ec8cccc99d9de9e3e37e9a73cbe0f2ad_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-at-a-glance_theedgemarkets.jpg)
+[![ec8cccc99d9de9e3e37e9a73cbe0f2ad_MD5](/media/ec8cccc99d9de9e3e37e9a73cbe0f2ad_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-at-a-glance_theedgemarkets.jpg)
 
 “Here, we have an actual problem that costs us money, and we are asking for regulation to help protect us. This will require a lot of effort not just from the government, but from international bodies as well.”
 
@@ -64,7 +64,7 @@ Lee cites the example of streaming fraud. On the popular music-streaming app Spo
 
 “If ad fraud cases were to increase, advertisers would have to factor fraud into their expenses and allocate a higher percentage of their budget to buying advertising slots. This means less budget for content creators,” he points out.
 
-[![e4a176933c5a1802200e08763f9a9c57_MD5](/img/e4a176933c5a1802200e08763f9a9c57_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Lee-tem1344_theedgemarkets.jpg)
+[![e4a176933c5a1802200e08763f9a9c57_MD5](/media/e4a176933c5a1802200e08763f9a9c57_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Lee-tem1344_theedgemarkets.jpg)
 
 “And in cases of fraud, the ads are redirected to bots instead of the intended audience. So, no matter how fantastic your creative vision is, if nobody sees it, the advertising campaign has failed.”
 
@@ -76,7 +76,7 @@ To resolve this issue, Lee explains that marketers should pay closer attention t
 
 In a media quality report published by Integral Ad Science, advertising fraud made up 6% to 11.9% of non-optimised advertising spend as at 2H2019, and the figure is increasing yearly. Optimising the advertising campaign can, however, reduce the advertising fraud rate to between 0.5% and 1.1%.
 
-[![96a8171e062e208f99b148d8077be599_MD5](/img/96a8171e062e208f99b148d8077be599_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Chanchal-tem1344_theedgemarkets.jpg)
+[![96a8171e062e208f99b148d8077be599_MD5](/media/96a8171e062e208f99b148d8077be599_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Chanchal-tem1344_theedgemarkets.jpg)
 
 “For example, if I were to create an advertising campaign without specifying where the advertisement should appear, it will then rely on the bot to make the decision. Out of a RM1 million budget, a portion may go to a random app where nobody sees the ads,” Lee says.
 
@@ -96,9 +96,9 @@ MSA is a trade body that primarily represents the interests of media agencies in
 
 In brand safety, marketers try to ensure that advertisements do not end up on non-brand-friendly platforms such as terrorist or pornographic websites. In terms of viewability, at least 50% of the advertisement must be displayed for at least two seconds to be classified as viewed as per industry standard, according to Chanchal.
 
-[![eea09c91a82ed6a4e7325fa5b200f991_MD5](/img/eea09c91a82ed6a4e7325fa5b200f991_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-AD-tem1344_theedgemarkets.jpg)
+[![eea09c91a82ed6a4e7325fa5b200f991_MD5](/media/eea09c91a82ed6a4e7325fa5b200f991_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-AD-tem1344_theedgemarkets.jpg)
 
-[![bb89ccda1b77b6741e11f4c0fb9fb855_MD5](/img/bb89ccda1b77b6741e11f4c0fb9fb855_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-pixel-tem1344_theedgemarkets.jpg)
+[![bb89ccda1b77b6741e11f4c0fb9fb855_MD5](/media/bb89ccda1b77b6741e11f4c0fb9fb855_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-pixel-tem1344_theedgemarkets.jpg)
 
 He says despite the low fraud risk in Malaysia, the country still struggles with brand safety and viewability. Several ad fraud tactics, such as ad-stacking and pixel stuffing, are also linked to an advertisement’s viewability. Fortunately, there are several ad tech solutions in the market that help address the BAV challenge.
 
@@ -122,4 +122,4 @@ MSA has also been active in conducting supply summits, where publishers are gath
 
 “As an industry, we currently lack caution. That is why the use of these fraud detection solutions is so low, and that is the first thing that needs to change. If advertisers are cautious about this, good money will be placed behind quality advertising space,” Chanchal adds.
 
-[![f4ea1820b97dcbda3c4d2aa6557d2915_MD5](/img/f4ea1820b97dcbda3c4d2aa6557d2915_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Checklist-tem1344_theedgemarkets.jpg)
+[![f4ea1820b97dcbda3c4d2aa6557d2915_MD5](/media/f4ea1820b97dcbda3c4d2aa6557d2915_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Checklist-tem1344_theedgemarkets.jpg)

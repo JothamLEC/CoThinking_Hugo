@@ -9,7 +9,7 @@ categories: [article]
 >
 > “Home is a shelter from storms. All sorts of storms.” -William J. Bennett
 
-![23994245a1961503961833946dc2a829_MD5](/img/23994245a1961503961833946dc2a829_MD5.jpg)
+![23994245a1961503961833946dc2a829_MD5](/media/23994245a1961503961833946dc2a829_MD5.jpg)
 
 ## Paradise Isle Within The Hustle And Bustle
 
@@ -25,7 +25,7 @@ Located near Bandar Sunway, Greenfield Residences is developed by Cicet Asia Dev
 
 This project is set to be one of the icons of the surrounding area, a landmark of the Sunway Mentari district. At this moment of writing, Tower A is sold out, while the second tower, Tower B, is 85% sold. Tower C was launched earlier this year in April, with a 36-storey development consisting of 297 residential suites.
 
-![8e4460f99783754e356c15f19a45c0e2_MD5](/img/8e4460f99783754e356c15f19a45c0e2_MD5.jpg)
+![8e4460f99783754e356c15f19a45c0e2_MD5](/media/8e4460f99783754e356c15f19a45c0e2_MD5.jpg)
 
 Greenfield Residence Facade
 
@@ -37,7 +37,7 @@ PARADISE ISLE With limited land space here in Klang Valley and rising land price
 
 Cicet Asia has definitely had the customer journey nailed down to the core for this development project, paying very close attention to the minute details.
 
-![f5befedc7264c52e410c0126e3628fc7_MD5](/img/f5befedc7264c52e410c0126e3628fc7_MD5.jpg)
+![f5befedc7264c52e410c0126e3628fc7_MD5](/media/f5befedc7264c52e410c0126e3628fc7_MD5.jpg)
 
 Imagine yourself jogging through the premises. The jogging track runs parallel to a dense tree line, providing shade and fresh air for your morning run. You circle a pink blossom park, where family members of all ages are able to enjoy a wonderful flower viewing while having a picnic.
 
@@ -61,6 +61,6 @@ In 2014, Cicet Asia has decided to venture into property development. The group 
 
 Gym Facilities
 
-![ec87218070267d675bb7f46f534b5d93_MD5](/img/ec87218070267d675bb7f46f534b5d93_MD5.jpg)
+![ec87218070267d675bb7f46f534b5d93_MD5](/media/ec87218070267d675bb7f46f534b5d93_MD5.jpg)
 
-![1f63cae744420d6dbc0a3aed51962cab_MD5](/img/1f63cae744420d6dbc0a3aed51962cab_MD5.jpg)
+![1f63cae744420d6dbc0a3aed51962cab_MD5](/media/1f63cae744420d6dbc0a3aed51962cab_MD5.jpg)

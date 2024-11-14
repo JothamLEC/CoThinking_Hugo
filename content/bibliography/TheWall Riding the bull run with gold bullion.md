@@ -22,7 +22,7 @@ Liew Kim Fung, chief trader at Ace Capital Growth Sdn Bhd, believes gold prices 
 
 Dean Arif, founder of Malaysia Bullion Trade, a precious metal bullion trading company that has been operating for 10 years, says gold might be oversold in the short term, and there will be multiple corrections over time. However, he believes prices will rebound, driven mainly by global central banks’ quantitative easing policies and fiscal stimulus.
 
-![7dd9018aab11fe7c9f7cd49c07248dc7_MD5](/img/7dd9018aab11fe7c9f7cd49c07248dc7_MD5.jpg)
+![7dd9018aab11fe7c9f7cd49c07248dc7_MD5](/media/7dd9018aab11fe7c9f7cd49c07248dc7_MD5.jpg)
 
 Testing the authenticity of a gold bullion using a precious metal verifier
 
@@ -32,7 +32,7 @@ Retail investors who want to take advantage of the opportunities in the precious
 
 Dean says physical gold is still the primary way to gain exposure to the gold market in Malaysia, as there is a vibrant secondary market for gold bullion.
 
-[![23c3ac431060f9cf02fa1d59d683ff2d_MD5](/img/23c3ac431060f9cf02fa1d59d683ff2d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Dean_TEM1336_theedgemarkets.jpg)
+[![23c3ac431060f9cf02fa1d59d683ff2d_MD5](/media/23c3ac431060f9cf02fa1d59d683ff2d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Dean_TEM1336_theedgemarkets.jpg)
 
 “The trading volume \[for physical gold\] is quite high actually. Based on my personal observation, I would estimate that physical gold makes up more than half of the gold trading volume in Malaysia,” he adds.
 
@@ -54,7 +54,7 @@ Some digital gold investment platforms charge an annual management fee based on 
 
 Datuk Steven Siow Dek Kuen, president of the Federation of Goldsmiths and Jewellers Associations of Malaysia (FGJAM), argues that it is easier to liquidate gold bullion than paper gold products such as GIAs.
 
-[![ba21938cf08a8f011ff08c7a45ef3a0b_MD5](/img/ba21938cf08a8f011ff08c7a45ef3a0b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Steven_TEM1336_theedgemarkets.jpg)
+[![ba21938cf08a8f011ff08c7a45ef3a0b_MD5](/media/ba21938cf08a8f011ff08c7a45ef3a0b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Steven_TEM1336_theedgemarkets.jpg)
 
 “Physical gold investment is all about a willing buyer and a willing seller. You can trade \[bullion\] in any country, with anyone, whether a trader or retailer. When investors make investments in gold bullion, there is a mutual agreement between both parties, based on the percentage in price reduction when you want to trade in the gold,” says Steven.
 
@@ -74,7 +74,7 @@ Despite the rapid increase in the price of gold, most experts agree that gold bu
 
 Ermin Siow Der Ming, executive director of Poh Kong Jewellers Sdn Bhd, explains that there has been a surge in demand for gold bullion in recent weeks due to the spike in the price of gold.
 
-[![0c23efbbfc5b18142889f07a96bd789b_MD5](/img/0c23efbbfc5b18142889f07a96bd789b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Ermin_TEM1336_theedgemarkets.jpg)
+[![0c23efbbfc5b18142889f07a96bd789b_MD5](/media/0c23efbbfc5b18142889f07a96bd789b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Ermin_TEM1336_theedgemarkets.jpg)
 
 “The market is very interesting. The higher the price of gold, the more people will buy gold bullion. In the 1990s, when the price of gold was only about RM300 an ounce, nobody bothered acquiring it. But now that it is almost RM2,000 an ounce, everybody is suddenly interested in it,” he says.
 
@@ -106,7 +106,7 @@ Demand for locally minted bullion is still high, according to Dean. Bullion spec
 
 However, if an investor plans on selling physical gold to bullion traders or retailers, the appearance of the gold itself does little to add value to the gold, says Pang Ann Puo, honorary secretary of FGJAM.
 
-[![6dac563a03fd4a902368464c0587e965_MD5](/img/6dac563a03fd4a902368464c0587e965_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Pang_TEM1336_theedgemarkets.jpg)
+[![6dac563a03fd4a902368464c0587e965_MD5](/media/6dac563a03fd4a902368464c0587e965_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW2-Pang_TEM1336_theedgemarkets.jpg)
 
 “It is the fineness of the gold that determines its value, regardless of whether it’s from Canada, Australia or South Africa. Of course, some coins are collectable items, which will affect their value. But for us retailers, we normally buy the gold before scrapping and refining it. So, it does not matter how it looks or where it comes from,” says Pang.
 

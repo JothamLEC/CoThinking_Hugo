@@ -22,7 +22,7 @@ Unfortunately, Malaysia holds one of the lowest ranks in the Global Open Data In
 
 To take advantage of the nascent open data landscape in Malaysia, here is a compilation of open data portals available to any data enthusiast. This is by no means an exhaustive list. For a more comprehensive list of all the available open data portals globally, readers may visit the Open Data Inception website (opendatainception.io).
 
-[![ffa43c0ef69ae2b7658f98c13245e320_MD5](/img/ffa43c0ef69ae2b7658f98c13245e320_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-data-tem1393_theedgemarkets.jpg)
+[![ffa43c0ef69ae2b7658f98c13245e320_MD5](/media/ffa43c0ef69ae2b7658f98c13245e320_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-data-tem1393_theedgemarkets.jpg)
 
 ### 1 Malaysia Open Data Portal
 
@@ -34,7 +34,7 @@ The site is being managed by the Malaysian Administrative Modernisation and Mana
 
 The datasets stored on the website leave much room for improvement, especially when it comes to standardisation. The language may be in either English or Bahasa Malaysia, and some of the data may be duplicated or outdated. Still, it is currently the most comprehensive open government data platform that we have.
 
-[![f92feea294bf825b54fcdc5cfc0bbd35_MD5](/img/f92feea294bf825b54fcdc5cfc0bbd35_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-kaggle-tem1393_theedgemarkets.jpg)
+[![f92feea294bf825b54fcdc5cfc0bbd35_MD5](/media/f92feea294bf825b54fcdc5cfc0bbd35_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-kaggle-tem1393_theedgemarkets.jpg)
 
 ### 2 Kaggle
 
@@ -48,7 +48,7 @@ At the time of writing, the competition with the largest prize pool, of US$100,0
 
 Kaggle’s inClass competition programme is also free for universities and is being used by institutions such as Harvard, Stanford and Oxford Universities. Students can even use existing codes provided by the Kaggle community and repurpose them for their personal projects.
 
-[![58b3ff93bf6d646564415f616572fc8f_MD5](/img/58b3ff93bf6d646564415f616572fc8f_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-oecd-tem1393_theedgemarkets.jpg)
+[![58b3ff93bf6d646564415f616572fc8f_MD5](/media/58b3ff93bf6d646564415f616572fc8f_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-oecd-tem1393_theedgemarkets.jpg)
 
 ### 3 OECD iLibrary
 
@@ -60,7 +60,7 @@ In addition to economic indicators, the site also contains datasets ranging from
 
 Many of the datasets go as far back as 1998, giving data scientists plenty of wiggle room to conduct any time-series or historical analysis. Even without the raw datasets on the site, the OECD publishes between 300 and 500 books annually—a repository of information useful for any knowledge analysis beyond pure data and should be part of any data scientist’s toolkit.
 
-[![47eb3969540ffbd12967273fb86433cc_MD5](/img/47eb3969540ffbd12967273fb86433cc_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-napic-tem1393_theedgemarkets.jpg)
+[![47eb3969540ffbd12967273fb86433cc_MD5](/media/47eb3969540ffbd12967273fb86433cc_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-napic-tem1393_theedgemarkets.jpg)
 
 ### 4 National Property Information Centre
 
@@ -74,7 +74,7 @@ To obtain more granular data that might involve individual sales transactions, t
 
 Currently, these unpublished databases are available only to nationally recognised and registered property valuers and real estate agents, and it is uncertain whether the service will be available to the general public. Parts of the transaction database can be found on the official government portal, but it contains data for only up to 2018 at the time of writing.
 
-[![619f06f08630050ebb1893ba01e731eb_MD5](/img/619f06f08630050ebb1893ba01e731eb_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-dataportal-tem1393_theedgemarkets.jpg)
+[![619f06f08630050ebb1893ba01e731eb_MD5](/media/619f06f08630050ebb1893ba01e731eb_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-dataportal-tem1393_theedgemarkets.jpg)
 
 ### 5 Asia Open Data Portal
 

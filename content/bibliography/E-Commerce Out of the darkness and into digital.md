@@ -20,7 +20,7 @@ She used to sell around 20 bamboo sticks’ worth of lemang every week. However,
 
 But it did not stop there. With no money coming in, she was unable to pay her other bills as well and, soon, her electricity was cut.
 
-[![4a7a994b09b2fe6db9d5e7ca722449a0_MD5](/img/4a7a994b09b2fe6db9d5e7ca722449a0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Dino-tem1373_theedgemarkets.jpg)
+[![4a7a994b09b2fe6db9d5e7ca722449a0_MD5](/media/4a7a994b09b2fe6db9d5e7ca722449a0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Dino-tem1373_theedgemarkets.jpg)
 
 “Ever since I was listed on SSL, I have been receiving orders every day, especially during the Ramadan period. This is truly encouraging because I could barely get any sales before.” - Dino
 
@@ -46,7 +46,7 @@ As a traditional bricks-and-mortar business, however, Raj highlights that there 
 
 “Business owners must be ready to deal with the challenges of managing online orders and handling the different delivery options. The entire marketing model will need to be changed as well as we need to suit our messaging \[system\] to the online-savvy audience and mobile users,” he says.
 
-[![7dd780819f497f212f82d8540ddc9220_MD5](/img/7dd780819f497f212f82d8540ddc9220_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Chong-tem1373_theedgemarkets.jpg)
+[![7dd780819f497f212f82d8540ddc9220_MD5](/media/7dd780819f497f212f82d8540ddc9220_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Chong-tem1373_theedgemarkets.jpg)
 
 “We have managed to develop the entire system in-house. For the end-to-end process—from identifying the merchants, \[determining\] how to reach them and implementing the SSL platform—we had to set up everything in a very short period of time.” - Chong
 
@@ -68,7 +68,7 @@ Yet, Chong says mobilising the 16,000 employees was the least challenging aspect
 
 Maybank head of virtual banking Kalyani Nair also highlights that having a common purpose is not just a rallying cry for Maybank employees, but a key determining factor in shaping the SSL initiative over time.
 
-[![6341edd5ce33f05096b9ffd2b3f9a306_MD5](/img/6341edd5ce33f05096b9ffd2b3f9a306_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Kalyani-tem1373_theedgemarkets.jpg)
+[![6341edd5ce33f05096b9ffd2b3f9a306_MD5](/media/6341edd5ce33f05096b9ffd2b3f9a306_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-Kalyani-tem1373_theedgemarkets.jpg)
 
 “If we do not help these businesses digitize, they will struggle and perhaps die a natural death. With the severity of the situation in mind, we curated the entire initiative, from how to speak to merchants to the onboarding process.” - Kalyani
 

@@ -54,7 +54,7 @@ Despite Accenture having multiple centres across the world, Pankaj says Malaysia
 
 “Finally, the government has made conscious efforts to establish the country as an information technology hub. Intelligent operations are powered by digital technology, and we believe that there is the necessary usage, knowledge and adoption of the space to serve as an attractive regional hub.”
 
-[![da28daa4b0282519d32b91f1a7af52be_MD5](/img/da28daa4b0282519d32b91f1a7af52be_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-table-tem1370_theedgemarkets.jpg)
+[![da28daa4b0282519d32b91f1a7af52be_MD5](/media/da28daa4b0282519d32b91f1a7af52be_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-table-tem1370_theedgemarkets.jpg)
 
 ## LIXIL Locates Intelligent Operations Hub in Malaysia
 

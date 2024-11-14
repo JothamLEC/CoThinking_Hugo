@@ -32,7 +32,7 @@ Instead of enzymes, Hyzan explains that Glucosenz detects the glucose content th
 
 The light then passes through various filters designed only to isolate the glucose content. This spectrum of infrared light can penetrate human skin, eliminating the need to draw blood. Users only need to place their thumb on the reader for 30 seconds, and the result is calculated and displayed on the screen of the device.
 
-[![031a97f80bbba6d2d83ebdc37b852f28_MD5](/img/031a97f80bbba6d2d83ebdc37b852f28_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Hyzan-tem1379_theedgemarkets.jpg)
+[![031a97f80bbba6d2d83ebdc37b852f28_MD5](/media/031a97f80bbba6d2d83ebdc37b852f28_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Hyzan-tem1379_theedgemarkets.jpg)
 
 “Currently, spectrometers \[used in NIRS\] are expensive, so we plan on having Glucosenz primarily placed in clinics and hospitals as a monitoring device. It is not meant to diagnose \[diabetes\]. For that, you have to visit a doctor,” Hyzan stresses.
 

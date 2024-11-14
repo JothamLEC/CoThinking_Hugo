@@ -24,7 +24,7 @@ A group of students from SMK Seksyen 10 Kota Damansara decided that enough was e
 
 Team A.I.R comprises Hafiy, Nur Auni Faqihah Fakhrurrazi and Ayuni Azmy, and was guided by teacher Noraini Mohd Zain.
 
-[![9b4ab09cfb7e68c380d22aad076c10cb_MD5](/img/9b4ab09cfb7e68c380d22aad076c10cb_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-quote-tem1359_theedgemarkets.jpg)
+[![9b4ab09cfb7e68c380d22aad076c10cb_MD5](/media/9b4ab09cfb7e68c380d22aad076c10cb_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-quote-tem1359_theedgemarkets.jpg)
 
 According to Hafiy, the core issue involves sensors currently used by water operators to detect preliminary signs of pollution in rivers. These sensors are submerged in the river water, which damages them over time and increases maintenance costs.
 
@@ -34,7 +34,7 @@ Hafiy explains to _Digital Edge_ that a small container containing a sensor is p
 
 The sensor and water pumps are connected to Arduino hardware that transmits the sensor’s data wirelessly and allows users to control the water pumps. The students also developed a dashboard that displays the data received from the sensor.
 
-[![904badbeb6a309a7255287d1b6a484bf_MD5](/img/904badbeb6a309a7255287d1b6a484bf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-video-tem1359_theedgemarkets.jpg)
+[![904badbeb6a309a7255287d1b6a484bf_MD5](/media/904badbeb6a309a7255287d1b6a484bf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-video-tem1359_theedgemarkets.jpg)
 
 Winners of the Samsung Solve for Tomorrow Competition 2020
 
@@ -48,7 +48,7 @@ He also mentions the challenges of communicating and working together with his t
 
 To prepare for the competition, Hafiy and his team joined both online sessions and normal classes that teach programming skills as well as the use of basic open-source hardware and software such as Arduino. They also spoke to their mentors, teachers and parents to learn more about the issues surrounding the water disruptions in the Klang Valley.
 
-[![577d4abb37be658410c5c99f7d5e4ca8_MD5](/img/577d4abb37be658410c5c99f7d5e4ca8_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-ar-tem1359_theedgemarkets.jpg)
+[![577d4abb37be658410c5c99f7d5e4ca8_MD5](/media/577d4abb37be658410c5c99f7d5e4ca8_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-ar-tem1359_theedgemarkets.jpg)
 
 One of the competition judges, Dr Mas Sahidayana Mohktar, head of University of Malaya’s STEM Centre, says the students were given a choice of four themes—health, education, environmental and social issues—when coming up with ideas for possible solutions. Most of the participants chose environmental issues as these had the most impact on them and their communities.
 

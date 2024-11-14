@@ -25,7 +25,7 @@ There is clearly both supply and demand in this market but it is hard to find a 
 
 Properties in the LiveIn portfolio have managed, however, to achieve a 90% occupancy rate, with a churn rate of less than 1% among property owners. Keek explains that his company’s business model plays a big role in obtaining these attractive figures, thanks to the keen focus on price and cost optimisation as well as data collection.
 
-[![e7ecab7b6df26fb6b0b5fe0f0348264b_MD5](/img/e7ecab7b6df26fb6b0b5fe0f0348264b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-keek-tem1398_theedgemarkets.jpg)
+[![e7ecab7b6df26fb6b0b5fe0f0348264b_MD5](/media/e7ecab7b6df26fb6b0b5fe0f0348264b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-keek-tem1398_theedgemarkets.jpg)
 
 ### Doing Things Differently
 

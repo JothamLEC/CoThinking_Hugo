@@ -30,7 +30,7 @@ MBI Selangor is a corporate body that administers assets and investments of the 
 
 One of these initiatives is the introduction of the Selangor Innovation Fund, to which RM100 million has been allocated to spur the growth of start-ups in the state through venture capital investments.
 
-[![fe06c445cab860c1b6d55cddadab08bf_MD5](/img/fe06c445cab860c1b6d55cddadab08bf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Selangor-Digitalisation-Agenda-2-tem1349_theedgemarkets.jpg)
+[![fe06c445cab860c1b6d55cddadab08bf_MD5](/media/fe06c445cab860c1b6d55cddadab08bf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Selangor-Digitalisation-Agenda-2-tem1349_theedgemarkets.jpg)
 
 Meanwhile, RM130 million has been allocated towards Selangor Advance, a supply chain financing service for small and medium enterprises (SMEs) affected by the Covid-19 pandemic, which will help improve liquidity and cash flow.
 

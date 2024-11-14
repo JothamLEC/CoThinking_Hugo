@@ -5,7 +5,7 @@ postType: post
 categories:
   - 1
 ---
-![7b14d4a538bfda2f95c86516db0cb568_MD5](/img/7b14d4a538bfda2f95c86516db0cb568_MD5.jpg)
+![7b14d4a538bfda2f95c86516db0cb568_MD5](/media/7b14d4a538bfda2f95c86516db0cb568_MD5.jpg)
 
 - _**Blurred and pixelated images can often be reverse-engineered**_ _to reveal censored details, making them unreliable for secure redaction._
 
@@ -27,7 +27,7 @@ This sent me down a deep rabbit hole of the (lack of) security — of **not just
 
 ## Non-destructive Editing — Images and Text
 
-![cfd04ff3c0a606e40d7d47c9f2440ac2_MD5](/img/cfd04ff3c0a606e40d7d47c9f2440ac2_MD5.jpg)
+![cfd04ff3c0a606e40d7d47c9f2440ac2_MD5](/media/cfd04ff3c0a606e40d7d47c9f2440ac2_MD5.jpg)
 
 <small>Mr Swirl Face. Source: BBC</small>
 
@@ -77,7 +77,7 @@ On the flip side, this deciphering method is versatile in theory — allowing us
 
 ### Image De-blurring
 
-![d40034f4de1cf1a0f1446b4da786a3a7_MD5](/img/d40034f4de1cf1a0f1446b4da786a3a7_MD5.jpg)
+![d40034f4de1cf1a0f1446b4da786a3a7_MD5](/media/d40034f4de1cf1a0f1446b4da786a3a7_MD5.jpg)
 
 <small>Face de-pixelation demonstration. Source: Google Brain</small>
 
@@ -91,7 +91,7 @@ I’ve found a [GitHub repo](https://github.com/subeeshvasu/awesome-deblurring?r
 
 But for pixelated images, the technology essentially involves deep learning (DL) techniques and non-deep learning (non-DL) techniques.
 
-![799c2e4b843b1ac13fa923a8cad8a266_MD5](/img/799c2e4b843b1ac13fa923a8cad8a266_MD5.gif)
+![799c2e4b843b1ac13fa923a8cad8a266_MD5](/media/799c2e4b843b1ac13fa923a8cad8a266_MD5.gif)
 
 <small>It even works with Video. Source: Github</small>
 
@@ -117,7 +117,7 @@ But for pixelated images, the technology essentially involves deep learning (DL)
 
 I can’t find any case studies on image de-blurring being used to reverse censorship, but it is certainly being used by police authorities.
 
-![f48f85ee064eaee45ddf1ded98a2a60e_MD5](/img/f48f85ee064eaee45ddf1ded98a2a60e_MD5.jpg)
+![f48f85ee064eaee45ddf1ded98a2a60e_MD5](/media/f48f85ee064eaee45ddf1ded98a2a60e_MD5.jpg)
 
 <small>Different de-blurring algorithms. Source: Journal of Physics</small>
 
@@ -127,7 +127,7 @@ You can even try out de-blurring for free through Github projects like [DeepMosa
 
 ## Black Bar Redaction
 
-![f093dde645a4d63626fc83a8da300e2b_MD5](/img/f093dde645a4d63626fc83a8da300e2b_MD5.jpg)
+![f093dde645a4d63626fc83a8da300e2b_MD5](/media/f093dde645a4d63626fc83a8da300e2b_MD5.jpg)
 
 <small>Google search results for “Document Redaction”</small>
 
@@ -137,19 +137,19 @@ Even then, the adage still rings true — if it’s not destructive, it’s like
 
 - An example would be **black highlights**, which is different from a proper redaction feature. Here’s a [Reddit post](https://www.reddit.com/r/wellthatsucks/comments/i1cdpl/the_difference_between_redacting_and_just/?ref=de-code.my&utm_source=de-code.beehiiv.com&utm_medium=referral&utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is) of a user copying redacted text into a clipboard by simply highlighting the redacted areas.
 
-![566ed573a74f339583dd0342362bc2ac_MD5](/img/566ed573a74f339583dd0342362bc2ac_MD5.gif)
+![566ed573a74f339583dd0342362bc2ac_MD5](/media/566ed573a74f339583dd0342362bc2ac_MD5.gif)
 
 <small>Redacted text being bypassed with a simple highlight + copy &amp; paste. Source: <a href="https://www.reddit.com/r/wellthatsucks/comments/i1cdpl/the_difference_between_redacting_and_just/?utm_source=de-code.beehiiv.com&amp;utm_medium=referral&amp;utm_campaign=recovering-redacted-content-it-s-scary-how-easy-it-is" target="_blank">Reddit</a></small>
 
 - This also applies to covering the target text with black boxes. If saved improperly, users can simply remove the box layer in Adobe Illustrator or any PDF editor.
 
-![234462d839ca70d1457a02c458a650c5_MD5](/img/234462d839ca70d1457a02c458a650c5_MD5.gif)
+![234462d839ca70d1457a02c458a650c5_MD5](/media/234462d839ca70d1457a02c458a650c5_MD5.gif)
 
 <small>Removing black boxes by simply moving them using PDF tools</small>
 
 - Sensitive information may also exist within the PDF’s raw data. It could easily be extracted simply by converting the PDF into text, or for the more technically competent, digging through the source code.
 
-![449ada1f35a2950eb7f5144019fabba0_MD5](/img/449ada1f35a2950eb7f5144019fabba0_MD5.jpg)
+![449ada1f35a2950eb7f5144019fabba0_MD5](/media/449ada1f35a2950eb7f5144019fabba0_MD5.jpg)
 
 <small>Extracting hidden text by converting PDFs into TXT files</small>
 
@@ -157,13 +157,13 @@ Even then, the adage still rings true — if it’s not destructive, it’s like
 
 A quick note regarding asterisk obfuscation: it’s crucial that you complete your login process and not leave it unattended halfway — don’t assume it’s safe just because the password is censored.
 
-![337e087b78151873f7bba29f787fbba4_MD5](/img/337e087b78151873f7bba29f787fbba4_MD5.gif)
+![337e087b78151873f7bba29f787fbba4_MD5](/media/337e087b78151873f7bba29f787fbba4_MD5.gif)
 
 <small>Revealing password is as simple as editing HTML code in client browser</small>
 
 I’ve managed to find this flaw in KWSP’s EPF login page — bypassing the censorship by simply editing a simple HTML line. There are also times when I can retrieve censored passwords by simply copying them to my clipboard and pasting them somewhere else
 
-![1997c74292de2d88e927602dc802736f_MD5](/img/1997c74292de2d88e927602dc802736f_MD5.gif)
+![1997c74292de2d88e927602dc802736f_MD5](/media/1997c74292de2d88e927602dc802736f_MD5.gif)
 
 <small>Maybank’s login system is harder to bypass</small>
 
@@ -175,7 +175,7 @@ I have yet to try it out on the other banking portals just yet.
 
 Another form of censorship is to remove entire sections by simply cropping the image. This, unfortunately, is not entirely safe either.
 
-![bc38802a3ab7da688b615ce1dae1505e_MD5](/img/bc38802a3ab7da688b615ce1dae1505e_MD5.jpg)
+![bc38802a3ab7da688b615ce1dae1505e_MD5](/media/bc38802a3ab7da688b615ce1dae1505e_MD5.jpg)
 
 <small>Pro geo-guesser discovers more un-cropped image data in RAW file. Source: RainBolt</small>
 
@@ -199,7 +199,7 @@ Personally, I think the best resources come from the [Legal & Defence sectors](h
 
 But here are some key ideas I’ve managed to capture:
 
-![f09475bd3edf5f07d032943da1ed25bd_MD5](/img/f09475bd3edf5f07d032943da1ed25bd_MD5.jpg)
+![f09475bd3edf5f07d032943da1ed25bd_MD5](/media/f09475bd3edf5f07d032943da1ed25bd_MD5.jpg)
 
 <small>Sample of proper redaction techniques</small>
 

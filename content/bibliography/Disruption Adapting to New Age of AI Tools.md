@@ -46,7 +46,7 @@ However, if we are still at the early growth stage of this technology, its poten
 
 I have mentioned the idea of integrating fact-checking modules into ChatGPT, but this will open a can of worms. Who gets to decide what is factually correct and wrong? How will the results inform and direct human decisions? The topic of ethical AI has been stuck in the regulatory inbox for the longest time, and hopefully ChatGPT has exacerbated the issue, making it too hard for authorities globally to ignore.
 
-[![b1ef0e5ce90d40ebe606fa9c35d4c9c4_MD5](/img/b1ef0e5ce90d40ebe606fa9c35d4c9c4_MD5.jpg)](https://assets.theedgemarkets.com/pics/2023/de-11-img-1-tem1465_theedgemarkets.jpg)
+[![b1ef0e5ce90d40ebe606fa9c35d4c9c4_MD5](/media/b1ef0e5ce90d40ebe606fa9c35d4c9c4_MD5.jpg)](https://assets.theedgemarkets.com/pics/2023/de-11-img-1-tem1465_theedgemarkets.jpg)
 
 ### Adapting to Change
 

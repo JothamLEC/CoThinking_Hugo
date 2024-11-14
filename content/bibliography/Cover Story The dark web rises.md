@@ -20,7 +20,7 @@ Despite its growing prevalence, local cybersecurity experts are worried that awa
 
 “I am in a dilemma about this. On the one hand, it is good for the public not to know about the dark web so they do not get curious and visit it unprepared, because it can be quite dangerous. If you access the dark web without sufficient knowledge, you may get compromised and become a target for criminals,” says Hon.
 
-[![4efc444fc176cd42250bae667fec1cb2_MD5](/img/4efc444fc176cd42250bae667fec1cb2_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Hon-tem1392_theedgemarkets.jpg)
+[![4efc444fc176cd42250bae667fec1cb2_MD5](/media/4efc444fc176cd42250bae667fec1cb2_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Hon-tem1392_theedgemarkets.jpg)
 
 “On the one hand, it is good for the public not to know about the dark web so they do not get curious and visit it unprepared, because it can be quite dangerous. On the other hand, \[the public\] needs to have at least a basic understanding of the dark web, because cybercriminal activities and the dark web are closely related.” - Hon (Photo by NetAssist)
 
@@ -36,7 +36,7 @@ For the deep web, the Oxford Dictionary defines it as the part of the World Wide
 
 Like the deep web, the dark web is also not indexed by conventional search engines but has additional layers of encryption applied. These websites are only accessible via special software and tools, such as the Tor browser, making it almost impossible for normal users to stumble upon them accidentally while using regular browsers.
 
-[![71847ea490f75340ab46b829d5357a25_MD5](/img/71847ea490f75340ab46b829d5357a25_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Fong-tem1392_theedgemarkets.jpg)
+[![71847ea490f75340ab46b829d5357a25_MD5](/media/71847ea490f75340ab46b829d5357a25_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Fong-tem1392_theedgemarkets.jpg)
 
 “The dark web is not like the internet, where we can conduct a simple keyword search. Many of these dark web forums are outside of our scope, meaning that we will never have a full picture of what kind of leaked information is out there.” - Fong (Photo by LGMS)
 
@@ -52,7 +52,7 @@ Malaysia is no stranger to the dark web either. For instance, in July last year,
 
 There was also the high-profile case of Richard William Huckle, a serial sex offender and child rapist, who executed his crimes while working as a freelance photographer and teacher in Malaysia. Reports showed that he circulated photos of his crimes on a dark web portal called The Love Zone.
 
-[![bff0a85c5577dfb5f383d703f6831729_MD5](/img/bff0a85c5577dfb5f383d703f6831729_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Minder-tem1392_theedgemarkets.jpg)
+[![bff0a85c5577dfb5f383d703f6831729_MD5](/media/bff0a85c5577dfb5f383d703f6831729_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Minder-tem1392_theedgemarkets.jpg)
 
 “While discussion around machine learning, artificial intelligence and automation is sexy for driving software margins, our real capability is to find the deepest, darkest and most secret places on both the internet and dark web.” - Minder (Photo by Groupsense)
 
@@ -68,7 +68,7 @@ Fong Choong Fook, CEO of local penetration testing firm LE Global Services (LGMS
 
 “Contrast this with Pastebin. The victim can file a complaint to Pastebin and request for its data to be taken down. There are legal means for it to do so. In the end, there are pros and cons for each platform. If the information is hosted on Pastebin, it is accessible to anyone. If \[the perpetrator\] chooses to put it on the dark web, only people with knowledge of the stolen data can access the information. They serve different purposes,” says Fong.
 
-[![e76544e46541934266eff8b6492b287c_MD5](/img/e76544e46541934266eff8b6492b287c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Snippets-from-the-dark-web-tem1392_theedgemarkets.jpg)
+[![e76544e46541934266eff8b6492b287c_MD5](/media/e76544e46541934266eff8b6492b287c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Snippets-from-the-dark-web-tem1392_theedgemarkets.jpg)
 
 Snippets from the dark web
 
@@ -140,7 +140,7 @@ Datuk Seri Akhbar Satar, president of the Malaysian Association of Certified Fra
 
 “When talking about cybercrime on the dark web, normally people are not that interested. But law enforcement officers need to be two steps ahead. I am sure that \[the police\] have an IT unit, but we must also employ more white-hat hackers and cybersecurity specialists,” he says.
 
-[![4198707ccd9d69926d392c2855ee38de_MD5](/img/4198707ccd9d69926d392c2855ee38de_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Akhbar-tem1392_theedgemarkets.jpg)
+[![4198707ccd9d69926d392c2855ee38de_MD5](/media/4198707ccd9d69926d392c2855ee38de_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Akhbar-tem1392_theedgemarkets.jpg)
 
 “We no longer need an army to attack a sovereign government. You just need a team of cybersecurity experts to attack institutions like the White House, or even Putrajaya, because they are connected to the internet.” -Akhbar (Photo by ACFE Malaysia)
 
@@ -186,4 +186,4 @@ For a list of “visitor-friendly” dark web.onion links, users can visit the v
 
 Nevertheless, the cybersecurity experts interviewed for this story advise exercising common sense and extreme caution when visiting the dark web, such as not revealing any personal information. A good tip is to adopt a totally different online persona, changing speech patterns and user identity for dark web browsing. Other than that, do stay safe on the dark web, and happy surfing!
 
-[![2a90a5d7a192c387772eba4b3364025d_MD5](/img/2a90a5d7a192c387772eba4b3364025d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Is-tor-enough-tem1392_theedgemarkets.jpg)
+[![2a90a5d7a192c387772eba4b3364025d_MD5](/media/2a90a5d7a192c387772eba4b3364025d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-Is-tor-enough-tem1392_theedgemarkets.jpg)

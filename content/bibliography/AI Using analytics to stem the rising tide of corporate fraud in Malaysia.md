@@ -28,7 +28,7 @@ McDonnell explains that there are broadly two types of fraud—consumer fraud, w
 
 McDonnell says the combination of consumer and corporate fraud accounts for about 70% of all economic crimes in Malaysia. “While fraud is growing rapidly, organisations are collecting more data than ever, which serves as the perfect foundation for analytics \[to combat these crimes\].”
 
-[![476485cc7676a0aeb0d0b7e19c5b906b_MD5](/img/476485cc7676a0aeb0d0b7e19c5b906b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-McDonnell-2-tem1364_theedgemarkets.jpg)
+[![476485cc7676a0aeb0d0b7e19c5b906b_MD5](/media/476485cc7676a0aeb0d0b7e19c5b906b_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-McDonnell-2-tem1364_theedgemarkets.jpg)
 
 This niche industry—fraud analytics—has been growing steadily as a result. With fraudulent tactics constantly evolving at an ever-increasing rate, the traditional “rule-based” system to detect fraud has become less effective. While having a set of rules and regulations can do a good job in covering familiar types of fraud, they are not effective against unfamiliar types of fraud schemes or adapting to new fraud patterns.
 
@@ -48,7 +48,7 @@ The second major hurdle is a lack of trust. “Corporations still do not trust t
 
 The final challenge is choosing the right service provider for fraud analytics, he says. There are several veteran solution providers with decades of experience, but the industry has also seen the rise of new tech start-ups in this space. With the growing number of service providers, organisations may find it difficult to find one that is the right fit.
 
-[![298274ed59020ca8c13d3d78fd6cf50a_MD5](/img/298274ed59020ca8c13d3d78fd6cf50a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-Tan-tem1364_theedgemarkets.jpg)
+[![298274ed59020ca8c13d3d78fd6cf50a_MD5](/media/298274ed59020ca8c13d3d78fd6cf50a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-Tan-tem1364_theedgemarkets.jpg)
 
 ### Malaysian Companies Urged to Take Action
 

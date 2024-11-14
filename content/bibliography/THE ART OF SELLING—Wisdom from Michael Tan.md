@@ -5,8 +5,8 @@ date: 2019-08-31
 categories: [article]
 ---
 
-[Open: CleanShot 2024-08-29 at 17.00.16@2x.jpg](/img/4cab12c39f99be32a591553a2f1c1458_MD5.jpg)
-![4cab12c39f99be32a591553a2f1c1458_MD5](/img/4cab12c39f99be32a591553a2f1c1458_MD5.jpg)
+[Open: CleanShot 2024-08-29 at 17.00.16@2x.jpg](/media/4cab12c39f99be32a591553a2f1c1458_MD5.jpg)
+![4cab12c39f99be32a591553a2f1c1458_MD5](/media/4cab12c39f99be32a591553a2f1c1458_MD5.jpg)
 By Jotham Lim
 
 Michael Tan, Founder of OTS Group Sdn Bhd, ventured into the world of insurance at the young age of 19. He has accumulated 23 years of selling experience since graduating from high school. Since then, he has expanded his horizons by hosting team building sessions, public speaking engagements, and seminars for organisations, both large and small.

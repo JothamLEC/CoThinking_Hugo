@@ -10,7 +10,7 @@ categories: [article]
 
 ---
 
-![a4ab8a72fbca8748e75fc94810b708bc_MD5](/img/a4ab8a72fbca8748e75fc94810b708bc_MD5.jpg)
+![a4ab8a72fbca8748e75fc94810b708bc_MD5](/media/a4ab8a72fbca8748e75fc94810b708bc_MD5.jpg)
 
 CEO and founder of Vectolabs Technologies Faizal Ali. Photo credit: Vectolabs Technologies
 
@@ -28,7 +28,7 @@ He fears that the E&E sector will start to shrink as companies move to lower-cos
 
 Everpeaks CEO Joachim Sebastian describes the National 4IR policy as putting the cart before the horse, as there are unresolved fundamental issues that can derail or compromise the execution of the national 4IR agenda, such as the lack of proficiency in the English language.
 
-![ecb4de3d8f0079bca300508c674e0c1e_MD5](/img/ecb4de3d8f0079bca300508c674e0c1e_MD5.jpg)
+![ecb4de3d8f0079bca300508c674e0c1e_MD5](/media/ecb4de3d8f0079bca300508c674e0c1e_MD5.jpg)
 
 Everpeaks CEO Joachim Sebastian. Photo credit: Everpeaks
 
@@ -42,7 +42,7 @@ From initial impressions, Sebastian says that the policy document is impressive 
 
 “We have to incentivize the implementation of 4IR beyond a reasonable doubt, so that it will be a no-brainer for any company to implement this, because the alternative will not be feasible in terms of manpower costs, market adoption and industry expectations.”
 
-![c72692bb9eee1174dfa297c976f1dc0d_MD5](/img/c72692bb9eee1174dfa297c976f1dc0d_MD5.jpg)
+![c72692bb9eee1174dfa297c976f1dc0d_MD5](/media/c72692bb9eee1174dfa297c976f1dc0d_MD5.jpg)
 
 Aaron Sarma, general partner at ScaleUp Malaysia. Photo credit: Scaleup Malaysia
 
@@ -58,7 +58,7 @@ Sarma is also concerned that the policy document is trying to address every sing
 
 He points towards the success of several growing companies, such as Aerodyne in the drone ecosystem, and recommends the government pick two to three key industries and technologies and double down there instead.
 
-![424fc94c009ab4b24a1edb7367a19f6a_MD5](/img/424fc94c009ab4b24a1edb7367a19f6a_MD5.png)
+![424fc94c009ab4b24a1edb7367a19f6a_MD5](/media/424fc94c009ab4b24a1edb7367a19f6a_MD5.png)
 
 Datuk Fadzli Shah Anuar, MD of Awesome Digital Assets & ex-chief strategy officer of MDEC. Photo credit: Awesome Digital Assets
 

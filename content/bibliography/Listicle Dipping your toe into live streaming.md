@@ -18,7 +18,7 @@ Live streaming offers a viewing experience that regular videos can never provide
 
 For small business owners looking to enter the scene, it can be tempting to position themselves in every one of them. But do not be fooled—each live streaming platform has its own unique quirks and they need to think carefully about what would suit them best.
 
-[![35c30b2d95635a59015a6477c9c5a23e_MD5](/img/35c30b2d95635a59015a6477c9c5a23e_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-youtube-tem1385_theedgemarkets.jpg)
+[![35c30b2d95635a59015a6477c9c5a23e_MD5](/media/35c30b2d95635a59015a6477c9c5a23e_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-youtube-tem1385_theedgemarkets.jpg)
 
 ### 1 YouTube Live
 
@@ -42,7 +42,7 @@ If your brand strategy involves producing videos on a consistent basis while fre
 
 - Initial restrictions, including a 24-hour wait and subscriber limits
 
-[![03b37572613f5f5999c649f10a63fcb4_MD5](/img/03b37572613f5f5999c649f10a63fcb4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-facebook-tem1385_theedgemarkets.jpg)
+[![03b37572613f5f5999c649f10a63fcb4_MD5](/media/03b37572613f5f5999c649f10a63fcb4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-facebook-tem1385_theedgemarkets.jpg)
 
 ### 2 Facebook Live
 
@@ -66,7 +66,7 @@ However, it lacks the personal touch and intimacy offered on platforms such as Y
 
 - Relatively harder to search for
 
-[![97c8cfabd6d3fffef1f1daf2da6ff4d1_MD5](/img/97c8cfabd6d3fffef1f1daf2da6ff4d1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Instagram-tem1385_theedgemarkets.jpg)
+[![97c8cfabd6d3fffef1f1daf2da6ff4d1_MD5](/media/97c8cfabd6d3fffef1f1daf2da6ff4d1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Instagram-tem1385_theedgemarkets.jpg)
 
 ### 3 Instagram Live
 
@@ -92,7 +92,7 @@ Instagram Live is certainly a great platform for freelancers and micro-businesse
 
 - Videos are removed after 24 hours
 
-[![32cef4390d4e09125c7086f1971a9d47_MD5](/img/32cef4390d4e09125c7086f1971a9d47_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Vimeo-tem1385_theedgemarkets.jpg)
+[![32cef4390d4e09125c7086f1971a9d47_MD5](/media/32cef4390d4e09125c7086f1971a9d47_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Vimeo-tem1385_theedgemarkets.jpg)
 
 ### 4 Vimeo Livestream
 

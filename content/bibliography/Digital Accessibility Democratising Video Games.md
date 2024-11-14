@@ -14,7 +14,7 @@ This article first appeared in Digital Edge, The Edge Malaysia Weekly on June 28
 
 Nier: _Automata by PlatinumGames_ is by no means an extremely difficult game. Yet, only 40.9% of players have managed to reach the game’s default ending, according to Steam’s statistics.
 
-[![2bb625933dcfba47efa7d3645bb1465d_MD5](/img/2bb625933dcfba47efa7d3645bb1465d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Dictionary-tem1376_theedgemarkets.jpg)
+[![2bb625933dcfba47efa7d3645bb1465d_MD5](/media/2bb625933dcfba47efa7d3645bb1465d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Dictionary-tem1376_theedgemarkets.jpg)
 
 Thirty-three-year-old Clinton Lexa not only completed the game and its various endings, but was also ranked fifth on the game’s speedrunning world leaderboard in 2017. He finished the game in about 100 minutes, and he did so with only one hand.
 
@@ -22,7 +22,7 @@ Going by the online persona “halfcoordinated”, Lexa suffers from hemiparesis
 
 Physical disabilities have hardly dampened the intense passion of gamers, but games are not traditionally built with accessibility in mind. It is not uncommon for video games to have hard-to-read subtitles, sequences that require button mashing, or require multiple inputs to perform an action—all of which are not customisable in the in-game settings menu.
 
-[![71f9d4764596d59107396245b2be0c18_MD5](/img/71f9d4764596d59107396245b2be0c18_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-McGregor-tem1376_theedgemarkets.jpg)
+[![71f9d4764596d59107396245b2be0c18_MD5](/media/71f9d4764596d59107396245b2be0c18_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-McGregor-tem1376_theedgemarkets.jpg)
 
 One key factor in driving change is the US Federal Communications Commission (FCC) announcing that communication functionality in video games, such as voice and text chats, developed and released from January 2019 onwards would be expected to be compliant with national accessibility standards set by the 21st Century Communications and Video Accessibility Act 2010 (CVAA).
 
@@ -30,7 +30,7 @@ Games partially developed during this period have some leeway, but must reasonab
 
 Although this does not directly affect gameplay, the gaming industry has started paying attention and conversations surrounding video game accessibility are on the rise. The Game Awards even introduced a new category for video game accessibility in 2020, with similar awards mushrooming across the industry.
 
-[![388b6244dc7ca74cb1aceb124549230a_MD5](/img/388b6244dc7ca74cb1aceb124549230a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-5-tem1376_theedgemarkets.jpg)
+[![388b6244dc7ca74cb1aceb124549230a_MD5](/media/388b6244dc7ca74cb1aceb124549230a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-5-tem1376_theedgemarkets.jpg)
 
 HyperDot, a game where players control a dot by avoiding obstacles. Eye-tracking allows players to control the dot without the use of traditional devices. (Photo by Tribe Games)
 
@@ -40,7 +40,7 @@ It does not take an army of developers to introduce accessibility features. _Hyp
 
 “Initially, I did not design _HyperDot_ with accessibility in mind,” he tells _Digital Edge_. “At the time, most indie developers I had interacted with did not really talk about accessibility options, myself included. I was more or less thinking about the default options, such as having colour blind modes, which I had seen in other games.
 
-[![7594017ea5b99858085d445fc1736688_MD5](/img/7594017ea5b99858085d445fc1736688_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Li-tem1376_theedgemarkets.jpg)
+[![7594017ea5b99858085d445fc1736688_MD5](/media/7594017ea5b99858085d445fc1736688_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Li-tem1376_theedgemarkets.jpg)
 
 “It was not until halfway through _HyperDot_’s development that I began to think about accessibility as a bigger part of the game. One of my friends had won a Tobii Eye Tracker device at a convention, and we joked around about adding eye-tracking features into _HyperDot_.
 
@@ -48,7 +48,7 @@ It does not take an army of developers to introduce accessibility features. _Hyp
 
 McGregor admits that it is extremely difficult to develop games that are fully accessible to everyone, but that should not stop developers from trying. As a gamer, he feels terrible when he is left out of a game that he wants to fall in love with. As a developer, it feels worse to see players unable to do so due to the lack of accessibility features.
 
-[![34e14cc910d49be5e02a52c0654866f4_MD5](/img/34e14cc910d49be5e02a52c0654866f4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-2-tem1376_theedgemarkets.jpg)
+[![34e14cc910d49be5e02a52c0654866f4_MD5](/media/34e14cc910d49be5e02a52c0654866f4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-2-tem1376_theedgemarkets.jpg)
 
 Promotion materials for Watch Dogs: Legion (top) and Assassin’s Creed Valhalla (below). Both games were developed by Ubisoft and were nominated in The Game Awards 2020 for the Innovation in Accessibility category.
 
@@ -58,7 +58,7 @@ The second is minimalism in the form of art styles and user interfaces, as well 
 
 Ubisoft is another game developer that champions video game accessibility, with titles _Assassin’s Creed Valhalla_ and _Watch Dogs: Legion_ being nominated for their innovation in accessibility features in The Game Awards 2020.
 
-[![298eb242df84182c64ba0da284da21c3_MD5](/img/298eb242df84182c64ba0da284da21c3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Tisserand-tem1376_theedgemarkets.jpg)
+[![298eb242df84182c64ba0da284da21c3_MD5](/media/298eb242df84182c64ba0da284da21c3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Tisserand-tem1376_theedgemarkets.jpg)
 
 David Tisserand, Ubisoft’s senior manager of accessibility, tells _Digital Edge_ that the benefits of including accessibility features extend beyond just demographics with disabilities.
 
@@ -68,7 +68,7 @@ He says that player demographics are ageing as time passes, and players who enjo
 
 “We will only succeed if everyone who is involved in making, publicising and supporting our games makes accessibility part of their day-to-day responsibilities. This requires a great deal of education, organisation and support, which goes beyond the individual features we now commonly see in our games.”
 
-[![9bd8543f0a457098a08a4f5367bbcb7c_MD5](/img/9bd8543f0a457098a08a4f5367bbcb7c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-3-tem1376_theedgemarkets.jpg)
+[![9bd8543f0a457098a08a4f5367bbcb7c_MD5](/media/9bd8543f0a457098a08a4f5367bbcb7c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-3-tem1376_theedgemarkets.jpg)
 
 High contrast mode in The Last Of Us 2, which makes it easier to spot enemies for people with sight difficulties (Photo by Naughty Dogs)
 
@@ -78,7 +78,7 @@ Rick Li, producer of PUBG Mobile, tells _Digital Edge_ that addressing colour bl
 
 “_PUBG Mobile_ introduced a colour blind mode in November 2019, and this includes changing the display colours for many elements in the game—such as red zone, poison, minimaps and even smoke from an airdrop. This mode enabled a fair and even playing field for users affected by colour blindness,” he says.
 
-[![7307802cdf936e248ee973bcce2d5f65_MD5](/img/7307802cdf936e248ee973bcce2d5f65_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-4-tem1376_theedgemarkets.jpg)
+[![7307802cdf936e248ee973bcce2d5f65_MD5](/media/7307802cdf936e248ee973bcce2d5f65_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE8-Game-4-tem1376_theedgemarkets.jpg)
 
 Different colour blind modes in PUBG Mobile (Photo by Tencent Games)
 
@@ -98,7 +98,7 @@ A few short years ago, the idea of triple-A games including even a single access
 
 A few years ago, the number of full-time employees dedicated to accessibility roles was zero, but now it is nearing 40 people across the entire world. However, it is still in its early days. There have yet to be any games that manage to nail all the basics \[of accessibility\], and we are a long way from where we really need to be.
 
-[![63bc72bede450d11f9ee6e532bf4ad26_MD5](/img/63bc72bede450d11f9ee6e532bf4ad26_MD5.png)](https://assets.theedgemarkets.com/pictures/DE8-Hamilton_theedgemarkets.png)
+[![63bc72bede450d11f9ee6e532bf4ad26_MD5](/media/63bc72bede450d11f9ee6e532bf4ad26_MD5.png)](https://assets.theedgemarkets.com/pictures/DE8-Hamilton_theedgemarkets.png)
 
 **What other benefits can be derived from having accessibility options beyond just making the game more accessible to people with disabilities?**
 

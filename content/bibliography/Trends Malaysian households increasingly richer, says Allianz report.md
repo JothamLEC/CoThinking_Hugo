@@ -32,7 +32,7 @@ According to the Allianz report, total gross financial assets of private househo
 
 This growth is mainly attributed to the monetary policy easing initiated by central banks worldwide in 2019, and is the highest since the global financial crisis (GFC).
 
-![4a2e0bfa7874275acbbbcaad03b18fc6_MD5](/img/4a2e0bfa7874275acbbbcaad03b18fc6_MD5.jpg)
+![4a2e0bfa7874275acbbbcaad03b18fc6_MD5](/media/4a2e0bfa7874275acbbbcaad03b18fc6_MD5.jpg)
 
 This has led to global stock markets having one of their best years on record, which has, in turn, resulted in a 13.7% growth in securities. This is by far the best-performing asset class within private households’ portfolio, compared with insurance, pensions and bank deposits, says the report.
 

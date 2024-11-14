@@ -14,7 +14,7 @@ categories: [article]
 
 ---
 
-![c8043472a9d0f1d2b13679c3dbc5bba3_MD5](/img/c8043472a9d0f1d2b13679c3dbc5bba3_MD5.jpg)[![](http://entrepreneurinsight.com.my/wp-content/uploads/2EI-AUGUST-2019-FULL.tiff)](http://entrepreneurinsight.com.my/wp-content/uploads/2EI-AUGUST-2019-FULL.tiff)
+![c8043472a9d0f1d2b13679c3dbc5bba3_MD5](/media/c8043472a9d0f1d2b13679c3dbc5bba3_MD5.jpg)[![](http://entrepreneurinsight.com.my/wp-content/uploads/2EI-AUGUST-2019-FULL.tiff)](http://entrepreneurinsight.com.my/wp-content/uploads/2EI-AUGUST-2019-FULL.tiff)
 
 _By: Jotham Lim_
 
@@ -56,7 +56,7 @@ By leveraging facilities provided by financial institutions and utilizing the ad
 
 We have a proven track record of helping our clients to build a property portfolio from scratch, even for those who are knee deep in debt, to owning three properties on average. Nowadays, getting a bank loan approved is no easy process. The most frequent problem faced by people first tapping into property investment, is that they always get turned down by banks when it comes to loan applications.
 
-![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/img/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)
+![1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5](/media/1d3bf260c4c63fdbbf5d0bc8b5ef90a0_MD5.gif)
 
 These people need to pay more attention to the small details that could negatively impact their credit score. For instance, delaying or skipping their monthly utility bills and mobile phone bills will severely affect their credit score.
 
@@ -97,7 +97,7 @@ I believe in the importance of human capital. At KYY Empire, we value talents wi
 - Commitment to the team’s goals and stakeholders
 - Last but not least, A genuine love for contributing to society
 
-![be41906770ebe541dd5d3f2bb3d1de71_MD5](/img/be41906770ebe541dd5d3f2bb3d1de71_MD5.jpg)
+![be41906770ebe541dd5d3f2bb3d1de71_MD5](/media/be41906770ebe541dd5d3f2bb3d1de71_MD5.jpg)
 
 Talent is our greatest asset. For those who are lacking, we educate and coach our team members in terms of soft skills and knowledge in their area of expertise. We ensure a fun, healthy and joyful working environment to inject positive attitude, energy and allure amongst the team members. Satisfied and happy employees will eventually breed a successful company.
 
@@ -121,9 +121,9 @@ Since 2018, we have been welcoming investors from neighbouring countries, such a
 
 Thus far, we have been offering property sources in emerging markets such as Cambodia, Thailand, Philippines, Indonesia, Singapore, and of course, Malaysia as well.
 
-**![d5374b8116405509a1eea3d73ca78f62_MD5](/img/d5374b8116405509a1eea3d73ca78f62_MD5.jpg)**
+**![d5374b8116405509a1eea3d73ca78f62_MD5](/media/d5374b8116405509a1eea3d73ca78f62_MD5.jpg)**
 
-**![d251e13732d6a6febef102078be12277_MD5](/img/d251e13732d6a6febef102078be12277_MD5.jpg)**
+**![d251e13732d6a6febef102078be12277_MD5](/media/d251e13732d6a6febef102078be12277_MD5.jpg)**
 
 **What advice would you give to budding property investors?**
 

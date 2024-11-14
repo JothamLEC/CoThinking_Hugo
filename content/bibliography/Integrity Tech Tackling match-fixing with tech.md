@@ -22,7 +22,7 @@ According to Sportradar’s director of global partnerships in integrity service
 
 “In football, we’ve seen fixers targeting divisions below the second-tier, third-tier, and even the youth leagues. We saw an uptick of over 60% in football friendlies being targeted in the betting markets.”
 
-[![c57516c2dc8d3bd6921eff8497eb3e9f_MD5](/img/c57516c2dc8d3bd6921eff8497eb3e9f_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Cunningham-tem1399_theedgemarkets.jpg)
+[![c57516c2dc8d3bd6921eff8497eb3e9f_MD5](/media/c57516c2dc8d3bd6921eff8497eb3e9f_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE9-Cunningham-tem1399_theedgemarkets.jpg)
 
 “We do not pretend that we monitor 100% of all bets being made. But we believe that we have captured a significant proportion of it, and we are always looking for any new data sources that we can add to our monitoring list to give us more coverage.” - Cunningham
 

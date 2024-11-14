@@ -24,7 +24,7 @@ The digitalisation of front-end business processes, such as e-commerce and web d
 
 However, much improvement can be made in the digitalisation of back-end processes such as human resources management, communication, data processing and document handling. A June 2020 survey by EY showed that 84% of SMEs in Malaysia still had difficulties in online connectivity and communication with customers and suppliers, in addition to their need for better infrastructure.
 
-[![8eee352342c5f8312f99aaa90b8a1dd5_MD5](/img/8eee352342c5f8312f99aaa90b8a1dd5_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-kang-tem1358_theedgemarkets.jpg)
+[![8eee352342c5f8312f99aaa90b8a1dd5_MD5](/media/8eee352342c5f8312f99aaa90b8a1dd5_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-kang-tem1358_theedgemarkets.jpg)
 
 This is despite the numerous initiatives introduced by the government over the years to encourage digitalisation among SMEs. Pre-Covid, the National Fiberisation and Connectivity Plan (NFCP) was launched by the Malaysian Communications and Multimedia Commission (MCMC) with a heavy emphasis on 5G technology adoption and faster and cheaper internet connectivity across the nation.
 
@@ -60,7 +60,7 @@ Sim points out that the relationship between government incentives and the rate 
 
 “Businesses are struggling to secure and source producers and suppliers. They worry about their logistics, retaining their employees and retraining them to adhere to the new Covid-19 standard operating procedures (SOPs),” he says.
 
-[![d13d17e59a7f5276099a19aadbe0a454_MD5](/img/d13d17e59a7f5276099a19aadbe0a454_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-sim-tem1358_theedgemarkets.jpg)
+[![d13d17e59a7f5276099a19aadbe0a454_MD5](/media/d13d17e59a7f5276099a19aadbe0a454_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-sim-tem1358_theedgemarkets.jpg)
 
 “These day-to-day struggles are already occupying their mind space. To encourage businesses to start thinking about using grants and investments, to ask them to digitize their business processes and operate differently also requires a significant amount of thought.
 

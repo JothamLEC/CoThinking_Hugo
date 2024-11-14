@@ -29,7 +29,7 @@ Prior to Act 757, the allocation of shared units is heavily dependent on the dev
 
 The case is best exemplified with commonly cited court cases such as Ideal Advantage Sdn Bhd v Palm Spring JMB & Anor (2014), where it is possible for private areas to be converted to common areas regardless of the arrangements made prior to Act757. “If you own 200 carparks today, tomorrow when you wake
 
-![dafedfde6da78a59ecf433f17de6612d_MD5](/img/dafedfde6da78a59ecf433f17de6612d_MD5.jpg)
+![dafedfde6da78a59ecf433f17de6612d_MD5](/media/dafedfde6da78a59ecf433f17de6612d_MD5.jpg)
 
 up, it might have become a common area,” said Lum.
 
@@ -47,7 +47,7 @@ One of the more groundbreaking court cases has just happened recently, in the ca
 
 Menara Rajawali consists of residential, retail and car park parcels. In an annual general meeting (AGM), the JMC has fixed multiple rates of charges as below: a. residential parcels–RM3.26 per share unit b. retail shop parcels–RM3.26 per share unit c. car park parcel–RM1.68 per share unit
 
-![3420bc1c5d55fcd02ab9e6df12933a5f_MD5](/img/3420bc1c5d55fcd02ab9e6df12933a5f_MD5.jpg)
+![3420bc1c5d55fcd02ab9e6df12933a5f_MD5](/media/3420bc1c5d55fcd02ab9e6df12933a5f_MD5.jpg)
 
 The plaintiff argues that the multiple rates imposed are invalid, citing clauses in Act757. However, the court ruled in favour of the defendant and state that nothing in Act 757 prevents JMB/JMC from fixing different rates of charges for different types of units in a stratified project.
 
@@ -61,7 +61,7 @@ portion to form their own respective committees, and manage their side of the pr
 
 Sub-MCs can help protect each party’s interest and makes conflict resolution much more manageable. The Act itself allows the formation of sub-MCs, and yet, there is only one legally recognised sub-MC in the entirety of Malaysia, which is 1 Mont’ Kiara.
 
-![00451b0d89a09cad851f32992691af15_MD5](/img/00451b0d89a09cad851f32992691af15_MD5.jpg)
+![00451b0d89a09cad851f32992691af15_MD5](/media/00451b0d89a09cad851f32992691af15_MD5.jpg)
 
 Lawyer Sarita Ashok Khandhar, managing partner of Edorra Arfah Khandhar, explained to Property Insight that it is extremely difficult to form subMCs. “To form a sub-MC, the developer has to go through the standard process of handing it over to the JMB, and then to the MCs,” said Sarita.
 
@@ -79,11 +79,11 @@ Danny Koek Managing Director DK Group
 
 “(For these reasons), we try not to acquire stratified properties. Even if we did, we would prefer to own a majority stake in it, maybe about 90%. We will make it extremely clear in the contract, the details and the boundaries of all the parties involved,” said Leong Kit May, Chief Executive Officer of
 
-![30464741bc2fb286da8023574566f7d1_MD5](/img/30464741bc2fb286da8023574566f7d1_MD5.jpg)
+![30464741bc2fb286da8023574566f7d1_MD5](/media/30464741bc2fb286da8023574566f7d1_MD5.jpg)
 
-![aa0f0a6a703f098540ec4e33f200dbec_MD5](/img/aa0f0a6a703f098540ec4e33f200dbec_MD5.jpg)
+![aa0f0a6a703f098540ec4e33f200dbec_MD5](/media/aa0f0a6a703f098540ec4e33f200dbec_MD5.jpg)
 
-![6447beb09794d3d909e5b788bda1b114_MD5](/img/6447beb09794d3d909e5b788bda1b114_MD5.jpg)
+![6447beb09794d3d909e5b788bda1b114_MD5](/media/6447beb09794d3d909e5b788bda1b114_MD5.jpg)
 
 “When we talk about sub-MCs, we are talking about common space. That is why it is important to properly design the project in the early stages, to have a proper separation between the various components. That is why in our ‘8th & Stellar’ project, each component has its own dedicated lifts and their own parking,” said Yeo Chun Sing, managing director of Chin Hin Group.
 

@@ -24,7 +24,7 @@ The lack of digital infrastructure and internet access may no longer be the bott
 
 More importantly, unlike B2C payment systems, which focus on ease of use and accessibility, B2B payments have to take into account all the intermediaries along the industry’s supply chain. For instance, it will be difficult to opt for digital payments if the company’s suppliers and customers are not keen to make the switch. In fact, some businesses may prefer to stick with the status quo.
 
-[![4f7bd186d09b3f4f9f1be73b6442dce9_MD5](/img/4f7bd186d09b3f4f9f1be73b6442dce9_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Zokhri-tem1397_theedgemarkets.jpg)
+[![4f7bd186d09b3f4f9f1be73b6442dce9_MD5](/media/4f7bd186d09b3f4f9f1be73b6442dce9_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Zokhri-tem1397_theedgemarkets.jpg)
 
 “This is where we look at the motives of the company and their strength in corporate governance. Some companies would not want to go for digital payments because they are afraid of the transparency associated with it,” says Zokhri.
 
@@ -50,7 +50,7 @@ Digital wallets can be a useful and cost-effective payment option, offering merc
 
 Tan says Bank Negara Malaysia has done well to promote the use of digital wallets in Malaysia by merchants and customers through the DuitNow QR code system, made possible under the Interoperable Credit Transfer Framework (ICTF).
 
-[![31d3ab60bb4615dd2a768d1a8722bfa0_MD5](/img/31d3ab60bb4615dd2a768d1a8722bfa0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Tan-tem1397_theedgemarkets.jpg)
+[![31d3ab60bb4615dd2a768d1a8722bfa0_MD5](/media/31d3ab60bb4615dd2a768d1a8722bfa0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Tan-tem1397_theedgemarkets.jpg)
 
 She believes, however, that the general adoption of B2B digital payments is still rather low, and the industry needs to be more proactive in promoting its growth and greater use.
 
@@ -66,7 +66,7 @@ Finally, small companies witnessing rapid growth aspire to scale up. The payment
 
 Fintech companies should also consider introducing more advanced cybersecurity features for digital payments to give business owners more confidence to undertake digital transactions with their regional counterparts.
 
-[![478c6e245d52f382f5a942e6f6efd668_MD5](/img/478c6e245d52f382f5a942e6f6efd668_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Ling-tem1397_theedgemarkets.jpg)
+[![478c6e245d52f382f5a942e6f6efd668_MD5](/media/478c6e245d52f382f5a942e6f6efd668_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE10-Ling-tem1397_theedgemarkets.jpg)
 
 ### Riding the B2B E-commerce Wave
 

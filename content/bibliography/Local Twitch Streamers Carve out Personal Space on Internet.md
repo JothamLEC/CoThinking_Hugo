@@ -30,7 +30,7 @@ Izzat was studying computer science but could not complete his degree after he w
 
 “I couldn’t finish my studies because the doctor said my insomnia was serious—I did not sleep for three days in a row. The doctor suggested that I put my semester on hold, which is why I have only a diploma now,” says Izzat.
 
-[![beaf1315a1942d2393e334289e295023_MD5](/img/beaf1315a1942d2393e334289e295023_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Izzat_theedgemarkets.png)
+[![beaf1315a1942d2393e334289e295023_MD5](/media/beaf1315a1942d2393e334289e295023_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Izzat_theedgemarkets.png)
 
 “I then went into streaming because I already had an online community of my own, from Discord and Facebook, so promoting my channel was easy. Going into livestreaming seemed obvious at that point in time.”
 
@@ -52,7 +52,7 @@ She started streaming as a full-time career only in June. Before that, she worke
 
 “They were sad but very supportive, for which I am truly grateful. I even had to teach my boomer parents what livestreaming is. It was kind of cute because my brother taught them how to browse Twitch, and they actually watch my stream and contribute to the views as well,” she tells Digital Edge.
 
-[![1f5d714f4a3f1ed152f8806ded34bbb4_MD5](/img/1f5d714f4a3f1ed152f8806ded34bbb4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-Wong-tem1402_theedgemarkets.jpg)
+[![1f5d714f4a3f1ed152f8806ded34bbb4_MD5](/media/1f5d714f4a3f1ed152f8806ded34bbb4_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-Wong-tem1402_theedgemarkets.jpg)
 
 Anybody with a laptop can easily set up a livestream, she says, but getting viewers on Twitch can be quite difficult. A beginner streamer on Facebook could easily garner the same viewership figures that took years to cultivate on Twitch. There is a unique charm to Twitch, however, that is hard to replicate.
 
@@ -78,7 +78,7 @@ Creators do not necessarily need to stream full-time to find success on the plat
 
 “I was really into gaming since I was 16 or 17, but I had other passions as well. When I went into music, I completely gave up gaming and did not play much for about a decade. Gaming was not something that I ever saw myself coming back to at all.
 
-[![338593bc10869e4cbd637546fb8d90cf_MD5](/img/338593bc10869e4cbd637546fb8d90cf_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Jeevan_theedgemarkets.png)
+[![338593bc10869e4cbd637546fb8d90cf_MD5](/media/338593bc10869e4cbd637546fb8d90cf_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Jeevan_theedgemarkets.png)
 
 “I returned to Malaysia in 2017 for a particular music project, which required me to stay here for about half a year. While I was here, I still had friends in the gaming scene. We started talking about opportunities in this space. One thing led to another, and here we are at Cove.”
 
@@ -106,7 +106,7 @@ The pandemic hit when he had just resigned and it was difficult to secure a new 
 
 “The STEM (science, technology, engineering and mathematics) industry does pay well. But companies are always looking for ways to reduce costs and often skim the top off the labour department. Working with heavy machinery, there are many aspects that you have to take care of. With a small team, each member is bound to have an increased workload,” says Tan.
 
-[![bc9126ee94312acc12cd7bd9269c393c_MD5](/img/bc9126ee94312acc12cd7bd9269c393c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-Tan-tem1402_theedgemarkets.jpg)
+[![bc9126ee94312acc12cd7bd9269c393c_MD5](/media/bc9126ee94312acc12cd7bd9269c393c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE16-Tan-tem1402_theedgemarkets.jpg)
 
 In addition to the added work stress, he found the work to be routine without much to look forward to in terms of prospects. He has worked with three companies throughout his career and developed trust issues along the way, owing poor communications and company politics.
 
@@ -132,7 +132,7 @@ Anne-Marie Choon is a fresh graduate who majored in history. Although she enjoye
 
 “I have been singing my whole life and started a YouTube channel in 2015 uploading covers, which has been going on for six years now. I got into voice acting only last year,” she explains.
 
-[![8727e6779f7e04728972f6119cd14eac_MD5](/img/8727e6779f7e04728972f6119cd14eac_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Choon2_theedgemarkets.png)
+[![8727e6779f7e04728972f6119cd14eac_MD5](/media/8727e6779f7e04728972f6119cd14eac_MD5.png)](https://assets.theedgemarkets.com/pictures/DE16-Choon2_theedgemarkets.png)
 
 “Voice acting was something I am interested in, and there was a casting call for a local game production. I auditioned for that and landed the job and, since then, I have been taking voice acting lessons and auditioning for similar roles.
 

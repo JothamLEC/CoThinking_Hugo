@@ -26,7 +26,7 @@ Test contactors, or test sockets, are consumables that physically hold the IC in
 
 “For example, if a chip needs to be tested to see whether it can withstand 125 degrees Celsius, our test contactor needs to enable the kind of environment and maintain that level of temperature with a high level of accuracy. These customisations happen all the time because different customers have different requirements,” Dillon adds.
 
-[![f536bc036110613c899e9d4448d73b3e_MD5](/img/f536bc036110613c899e9d4448d73b3e_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-Dillon-tem1384_theedgemarkets.jpg)
+[![f536bc036110613c899e9d4448d73b3e_MD5](/media/f536bc036110613c899e9d4448d73b3e_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE3-Dillon-tem1384_theedgemarkets.jpg)
 
 The testing industry generally evolves alongside the semiconductor industry. As technological devices get more sophisticated, semiconductors demand higher frequency and temperature requirements, which in turn requires different test contactors. This opens up plenty of opportunities for the company to come up with new products, and ensure that their IPs are well protected through patents.
 

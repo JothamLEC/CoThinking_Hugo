@@ -14,7 +14,7 @@ This article first appeared in Digital Edge, The Edge Malaysia Weekly on Februar
 
 An annual gym membership will last only a year, but insights gained from reading can last a lifetime—and it costs less too. Here are books you could add to your reading list, if you want to teach yourself something new this year.
 
-[![b4f512af7c92305f07fc877d7bcfbe32_MD5](/img/b4f512af7c92305f07fc877d7bcfbe32_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-1-tem1357_theedgemarkets.jpg)
+[![b4f512af7c92305f07fc877d7bcfbe32_MD5](/media/b4f512af7c92305f07fc877d7bcfbe32_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-1-tem1357_theedgemarkets.jpg)
 
 ### 1 _Barking Up the Wrong Tree_ by Eric Barker
 
@@ -26,7 +26,7 @@ Should entrepreneurs and would-be entrepreneurs be diligent and hardworking befo
 
 As the book’s subtitle suggests, you will learn the surprising science behind why everything we know about success is mostly wrong, and what separates extremely successful people from the rest of us.
 
-[![3a0a6aea665243629c28243dbf5d1855_MD5](/img/3a0a6aea665243629c28243dbf5d1855_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-2-tem1357_theedgemarkets.jpg)
+[![3a0a6aea665243629c28243dbf5d1855_MD5](/media/3a0a6aea665243629c28243dbf5d1855_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-2-tem1357_theedgemarkets.jpg)
 
 ### 2 _Think Like a Freak_ by Steven D Levitt and Stephen J Dubner
 
@@ -36,7 +36,7 @@ Creative professionals are not the only ones capable of hitting a creative block
 
 From the creators of the popular podcast Freakonomics, this book explores ways to view problems under a different light, to ask different questions and, most importantly, why it is okay to say the magic words “I don’t know” and what to do about it.
 
-[![8e0d6c1ac7103c15628f404dc70cd234_MD5](/img/8e0d6c1ac7103c15628f404dc70cd234_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-3-tem1357_theedgemarkets.jpg)
+[![8e0d6c1ac7103c15628f404dc70cd234_MD5](/media/8e0d6c1ac7103c15628f404dc70cd234_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-3-tem1357_theedgemarkets.jpg)
 
 ### 3 _Relationships_ By The School of Life
 
@@ -48,7 +48,7 @@ Many of us assume that we are born knowing how to love and that managing a relat
 
 Starting a relationship with someone is difficult enough, but maintaining it is where one proves one’s mettle. For those struggling to cope with their partners in their everyday lives, especially those stuck indoors with them because of the pandemic (and because it was just Valentine’s Day and you may want to extend the celebration), this is a short, easy-to-read book to reflect on your own circumstances and bring more clarity into your relationships.
 
-[![fb94a92ea50ee44497c1d311c8cf49da_MD5](/img/fb94a92ea50ee44497c1d311c8cf49da_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-4-tem1357_theedgemarkets.jpg)
+[![fb94a92ea50ee44497c1d311c8cf49da_MD5](/media/fb94a92ea50ee44497c1d311c8cf49da_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-book-4-tem1357_theedgemarkets.jpg)
 
 ### 4 _Getting To Yes: Negotiating Agreement without Giving in_ by Roger Fisher and William Ury
 

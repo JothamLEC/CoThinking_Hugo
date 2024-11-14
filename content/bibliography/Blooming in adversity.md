@@ -36,7 +36,7 @@ Reza adds that many F&B retailers took the opportunity to upgrade their POS syst
 
 Although the MCO has been good for business, Slurp has not been able to escape the negative economic impact of the pandemic entirely. Reza explains that the company offered customers a free three-month cloud subscription service during the MCO period, which made a large dent in its finances.
 
-[![577b90ccf71284740fc8095ad473228c_MD5](/img/577b90ccf71284740fc8095ad473228c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE-14-start-uptem1324_theedgemarkets.jpg)
+[![577b90ccf71284740fc8095ad473228c_MD5](/media/577b90ccf71284740fc8095ad473228c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE-14-start-uptem1324_theedgemarkets.jpg)
 
 It also provided many services for free, such as loyalty programmes and food delivery management, to help customers remain competitive. However, the move has paid off as its subscription renewal rate is now the highest ever recorded.
 

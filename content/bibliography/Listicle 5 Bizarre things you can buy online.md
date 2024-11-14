@@ -14,7 +14,7 @@ This article first appeared in Digital Edge, The Edge Malaysia Weekly on May 31,
 
 We are now lockdown veterans and many of us reach for our trusty laptop or phone to order just about everything we want online. Some may have developed a taste for the more esoteric items in the wilderness of e-commerce platforms. Here are a few of the stranger things that Digital Edge has managed to unearth.
 
-[![9d08977922d79958fed0f7bf59a06567_MD5](/img/9d08977922d79958fed0f7bf59a06567_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Fried-chicken-tem1372_theedgemarkets.jpg)
+[![9d08977922d79958fed0f7bf59a06567_MD5](/media/9d08977922d79958fed0f7bf59a06567_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Fried-chicken-tem1372_theedgemarkets.jpg)
 
 ### 1 Fried Chicken Phone case
 
@@ -24,7 +24,7 @@ The chicken is made of durable soft silicone and is embedded into the phone case
 
 **_https://bit.ly/32O7Tzu_**
 
-[![5ec734d317e816f838f0b77ed40740e3_MD5](/img/5ec734d317e816f838f0b77ed40740e3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Squeeze-toy-tem1372_theedgemarkets.jpg)
+[![5ec734d317e816f838f0b77ed40740e3_MD5](/media/5ec734d317e816f838f0b77ed40740e3_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Squeeze-toy-tem1372_theedgemarkets.jpg)
 
 ### 2 Squeeze Acne toy/pimple Popper
 
@@ -36,7 +36,7 @@ Some horrified readers may wince at the idea of popping zits for fun. Still, thi
 
 **_https://bit.ly/32NgiDb_**
 
-[![b8f86772fc57f49ba2db01eef5c1b92d_MD5](/img/b8f86772fc57f49ba2db01eef5c1b92d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Bluetooth-gloves-tem1372_theedgemarkets.jpg)
+[![b8f86772fc57f49ba2db01eef5c1b92d_MD5](/media/b8f86772fc57f49ba2db01eef5c1b92d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Bluetooth-gloves-tem1372_theedgemarkets.jpg)
 
 ### 3 Bluetooth Gloves
 
@@ -48,7 +48,7 @@ It may seem gimmicky, but the technology that goes into this glove is pretty hea
 
 **_https://bit.ly/3vwVjB9_**
 
-[![ddce1d2f2d08ba590729fe24e7233dbc_MD5](/img/ddce1d2f2d08ba590729fe24e7233dbc_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-toilet-light-tem1372_theedgemarkets.jpg)
+[![ddce1d2f2d08ba590729fe24e7233dbc_MD5](/media/ddce1d2f2d08ba590729fe24e7233dbc_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-toilet-light-tem1372_theedgemarkets.jpg)
 
 ### 4 Toilet Night light
 
@@ -60,7 +60,7 @@ The light is in the bowl. Which means you can see where you are going, what you 
 
 **_https://bit.ly/3sPyYgb_**
 
-[![ed6b8bee0580998e70300631171f3e6c_MD5](/img/ed6b8bee0580998e70300631171f3e6c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Enter-tem1372_theedgemarkets.jpg)
+[![ed6b8bee0580998e70300631171f3e6c_MD5](/media/ed6b8bee0580998e70300631171f3e6c_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE12-Enter-tem1372_theedgemarkets.jpg)
 
 ### 5 ‘Enter’ Key Pillow
 

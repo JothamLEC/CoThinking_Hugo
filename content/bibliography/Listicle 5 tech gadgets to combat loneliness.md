@@ -14,7 +14,7 @@ This article first appeared in Digital Edge, The Edge Malaysia Weekly on Novembe
 
 Recent studies have shown that the Covid-19 pandemic has had an adverse impact on mental health, and created new challenges for people already suffering from mental illnesses. Stress and isolation have led to eating disorders, difficulty in sleeping and an increase in alcohol consumption and substance abuse. Thankfully, there are tech gadgets that can alleviate some of the loneliness, and add life and movement to the home.
 
-[![06586003e23797c1978c274961df48c1_MD5](/img/06586003e23797c1978c274961df48c1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Hexa-Robot-Planter-tem1347_theedgemarkets.jpg)
+[![06586003e23797c1978c274961df48c1_MD5](/media/06586003e23797c1978c274961df48c1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Hexa-Robot-Planter-tem1347_theedgemarkets.jpg)
 
 ## 1 Hexa Robot Planter
 
@@ -26,7 +26,7 @@ Using its six nimble legs, the Hexa can move in any direction and around objects
 
 https://www.vincross.com/en/hexa
 
-[![67b8a1fd877ef4b09403a39956b3d9b0_MD5](/img/67b8a1fd877ef4b09403a39956b3d9b0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Bond-Touch-Bracelet-tem1347_theedgemarkets.jpg)
+[![67b8a1fd877ef4b09403a39956b3d9b0_MD5](/media/67b8a1fd877ef4b09403a39956b3d9b0_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Bond-Touch-Bracelet-tem1347_theedgemarkets.jpg)
 
 ## 2 Bond Touch Bracelet
 
@@ -38,7 +38,7 @@ The bracelet is waterproof for up to one metre underwater and has a battery life
 
 https://www.bond-touch.com/
 
-[![cb9d810e5132b08520f1756d6e628c4d_MD5](/img/cb9d810e5132b08520f1756d6e628c4d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-HB-ring-tem1347_theedgemarkets.jpg)
+[![cb9d810e5132b08520f1756d6e628c4d_MD5](/media/cb9d810e5132b08520f1756d6e628c4d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-HB-ring-tem1347_theedgemarkets.jpg)
 
 ## 3 HB Ring
 
@@ -48,7 +48,7 @@ If the HB ring is taken off and the real-time heartbeat is unavailable, it will 
 
 https://thetouchx.com/index.html
 
-[![95e30389d2cd5f4af24891b80d975eb9_MD5](/img/95e30389d2cd5f4af24891b80d975eb9_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Friendship-Lamp-tem1347_theedgemarkets.jpg)
+[![95e30389d2cd5f4af24891b80d975eb9_MD5](/media/95e30389d2cd5f4af24891b80d975eb9_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Friendship-Lamp-tem1347_theedgemarkets.jpg)
 
 ## 4 Friendship Lamp
 
@@ -56,7 +56,7 @@ Although simple in concept, the Friendship Lamp can change the way friends and c
 
 https://www.friendlamps.com/
 
-[![31134ad48636baa08818dc0404c89f50_MD5](/img/31134ad48636baa08818dc0404c89f50_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Spherot-tem1347_theedgemarkets.jpg)
+[![31134ad48636baa08818dc0404c89f50_MD5](/media/31134ad48636baa08818dc0404c89f50_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Spherot-tem1347_theedgemarkets.jpg)
 
 ## 5 Robotic Pets
 
@@ -64,7 +64,7 @@ Do not let their plastic and metal exteriors fool you. Robotic technology has pr
 
 Some pets, such as Sony’s Aibo robot dog, are built to replicate a live pet’s movements and behaviour. Aibo’s expressions and array of movements can be surprisingly lifelike, offering the warmth and companionship needed without the baggage associated with being a pet owner, such as feeding and cleaning up after them.
 
-[![6cdead538cd7dcfca2facbafe832a624_MD5](/img/6cdead538cd7dcfca2facbafe832a624_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Robot-dog-tem1347_theedgemarkets.jpg)
+[![6cdead538cd7dcfca2facbafe832a624_MD5](/media/6cdead538cd7dcfca2facbafe832a624_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE2-Robot-dog-tem1347_theedgemarkets.jpg)
 
 Others, such as Sphero’s BB-8 droid, have embraced their robotic identity and are modelled after the actual BB-8 droid seen in the Disney Star Wars films. It may not have Aibo’s advanced features and artificial intelligence, but having a ball of cuteness patrolling your home on autopilot adds a lot of movement to the static atmosphere of those who live alone.
 

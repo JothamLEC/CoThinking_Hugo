@@ -31,7 +31,7 @@ As organisations rush to adopt new software, workflows and subscriptions, the em
 
 “A Frankenstein monster is where you put different pieces together bit by bit. You start by working on one part and move on to the next. At the end of the day, you end up with a body you barely recognise yourself,” Sandeep explains, alluding to the disjointed state in which many companies find themselves.
 
-[![11ef8ead5a8dd39d98185c8661c06d33_MD5](/img/11ef8ead5a8dd39d98185c8661c06d33_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-graphic-tem1392_theedgemarkets.jpg)
+[![11ef8ead5a8dd39d98185c8661c06d33_MD5](/media/11ef8ead5a8dd39d98185c8661c06d33_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE5-graphic-tem1392_theedgemarkets.jpg)
 
 ### Dangers of the Status Quo
 

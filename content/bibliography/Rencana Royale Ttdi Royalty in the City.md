@@ -7,11 +7,11 @@ categories: [article]
 
 By: Jotham Lim
 
-![f886cb0f52beec6f9b9f54a715914cbb_MD5](/img/f886cb0f52beec6f9b9f54a715914cbb_MD5.jpg)
+![f886cb0f52beec6f9b9f54a715914cbb_MD5](/media/f886cb0f52beec6f9b9f54a715914cbb_MD5.jpg)
 
 “Land is finite.“
 
-![52c8e00491d0baaf661f08a7b6b14628_MD5](/img/52c8e00491d0baaf661f08a7b6b14628_MD5.jpg)
+![52c8e00491d0baaf661f08a7b6b14628_MD5](/media/52c8e00491d0baaf661f08a7b6b14628_MD5.jpg)
 
 That fact alone is what makes real estate such a powerful investment tool, driving up prices year after year. It is a basic human need to have a roof above our heads, a basic necessity to be exact. Hence, why real estate is a tried and proven asset to safeguard your nett worth, while generating passive income.
 
@@ -29,7 +29,7 @@ For those who are commuting to and from Kuala Lumpur or Petaling Jaya,
 
 owners would be glad to know that access to public transport would be a breeze, thanks to the nearby TTDI MRT station.
 
-![409932c33107a21502a7693aadb26dc7_MD5](/img/409932c33107a21502a7693aadb26dc7_MD5.jpg)
+![409932c33107a21502a7693aadb26dc7_MD5](/media/409932c33107a21502a7693aadb26dc7_MD5.jpg)
 
 A QUICK LOOK ON THE INSIDE The external facts do look great on paper, but the fine details of the interior of the project are what attracts both investors and would-be buyers. This is where Rencana Royale truly shines.
 
@@ -37,7 +37,7 @@ Rencana Royale features both Executive Suite and Deluxe Suite options, both come
 
 But I would like to bring more attention
 
-![329d1d9acdda734952853b945833aa77_MD5](/img/329d1d9acdda734952853b945833aa77_MD5.jpg)
+![329d1d9acdda734952853b945833aa77_MD5](/media/329d1d9acdda734952853b945833aa77_MD5.jpg)
 
 to the three-storey Sky Suites that do provide several options that are unique in this marketplace. With only 16 units total available, these suites are essentially threestoreyed properties perched on rooftops.
 
@@ -47,11 +47,11 @@ Each unit features its own garden area, spacious balcony and an expansive, multi
 
 Speaking of which, this unit is perfect for wealthy individuals, or more specifically, busy businessmen who commute outstation often. The safety of these Sky Suites is comparable, if not more secure, than landed bungalows due to the inaccessibility of not being on the ground floor, and the extended layers of security. Owners can rest assure that the unit’s occupants are in safer hands while they are away.
 
-![921b8a0cb58e205c6e301c4ea7902e85_MD5](/img/921b8a0cb58e205c6e301c4ea7902e85_MD5.jpg)
+![921b8a0cb58e205c6e301c4ea7902e85_MD5](/media/921b8a0cb58e205c6e301c4ea7902e85_MD5.jpg)
 
 ## WHAT ABOUT THE FACILITIES?
 
-![7582a9092cdeab2e40a24b0e086d1e9a_MD5](/img/7582a9092cdeab2e40a24b0e086d1e9a_MD5.jpg)
+![7582a9092cdeab2e40a24b0e086d1e9a_MD5](/media/7582a9092cdeab2e40a24b0e086d1e9a_MD5.jpg)
 
 The exterior of this project certainly doesn’t disappoint. Rencana Royale is outfitted with two facility floors, boasting an infinity sky pool, swimming pool and jacuzzi surrounded by a manicured landscape, a cafe, a recreational park and a BBQ area; these facilities are perfect for social and gatherings.
 
@@ -69,11 +69,11 @@ For more info, visit: rencanaroyale.my or call 03-7722 1688.
 
 Intersection of 4 highways: SKVE, SILK, North-South Hwy & Sg Besi Hwy Ready student population of more than 20,000 within 2-3km radius Total population of 70,000 within 10 minutes An MRT station (Uniten Station) to be built on Line 2 nearby Major hotels, 14 universities/colleges and 5 hospitals within 20 minutes Lifestyle mall at De Centrum Located in De Centrum city (100 acres of freehold development)
 
-![0888819713ac650a9eebab9e465dbc3b_MD5](/img/0888819713ac650a9eebab9e465dbc3b_MD5.jpg)
+![0888819713ac650a9eebab9e465dbc3b_MD5](/media/0888819713ac650a9eebab9e465dbc3b_MD5.jpg)
 
-![f9d6f844bb721cacd968cb7ada96e4df_MD5](/img/f9d6f844bb721cacd968cb7ada96e4df_MD5.jpg)
+![f9d6f844bb721cacd968cb7ada96e4df_MD5](/media/f9d6f844bb721cacd968cb7ada96e4df_MD5.jpg)
 
-![c35900ee52432464b46750746fa40c05_MD5](/img/c35900ee52432464b46750746fa40c05_MD5.jpg)
+![c35900ee52432464b46750746fa40c05_MD5](/media/c35900ee52432464b46750746fa40c05_MD5.jpg)
 
 Your neo-urban lifestyle comes with a truly self-contained neighbourhood, where if you so choose to, you won’t need to drive out for almost anything.
 

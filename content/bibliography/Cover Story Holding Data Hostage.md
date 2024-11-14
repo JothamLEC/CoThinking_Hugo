@@ -24,7 +24,7 @@ Local testimonials of ransomware attacks are hard to come by, owing to the lack 
 
 “This was not the scariest part. We found another batch of hackers who had infiltrated the network just recently in January this year. Both groups were doing their separate things, and it was the latter group that launched the ransomware \[attack\].
 
-[![fdaa457e12780c15254d053d41ce9643_MD5](/img/fdaa457e12780c15254d053d41ce9643_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Fong-tem1378_theedgemarkets.jpg)
+[![fdaa457e12780c15254d053d41ce9643_MD5](/media/fdaa457e12780c15254d053d41ce9643_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Fong-tem1378_theedgemarkets.jpg)
 
 “When they launch ransomware attacks, we assume that it is already their last resort because the victim has the option to pay or not to pay.” - Fong
 
@@ -46,7 +46,7 @@ He explains that gaining access to the business’ networks is much more desirab
 
 “It’s also very rare for hackers to successfully hack into a network and launch a ransomware attack right away. They need to conduct lateral movements and identify the valuable targets, because there’s little point infecting only one or two machines.”
 
-[![8eb0ed47a86a9e59f9726eac90132792_MD5](/img/8eb0ed47a86a9e59f9726eac90132792_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-digitionary-tem1378_theedgemarkets.jpg)
+[![8eb0ed47a86a9e59f9726eac90132792_MD5](/media/8eb0ed47a86a9e59f9726eac90132792_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-digitionary-tem1378_theedgemarkets.jpg)
 
 ### No One is Safe
 
@@ -60,7 +60,7 @@ Worst of all, many organisations are confident that they will not be hit by rans
 
 Sophos Malaysia country manager Wong Joon Hoong explains that it is risky to follow this line of thinking. “While trained IT staff will help identify some of the tell-tale signs of ransomware attacks, it would not necessarily protect you,” he says.
 
-[![a1d14a4c62427c9377fd1886dde63f46_MD5](/img/a1d14a4c62427c9377fd1886dde63f46_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Wong-tem1378_theedgemarkets.jpg)
+[![a1d14a4c62427c9377fd1886dde63f46_MD5](/media/a1d14a4c62427c9377fd1886dde63f46_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Wong-tem1378_theedgemarkets.jpg)
 
 “If you do decide to pay, bear in mind that the adversaries will restore, on average, only two-thirds of your files.” - Wong
 
@@ -78,7 +78,7 @@ She further stresses that having backups is still an important aspect in dealing
 
 This issue is further compounded by the fact that many organisations allow employees to use their personal laptops for everyday work instead of a company-issued laptop with the necessary protection software installed. This exposes the organisation to even more threats, one that backups alone may not be able to resolve.
 
-[![3a606c0a57fb3800d19aad4e5d54c7d1_MD5](/img/3a606c0a57fb3800d19aad4e5d54c7d1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-table-tem1378_theedgemarkets.jpg)
+[![3a606c0a57fb3800d19aad4e5d54c7d1_MD5](/media/3a606c0a57fb3800d19aad4e5d54c7d1_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-table-tem1378_theedgemarkets.jpg)
 
 Lim advises organisations against paying ransomware hackers, a sentiment shared by Wong and Fong, security experts worldwide and even the US Federal Bureau of Investigation. A common misconception that companies have is that paying the ransom will resolve the issue, and they are able to get all of their data back, says Sophos’ Wong.
 
@@ -98,7 +98,7 @@ Minder has served as a conduit between victims and ransomware operators, a role 
 
 His frequent brushes with high-stake situations gave him a better understanding of the people behind these ransomware attacks. He learnt that many ransomware groups are highly structured organisations operating in Russia and Russian-influenced Eastern European states. He says these organisations have processes and reporting structures similar to that of a legitimate business.
 
-[![d5c076f2962e0fa153143a4dd7817c6d_MD5](/img/d5c076f2962e0fa153143a4dd7817c6d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Minder-tem1378_theedgemarkets.jpg)
+[![d5c076f2962e0fa153143a4dd7817c6d_MD5](/media/d5c076f2962e0fa153143a4dd7817c6d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Minder-tem1378_theedgemarkets.jpg)
 
 “Most of the threat actors have some autonomy and amnesty from the state in which they reside. This emboldens and protects them from accountability.” - Minder
 
@@ -154,7 +154,7 @@ Once attacked, victims generally pay ransomware operators a hefty sum to decrypt
 
 This could result in a practice known as double extortion, where the operators coerce the victim to pay an additional ransom not to have the data leaked. There are currently at least 16 ransomware variants that adopt such a practice, according to “The Ransomware Threat Report 2021” by Palo Alto Networks.
 
-[![c61ce4d42c7dc88027746003a7d06baa_MD5](/img/c61ce4d42c7dc88027746003a7d06baa_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Lim-tem1378_theedgemarkets.jpg)
+[![c61ce4d42c7dc88027746003a7d06baa_MD5](/media/c61ce4d42c7dc88027746003a7d06baa_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Lim-tem1378_theedgemarkets.jpg)
 
 “Besides the financial strain of paying double the ransom, it is also the fact that the data itself will be exposed if it is not being paid for.” - Lim
 
@@ -208,7 +208,7 @@ Users need only to use the Crypto Sheriff tool on the site to identify the ranso
 
 “This is how we are able to find out how the hackers generated the keys and how they had encrypted the data. By breaking down the process, we can come up with solutions for it. That is what the No More Ransom Project is about.”
 
-[![2531c09ea5d3cbe83450162c3815dccf_MD5](/img/2531c09ea5d3cbe83450162c3815dccf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Rajoo-tem1378_theedgemarkets.jpg)
+[![2531c09ea5d3cbe83450162c3815dccf_MD5](/media/2531c09ea5d3cbe83450162c3815dccf_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Rajoo-tem1378_theedgemarkets.jpg)
 
 “A good step in the direction we are seeing is companies mandating that the board of directors have someone with actual cyber experience, and not just from a financial or business background.” - Rajoo
 
@@ -220,7 +220,7 @@ Listing the considerations that need to be addressed beforehand, Rajoo says: “
 
 We also need this level of awareness at the board level. A good step in the direction we are seeing is companies mandating that the board of directors have someone with actual cyber experience, and not just from a financial or business background.”
 
-[![91211dae071a7305274d604f32c2579a_MD5](/img/91211dae071a7305274d604f32c2579a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Suni-tem1378_theedgemarkets.jpg)
+[![91211dae071a7305274d604f32c2579a_MD5](/media/91211dae071a7305274d604f32c2579a_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE6-CS-Suni-tem1378_theedgemarkets.jpg)
 
 “Companies like us are able to help with policies and processes, but data protection is a must. That is non-negotiable.” - Sunil
 

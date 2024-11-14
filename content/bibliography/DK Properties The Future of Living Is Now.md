@@ -27,7 +27,7 @@ Looking at the Kuala Lumpur skyline, I can’t help but wonder, have we actually
 
 Turns out, I am not the only one asking these very same questions. Someone has already taken all these questions into consideration and has actually taken action to solve it. Thankfully, this man just so happens to be a property developer as well.
 
-![8b795d0d7d2958528bde8465c905370e_MD5](/img/8b795d0d7d2958528bde8465c905370e_MD5.jpg)
+![8b795d0d7d2958528bde8465c905370e_MD5](/media/8b795d0d7d2958528bde8465c905370e_MD5.jpg)
 
 THE CHANGE “We have included many SMART Technologies in our latest project at The Suite on Jalan Ampang. Let’s talk about IoT (Internet of Things); Let’s talk about automation. This is going to be a huge industry in the future. We want to futureproof our projects and keep up with the times. We position ourselves as a boutique developer, introducing AvantGarde projects into the market.”
 
@@ -49,7 +49,7 @@ DK Group was formerly listed on the main board on Bursa Malaysia in 2004. Howeve
 
 DK-MY was founded around that period of time, making them relatively new to the property development scene. Many affluent investors and homebuyers may have already heard of the boutique developer, as they have recently made a name for themselves from nabbing several properties awards. Some of which include Property Insight’s Prestigious Deverlevoper Awards (PIPDA) 2019’s Best Efficient Design Development and Best Hybrid Development award.
 
-![0e7cfc968c8b13119a02f269967b4d35_MD5](/img/0e7cfc968c8b13119a02f269967b4d35_MD5.jpg)
+![0e7cfc968c8b13119a02f269967b4d35_MD5](/media/0e7cfc968c8b13119a02f269967b4d35_MD5.jpg)
 
 With this sudden spike in attention, DKMY needed to make a bold statement. The timely introduction of The Suite, D’ Immersione and DK Impian is the perfect way to cement their position in the property market as a boutique developer catering to a niche and dedicated audience.
 
@@ -57,7 +57,7 @@ THE STANCE The Malaysian property market has known to be stagnating in recent ye
 
 In Q1 2019, there are about 33,000 overhang units all across Malaysia, and a total of about 52,000 property transactions, only 5.7 per cent of the 914,000 of the property projects planned in the pipeline.
 
-![bc4cfa6c558db2fc99093d3cfe0f46e4_MD5](/img/bc4cfa6c558db2fc99093d3cfe0f46e4_MD5.jpg)
+![bc4cfa6c558db2fc99093d3cfe0f46e4_MD5](/media/bc4cfa6c558db2fc99093d3cfe0f46e4_MD5.jpg)
 
 DK-MY Properties seemed unfazed by the cooling market, currently having three projects open for registration, including The Suite, and plenty more in the pipeline. Some call it daring, some call it foolish. But here is what Danny has to say:
 
@@ -85,7 +85,7 @@ It also makes growth transition simple and straightforward. Instead of being tie
 
 Depending on the scale of your business and rate of growth.Co-working is known to open up the doors to collaboration and conversations. So why stop at coworking space? If people can cultivate stable relationships through working together, imagine living together in the same building. Conducting and scheduling meetings is so much easier, and your potential business partner could be just a few doors away.
 
-![d4c831972c68de752ce428b392ee4ff8_MD5](/img/d4c831972c68de752ce428b392ee4ff8_MD5.jpg)
+![d4c831972c68de752ce428b392ee4ff8_MD5](/media/d4c831972c68de752ce428b392ee4ff8_MD5.jpg)
 
 We want to go beyond just business and work. If you are abe to share business ideas, why not cooking recipes? Education? Maybe talk about politics or sports in the lounge? We want to form an active community. With our target demographic and our product offerings,
 
@@ -103,9 +103,9 @@ These talks on ideals are inspiring, but it is always bundled with questions on 
 
 With most co-working spaces facing cashflow issues, how is DK-MY going to overcome this issue?
 
-![c78790f08d8b066b474c722dc33a6963_MD5](/img/c78790f08d8b066b474c722dc33a6963_MD5.jpg)
+![c78790f08d8b066b474c722dc33a6963_MD5](/media/c78790f08d8b066b474c722dc33a6963_MD5.jpg)
 
-![99cb81f245736ad232aa03515edfde79_MD5](/img/99cb81f245736ad232aa03515edfde79_MD5.jpg)
+![99cb81f245736ad232aa03515edfde79_MD5](/media/99cb81f245736ad232aa03515edfde79_MD5.jpg)
 
 “We are not just the co-working space operators, but developers, service providers, landlords all combined into one. We have a strong financial foundation and decades of track record. Common issues for standard co-working spaces, such as striking deals with landlords, are irrelevant to us. We are
 
@@ -121,7 +121,7 @@ lifestyle facilities. You eliminate the need to travel, essentially avoiding tra
 
 THE CONCLUSION that The Suite is an ambitious project that has introduced many new fresh ideas into the property marketplace. I am albeit Even Danny himself had admitted that the property market is stagnating, and he foresees the market heating up several years down the road. However, in Danny’s mind, it might be the best of times to introduce this project, especially with this marketplace.
 
-![07dbddbb32fc16a267c42ab6906a9c26_MD5](/img/07dbddbb32fc16a267c42ab6906a9c26_MD5.jpg)
+![07dbddbb32fc16a267c42ab6906a9c26_MD5](/media/07dbddbb32fc16a267c42ab6906a9c26_MD5.jpg)
 
 ## WHAT IS SAMA?
 

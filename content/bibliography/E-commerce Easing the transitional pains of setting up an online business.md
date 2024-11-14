@@ -22,7 +22,7 @@ This observation is shared by LamboPlace group CEO Datuk Jason Yap. Many small a
 
 “From what I’ve seen, the majority of struggling SMEs are stuck; a lack of talent being the No 1 issue. You might have five staff members running a store, managing the inventory and books and, all of a sudden, they now have to learn how to sell their products online because of Covid-19. This is a big challenge for many of them,” Yap explains.
 
-[![4554800fc31856deffb974be3fce9518_MD5](/img/4554800fc31856deffb974be3fce9518_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-business-tem1353_theedgemarkets.jpg)
+[![4554800fc31856deffb974be3fce9518_MD5](/media/4554800fc31856deffb974be3fce9518_MD5.jpg)](https://assets.theedgemarkets.com/pictures/DE11-business-tem1353_theedgemarkets.jpg)
 
 He says many small businesses have the misconception that setting up an online business is an immediate, one-time process, but it is actually only the first step. In reality, growing and maintaining the online business is a long and arduous process. It may include aspects such as re-evaluating store prices on an ongoing basis, restructuring different assortments of product combinations, having customer service for refunding and delivery matters, and continually updating the graphics and writing content for the listing platform.
 

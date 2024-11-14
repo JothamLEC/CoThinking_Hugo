@@ -28,7 +28,7 @@ It further explains that concerted expansionary policy measures and asset purcha
 
 In general, gold generated a gain of 17% in the first half of the year, even after factoring in the sharp retracement witnessed in March, when many investors were forced to sell their holdings for liquidity, according to the report. “The gold price against the US dollar rose to its highest in the past eight years, even reaching record highs in some currencies, and has attracted momentum-driven inflows on the back of these gains, which in turn contributed to the continued price strength. Momentum is one of the key tactical drivers that help explain gold’s recent performance, and has been supportive of the high investment demand in 2020 to date,” it says.
 
-[![fc5557c0280728f519e284957d084f6d_MD5](/img/fc5557c0280728f519e284957d084f6d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW-3_TEM1331_theedgemarkets.jpg)
+[![fc5557c0280728f519e284957d084f6d_MD5](/media/fc5557c0280728f519e284957d084f6d_MD5.jpg)](https://assets.theedgemarkets.com/pictures/PW-3_TEM1331_theedgemarkets.jpg)
 
 Although all regions saw consistent monthly inflows throughout 2Q2020, North American-listed funds were by far the largest beneficiaries, attracting more than 75% of the global volume inflows.
 
